@@ -8,7 +8,7 @@
     <link rel="icon" type="image/x-icon"
         href="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" />
     <link rel="apple-touch-icon" href="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">
-    <link rel="canonical" href="https://johortoto-slot.com/">
+    <link rel="canonical" href="https://melbetr.org/">
     <link rel="amphtml" href="https://johortoto-f2g.pages.dev/productgallery/amp" />
     <link as='image' href='https://johortoto-f2g.pages.dev/banner/1eb2d8f9-b197-4df4-b61f-fc7e31cc6563.png' rel='preload'>
     <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
@@ -16,7 +16,7 @@
     <link crossorigin href='https://www.googletagmanager.com' rel='preconnect'>
     <link crossorigin href='https://www.gstatic.com' rel='preconnect'>
     <link crossorigin href='https://connect.facebook.net' rel='preconnect'>
-    <link rel="alternate" href="https://johortoto-slot.com/" media="only screen and (max-width: 640px)">
+    <link rel="alternate" href="https://melbetr.org/" media="only screen and (max-width: 640px)">
 <link rel="alternate" href="https://johortoto-f2g.pages.dev/productgallery/amp"> 
 <link rel="alternate" href="https://johortoto-f2g.pages.dev/productgallery/amp" hreflang="id">
 <link rel="alternate" href="https://johortoto-f2g.pages.dev/productgallery/amp" hreflang="en">
@@ -18759,7 +18759,7 @@
     <meta property="og:price:amount" content="500.00">
     <meta property="og:price:currency" content="USD">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://johortoto-slot.com/">
+    <meta property="og:url" content="https://melbetr.org/">
     <meta property="og:image" content="https://johortoto-f2g.pages.dev/banner/1eb2d8f9-b197-4df4-b61f-fc7e31cc6563.png">
     <meta property="og:site_name" content="JOHORTOTO">
     <meta property="product:price:amount" content="500.00">
@@ -18779,7 +18779,7 @@
             "request__controller": "product_pages",
             "request__action": "show",
             "request__domain": "teepublic.com",
-            "request__base_url": "https://johortoto-slot.com/",
+            "request__base_url": "https://melbetr.org/",
             "request__ab_tests": {
                 "con-3051-pasf": "default"
             },
@@ -18800,7 +18800,7 @@
             "design__variant_id": "19G79A8C",
             "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}",
             "design__mock_image": "https://johortoto-f2g.pages.dev/banner/1eb2d8f9-b197-4df4-b61f-fc7e31cc6563.png",
-            "design__url": "https://johortoto-slot.com/",
+            "design__url": "https://melbetr.org/",
             "design__canvas": "JOHORTOTO",
             "design__canvas_canonical_name": "JOHORTOTO",
             "design__design_title": "JOHORTOTO sebagai tempat slot gacor maxwin dan agen resmi toto macau 4d dengan bonus rollingan tanpa batas.",
@@ -18909,7 +18909,7 @@
   "name": "JOHORTOTO | Slot Gacor x Toto Macau 4D Terfavorit 2026, Platform Hiburan Online Pilihan Banyak Pengguna",
   "description": "JOHORTOTO sebagai tempat slot gacor maxwin dan agen resmi toto macau 4d dengan bonus rollingan tanpa batas.",
   "category": "TOGEL 4D",
-  "url": "https://johortoto-slot.com/",
+  "url": "https://melbetr.org/",
   "sku": "AGEN-TOTO",
   "image": {
     "@type": "ImageObject",
@@ -18940,49 +18940,49 @@
       "@type": "ListItem",
       "position": 1,
       "name": "JOHORTOTO",
-      "item": "https://johortoto-slot.com/"
+      "item": "https://melbetr.org/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "JOHORTOTO",
-      "item": "https://johortoto-slot.com/"
+      "item": "https://melbetr.org/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "JOHORTOTO TOGEL",
-      "item": "https://johortoto-slot.com/"
+      "item": "https://melbetr.org/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "TOTO",
-      "item": "https://johortoto-slot.com/"
+      "item": "https://melbetr.org/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "TOGEL",
-      "item": "https://johortoto-slot.com/"
+      "item": "https://melbetr.org/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "AGEN TOTO",
-      "item": "https://johortoto-slot.com/"
+      "item": "https://melbetr.org/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "TOTO TOGEL",
-      "item": "https://johortoto-slot.com/"
+      "item": "https://melbetr.org/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "TOGEL 4D",
-      "item": "https://johortoto-slot.com/"
+      "item": "https://melbetr.org/"
     }
   ]
 }
@@ -18993,7 +18993,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "JOHORTOTO",
-  "url": "https://johortoto-slot.com/",
+  "url": "https://melbetr.org/",
   "logo": "https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif",
   "sameAs": [
     "https://www.facebook.com/JOHORTOTO",
@@ -19104,14 +19104,14 @@
                         </svg></span>
                     <div class='button__content'>
                         <span class='vc-header__shop-button-text'><a
-                                href="https://johortoto-slot.com/">Shop</a></span>
+                                href="https://melbetr.org/">Shop</a></span>
 
                     </div>
 
                 </button>
             </div>
             <div class="vc-header-logo">
-                <a aria-label="Home Link" title="Home" href="https://johortoto-slot.com/"
+                <a aria-label="Home Link" title="Home" href="https://melbetr.org/"
                     class="link vc-header-logo__wrapper link--1 link--default">
                     <span class='link__content'>
                         <picture>
@@ -19136,7 +19136,7 @@
                 <div class='m-header__search m-header__search--animate jsHeadSearch inactive'
                     data-navigation--header-target='searchFieldWrapper' data-sticky-header-target='searchRow'>
                     <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group"
-                        action="https://johortoto-slot.com/" accept-charset="UTF-8"
+                        action="https://melbetr.org/" accept-charset="UTF-8"
                         method="post">
                         <input type="hidden" name="_method" value="patch" autocomplete="off" />
                         <input type="hidden" name="authenticity_token"
@@ -19212,7 +19212,7 @@
             </div>
             <div class='vc-header__actions-container'>
                 <div class='vc-header__account'>
-                    <a href="https://johortoto-slot.com/"> <button type="button"
+                    <a href="https://melbetr.org/"> <button type="button"
                             class="btn vc-header__account-button btn--no-space tp-btn--medium btn--no-background"
                             data-rudderstack-event-type="cta"
                             data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray"
@@ -19232,7 +19232,7 @@
                         </button></a>
                 </div>
                 <div class='vc-header__cart'>
-                    <a href="https://johortoto-slot.com/"><button type="button"
+                    <a href="https://melbetr.org/"><button type="button"
                             class="btn vc-header__cart-button btn--no-space tp-btn--medium btn--no-background"
                             data-rudderstack-event-type="cta"
                             data-action="rudderstack--link-clicked#track navigation--tray-trigger#lazyloadCartTray"
@@ -19261,7 +19261,7 @@
                     <a data-rudderstack-event-type="cta"
                         data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray"
                         data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link"
-                        href="https://johortoto-slot.com/"
+                        href="https://melbetr.org/"
                         class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
                         <span class='link__content'>
                             BUAT AKUN
@@ -19303,7 +19303,7 @@
                     <div class='m-explore-nav__tab-content'>
                         <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
                             data-link-label="Shop All Designs" data-href="/t-shirts"
-                            href="https://johortoto-slot.com/"
+                            href="https://melbetr.org/"
                             class="link m-explore-nav__cta link--1 link--default">
                             <span class='link__content'>
                                 Shop All Designs
@@ -19312,8 +19312,8 @@
                         </a>
                         <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
                             data-link-label="Halloween"
-                            data-href="https://johortoto-slot.com/"
-                            title="Halloween T-Shirts" href="https://johortoto-slot.com/"
+                            data-href="https://melbetr.org/"
+                            title="Halloween T-Shirts" href="https://melbetr.org/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992"
@@ -19323,8 +19323,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music"
-                            data-href="https://johortoto-slot.com/" title="Music T-Shirts"
-                            href="https://johortoto-slot.com/"
+                            data-href="https://melbetr.org/" title="Music T-Shirts"
+                            href="https://melbetr.org/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992"
@@ -19334,8 +19334,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports"
-                            data-href="https://johortoto-slot.com/" title="Sport T-Shirts"
-                            href="https://johortoto-slot.com/"
+                            data-href="https://melbetr.org/" title="Sport T-Shirts"
+                            href="https://melbetr.org/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992"
@@ -19347,8 +19347,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies"
-                            data-href="https://johortoto-slot.com/" title="Movie T-Shirts"
-                            href="https://johortoto-slot.com/"
+                            data-href="https://melbetr.org/" title="Movie T-Shirts"
+                            href="https://melbetr.org/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992"
@@ -19360,8 +19360,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage"
-                            data-href="https://johortoto-slot.com/" title="Vintage T-Shirts"
-                            href="https://johortoto-slot.com/"
+                            data-href="https://melbetr.org/" title="Vintage T-Shirts"
+                            href="https://melbetr.org/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992"
@@ -19372,8 +19372,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals"
-                            data-href="https://johortoto-slot.com/" title="Animal T-Shirts"
-                            href="https://johortoto-slot.com/"
+                            data-href="https://melbetr.org/" title="Animal T-Shirts"
+                            href="https://melbetr.org/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992"
@@ -19384,8 +19384,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television"
-                            data-href="https://johortoto-slot.com/"
-                            title="Television T-Shirts" href="https://johortoto-slot.com/"
+                            data-href="https://melbetr.org/"
+                            title="Television T-Shirts" href="https://melbetr.org/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992"
@@ -19396,8 +19396,8 @@
                             </span>
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny"
-                            data-href="https://johortoto-slot.com/" title="Funny T-Shirts"
-                            href="https://johortoto-slot.com/"
+                            data-href="https://melbetr.org/" title="Funny T-Shirts"
+                            href="https://melbetr.org/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992"
@@ -19582,7 +19582,7 @@
                                                 <div class='m-product-preview__thumbs jsProductPreviewThumbs jsProductImgGlideCtrls'
                                                     data-glide-el='controls'>
                                                     <a data-id="0 "
-                                                        href="https://johortoto-slot.com/"
+                                                        href="https://melbetr.org/"
                                                         class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on ">
                                                         <span class='link__content'>
                                                             <picture
@@ -19597,7 +19597,7 @@
                                                         </span>
 
                                                     </a><a data-id="1 "
-                                                        href="https://johortoto-slot.com/"
+                                                        href="https://melbetr.org/"
                                                         class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl ">
                                                         <span class='link__content'>
                                                             <picture
@@ -19927,15 +19927,15 @@
             <h1 style="text-align: center; color: #13f839;">JOHORTOTO | Slot Gacor x Toto Macau 4D Terfavorit 2026, Platform Hiburan Online Pilihan Banyak Pengguna</h1>
 
             <p style="color: #ffffff; text-align: justify; margin: 15px; font-size: 18px;">
-                <a href="https://johortoto-slot.com/" style="color: blue;">JOHORTOTO</a> dikenal sebagai agen toto togel 4D terbesar yang menghadirkan berbagai pilihan pasaran populer internasional dalam satu platform yang lengkap. Kehadiran beragam pasaran favorit memberikan keleluasaan bagi pemain untuk menikmati permainan angka sesuai preferensi masing-masing tanpa harus berpindah ke berbagai tempat. Dengan pilihan yang terus berkembang dan banyak diminati oleh pemain aktif, JOHORTOTO berhasil menjadi salah satu tujuan utama bagi mereka yang mengutamakan variasi pasaran dalam pengalaman bermain sehari-hari.
+                <a href="https://melbetr.org/" style="color: blue;">JOHORTOTO</a> dikenal sebagai agen toto togel 4D terbesar yang menghadirkan berbagai pilihan pasaran populer internasional dalam satu platform yang lengkap. Kehadiran beragam pasaran favorit memberikan keleluasaan bagi pemain untuk menikmati permainan angka sesuai preferensi masing-masing tanpa harus berpindah ke berbagai tempat. Dengan pilihan yang terus berkembang dan banyak diminati oleh pemain aktif, JOHORTOTO berhasil menjadi salah satu tujuan utama bagi mereka yang mengutamakan variasi pasaran dalam pengalaman bermain sehari-hari.
             </p>
 
             <p style="color: #ffffff; text-align: justify; margin: 15px; font-size: 18px;">
-                Salah satu daya tarik utama JOHORTOTO terletak pada kelengkapan pasaran internasional yang tersedia untuk para penggemar <a href="https://johortoto-slot.com/" style="color: blue;">togel 4D</a> dan update real-time. Berbagai pasaran populer yang telah dikenal luas oleh pemain dapat ditemukan dengan mudah sehingga memberikan lebih banyak alternatif permainan dalam satu akun. Keberagaman pilihan tersebut menjadikan JOHORTOTO semakin menarik bagi pemain yang ingin menikmati berbagai pasaran favorit tanpa batasan pilihan yang sempit. Inilah alasan mengapa banyak pemain menjadikan JOHORTOTO sebagai tempat pilihan untuk menikmati permainan angka yang lebih beragam.
+                Salah satu daya tarik utama JOHORTOTO terletak pada kelengkapan pasaran internasional yang tersedia untuk para penggemar <a href="https://melbetr.org/" style="color: blue;">togel 4D</a> dan update real-time. Berbagai pasaran populer yang telah dikenal luas oleh pemain dapat ditemukan dengan mudah sehingga memberikan lebih banyak alternatif permainan dalam satu akun. Keberagaman pilihan tersebut menjadikan JOHORTOTO semakin menarik bagi pemain yang ingin menikmati berbagai pasaran favorit tanpa batasan pilihan yang sempit. Inilah alasan mengapa banyak pemain menjadikan JOHORTOTO sebagai tempat pilihan untuk menikmati permainan angka yang lebih beragam.
             </p>
             
             <p style="color: #ffffff; text-align: justify; margin: 15px; font-size: 18px;">
-                 Keunggulan lain yang dimiliki JOHORTOTO terletak pada kemampuannya menghadirkan layanan yang lengkap dalam satu tempat. Pemain dapat menemukan berbagai pasaran populer internasional, fitur yang mudah digunakan, serta pengalaman bermain yang lebih praktis melalui satu akun. Dengan dukungan akses yang lancar dan pilihan permainan yang terus diperbarui, JOHORTOTO berhasil menjadi salah satu <a href="https://johortoto-slot.com/" style="color: blue;">agen togel 4D</a> terbesar yang banyak dipilih oleh pemain setiap hari. Tidak heran jika platform ini terus menjadi tujuan bagi mereka yang mencari pasaran internasional lengkap dengan pengalaman bermain yang lebih nyaman dan modern.
+                 Keunggulan lain yang dimiliki JOHORTOTO terletak pada kemampuannya menghadirkan layanan yang lengkap dalam satu tempat. Pemain dapat menemukan berbagai pasaran populer internasional, fitur yang mudah digunakan, serta pengalaman bermain yang lebih praktis melalui satu akun. Dengan dukungan akses yang lancar dan pilihan permainan yang terus diperbarui, JOHORTOTO berhasil menjadi salah satu <a href="https://melbetr.org/" style="color: blue;">agen togel 4D</a> terbesar yang banyak dipilih oleh pemain setiap hari. Tidak heran jika platform ini terus menjadi tujuan bagi mereka yang mencari pasaran internasional lengkap dengan pengalaman bermain yang lebih nyaman dan modern.
             </p>
 
             <style>
@@ -21427,53 +21427,53 @@
                                 <nav class='m-design__additional-info-list'>
                                     <div
                                         class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim ">
-                                        <a href="https://johortoto-slot.com/"
+                                        <a href="https://melbetr.org/"
                                             class="link vc-pill vc-pill--on-light link--default ">
                                             <span class='link__content'>
                                                 JOHORTOTO                                            </span>
 
                                         </a>
-                                        <a href="https://johortoto-slot.com/"
+                                        <a href="https://melbetr.org/"
                                             class="link vc-pill vc-pill--on-light link--default ">
                                             <span class='link__content'>
                                                 JOHORTOTO                                            </span>
 
                                         </a>
-                                        <a href="https://johortoto-slot.com/"
+                                        <a href="https://melbetr.org/"
                                             class="link vc-pill vc-pill--on-light link--default ">
                                             <span class='link__content'>
                                                 JOHORTOTO TOGEL
                                             </span>
 
                                         </a>
-                                        <a href="https://johortoto-slot.com/"
+                                        <a href="https://melbetr.org/"
                                             class="link vc-pill vc-pill--on-light link--default ">
                                             <span class='link__content'>
                                                 TOTO
                                             </span>
 
                                         </a>
-                                        <a href="https://johortoto-slot.com/"
+                                        <a href="https://melbetr.org/"
                                             class="link vc-pill vc-pill--on-light link--default ">
                                             <span class='link__content'>
                                                 TOGEL
                                             </span>
 
                                         </a>
-                                        <a href="https://johortoto-slot.com/"
+                                        <a href="https://melbetr.org/"
                                             class="link vc-pill vc-pill--on-light link--default ">
                                             <span class='link__content'>
                                                 AGEN TOTO
                                             </span>
 
                                         </a>
-                                        <a href="https://johortoto-slot.com/"
+                                        <a href="https://melbetr.org/"
                                             class="link vc-pill vc-pill--on-light link--default ">
                                             <span class='link__content'>
                                                 TOTO TOGEL</span>
 
                                         </a>
-                                        <a href="https://johortoto-slot.com/"
+                                        <a href="https://melbetr.org/"
                                             class="link vc-pill vc-pill--on-light link--default ">
                                             <span class='link__content'>
                                                 TOGEL 4D
@@ -21513,7 +21513,7 @@
                             </p>
                         </div>
                         <p class='m-footer__guarantee-link'>
-                            <a target="_blank" href="https://johortoto-slot.com/"
+                            <a target="_blank" href="https://melbetr.org/"
                                 class="link link__cta link__cta--on-dark link--default">
                                 <span class='link__content'>
                                     JOHORTOTO                                </span>
@@ -21528,7 +21528,7 @@
 
                             <div class="link-collection__content "><a data-gtm-footer-link-text="Order Status "
                                     style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         Order Status
@@ -21536,7 +21536,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Create " style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         Contact Us
@@ -21544,7 +21544,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Coupon Codes " style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         Coupon Codes
@@ -21552,7 +21552,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="FAQ " style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         FAQ
@@ -21560,7 +21560,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Free Shipping " style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         Free Shipping
@@ -21568,7 +21568,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Refunds &amp; Returns " style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         Refunds &amp; Returns
@@ -21576,7 +21576,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Shipping Info " style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         Shipping Info
@@ -21584,7 +21584,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Size Chart " style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         Size Chart
@@ -21601,7 +21601,7 @@
 
                             <div class="link-collection__content "><a data-gtm-footer-link-text="About Us "
                                     style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         About Us
@@ -21609,7 +21609,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Accessibility " style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         Accessibility
@@ -21617,7 +21617,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Create a Dashery Store " style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         Create a Dashery Store
@@ -21625,14 +21625,14 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Careers " style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         Careers
                                     </span>
                                 </a>
                                 <a data-gtm-footer-link-text="Hire an Artist " style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         Hire an Artist
@@ -21641,7 +21641,7 @@
                                 </a>
 
                                 <a data-gtm-footer-link-text="Social Responsibility " style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         Social Responsibility
@@ -21649,7 +21649,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="TeePublic Reviews " style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         TeePublic Reviews
@@ -21666,7 +21666,7 @@
 
                             <div class="link-collection__content "><a data-gtm-footer-link-text="All Designs "
                                     style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         All Designs
@@ -21674,7 +21674,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Content Directory " style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         Content Directory
@@ -21682,7 +21682,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Featured Designers " style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         Featured Artists
@@ -21690,7 +21690,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Newest Designers " style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         Newest Designers
@@ -21698,7 +21698,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Newest T-Shirts " style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         Newest T-Shirts
@@ -21706,7 +21706,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Tag Directory " style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         Tag Directory
@@ -21723,7 +21723,7 @@
 
                             <div class="link-collection__content "><a data-gtm-footer-link-text="Create "
                                     style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         Artist Signup
@@ -21731,7 +21731,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Design Guide " style="--animation-order: "
-                                    href="https://johortoto-slot.com/" class="link gtmFooterLink link-collection__link
+                                    href="https://melbetr.org/" class="link gtmFooterLink link-collection__link
                     link--1 link--default ">
                                     <span class='link__content'>
                                         Design Guide
@@ -21741,7 +21741,7 @@
 
 
                                 <a data-gtm-footer-link-text="TeePublic Blog " style="--animation-order: "
-                                    href="https://johortoto-slot.com/"
+                                    href="https://melbetr.org/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class='link__content'>
                                         TeePublic Blog
@@ -21930,7 +21930,7 @@
                 </div>
                 <div class='m-footer__legal-bar-subnav'>
                     <a data-gtm-footer-link-text="Copyright Policy " rel="nofollow " target="_blank "
-                        href="https://johortoto-slot.com/"
+                        href="https://melbetr.org/"
                         class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
                         <span class='link__content'>
                             Product Safety
@@ -21938,7 +21938,7 @@
 
                     </a>
                     <a data-gtm-footer-link-text="Copyright Policy " rel="nofollow "
-                        href="https://johortoto-slot.com/"
+                        href="https://melbetr.org/"
                         class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
                         <span class='link__content'>
                             Intellectual Property Policy
@@ -21946,7 +21946,7 @@
 
                     </a>
                     <a data-gtm-footer-link-text="CCPA " rel="nofollow "
-                        href="https://johortoto-slot.com/"
+                        href="https://melbetr.org/"
                         class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
                         <span class='link__content'>
                             CA: Do Not Sell My Personal Information
@@ -21954,7 +21954,7 @@
 
                     </a>
                     <a data-gtm-footer-link-text="Privacy Policy " rel="nofollow "
-                        href="https://johortoto-slot.com/"
+                        href="https://melbetr.org/"
                         class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
                         <span class='link__content'>
                             Privacy Policy
@@ -21962,7 +21962,7 @@
 
                     </a>
                     <a data-gtm-footer-link-text="Terms " rel="nofollow "
-                        href="https://johortoto-slot.com/"
+                        href="https://melbetr.org/"
                         class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
                         <span class='link__content'>
                             Terms
@@ -22004,7 +22004,7 @@
                             <div class='m-tray-account__header-text'>Welcome Guest!</div>
                         </div>
                         <div class='m-tray-account__header-action'>
-                            <a href="https://johortoto-slot.com/"
+                            <a href="https://melbetr.org/"
                                 class="link link__cta link__cta--on-dark link--default link--strong ">
                                 <span class='link__content'>
                                     Log In
@@ -22089,7 +22089,7 @@
                         <div class='m-tray-cart__body-links'>
                             <a data-rudderstack-event-type="link "
                                 data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="animals "
-                                data-href="https://johortoto-slot.com/" href="https://johortoto-slot.com/                    " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span
+                                data-href="https://melbetr.org/" href="https://melbetr.org/                    " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg
                                         xmlns="http://www.w3.org/2000/svg " viewbox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true ">
@@ -22171,7 +22171,7 @@
 
                             </a><a data-rudderstack-event-type="link "
                                 data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="funny "
-                                data-href="https://johortoto-slot.com/" href="https://johortoto-slot.com/                    " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span
+                                data-href="https://melbetr.org/" href="https://melbetr.org/                    " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg
                                         xmlns="http://www.w3.org/2000/svg " viewbox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true ">
@@ -22187,7 +22187,7 @@
 
                             </a><a data-rudderstack-event-type="link "
                                 data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="movies "
-                                data-href="https://johortoto-slot.com/" href="https://johortoto-slot.com/                    " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span
+                                data-href="https://melbetr.org/" href="https://melbetr.org/                    " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg
                                         xmlns="http://www.w3.org/2000/svg " viewbox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true ">
@@ -22219,7 +22219,7 @@
 
                             </a><a data-rudderstack-event-type="link "
                                 data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="sports "
-                                data-href="https://johortoto-slot.com/" href="https://johortoto-slot.com/                    " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span
+                                data-href="https://melbetr.org/" href="https://melbetr.org/                    " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg
                                         xmlns="http://www.w3.org/2000/svg " viewbox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true ">
@@ -22235,7 +22235,7 @@
 
                             </a><a data-rudderstack-event-type="link "
                                 data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="television "
-                                data-href="https://johortoto-slot.com/" href="https://johortoto-slot.com/                    " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span
+                                data-href="https://melbetr.org/" href="https://melbetr.org/                    " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg
                                         xmlns="http://www.w3.org/2000/svg " viewbox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true ">
@@ -22251,7 +22251,7 @@
 
                             </a><a data-rudderstack-event-type="link "
                                 data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="vintage "
-                                data-href="https://johortoto-slot.com/" href="https://johortoto-slot.com/                    " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span
+                                data-href="https://melbetr.org/" href="https://melbetr.org/                    " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg
                                         xmlns="http://www.w3.org/2000/svg " viewbox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true ">
