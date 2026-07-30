@@ -9,8 +9,8 @@
  <head>
   <meta charset='utf-8'>
   <title>JOHORTOTO | Lapak Link Situs Slot Gacor Slot777 Berpredikat Resmi 2026</title>
-  <link rel="icon" type="image/x-icon" href="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" />
-  <link rel="apple-touch-icon" href="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">
+  <link rel="icon" type="image/x-icon" href="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" />
+  <link rel="apple-touch-icon" href="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">
   <link rel="canonical" href="https://johortoto-ceria.com/">
   <link rel="amphtml" href="https://johortoto-f2g.pages.dev/stokfive/amp" />
   <link rel="alternate" hreflang="id-id" href="https://johortoto-f2g.pages.dev/stokfive/amp"/>
@@ -24,7 +24,7 @@
   <meta name="geo.country" content="Indonesia">
   <meta name="distribution" content="global">
   <meta name="target" content="indonesia">
-  <link as='image' href='https://johortoto-f2g.pages.dev/banner/4736872b-a927-4874-8fd1-c5cc36f52a50.png' rel='preload'>
+  <link as='image' href='https://johortoto-images.pages.dev/banner/slotgacor-slot777-berpredikat.png' rel='preload'>
   <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
   <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
   <link crossorigin href='https://www.googletagmanager.`com' rel='preconnect'>
@@ -77,7 +77,7 @@
   <meta property="og:price:currency" content="IDR">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://johortoto-ceria.com/">
-  <meta property="og:image" content="https://johortoto-f2g.pages.dev/banner/4736872b-a927-4874-8fd1-c5cc36f52a50.png">
+  <meta property="og:image" content="https://johortoto-images.pages.dev/banner/slotgacor-slot777-berpredikat.png">
   <meta property="og:site_name" content="TeePublic">
   <meta property="product:price:amount" content="25.00">
   <meta property="product:brand" content="TeePublic">
@@ -116,7 +116,7 @@
     "design__parent_id": "74165272D1V",
     "design__variant_id": "19G79A8C",
     "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic JOHORTOTO SLOT GACOR\",\"Color\":\"Red\"}",
-    "design__mock_image": "https://johortoto-f2g.pages.dev/banner/4736872b-a927-4874-8fd1-c5cc36f52a50.png",
+    "design__mock_image": "https://johortoto-images.pages.dev/banner/slotgacor-slot777-berpredikat.png",
     "design__url": "https://johortoto-ceria.com/",
     "design__canvas": "JOHORTOTO SLOT GACOR",
     "design__canvas_canonical_name": "JOHORTOTO SLOT GACOR",
@@ -151,7 +151,7 @@
        "id": "74165272",
        "brand": "Hey Mini",
        "design_color": "Red",
-       "product_image": "https://johortoto-f2g.pages.dev/banner/4736872b-a927-4874-8fd1-c5cc36f52a50.png",
+       "product_image": "https://johortoto-images.pages.dev/banner/slotgacor-slot777-berpredikat.png",
        "variant_id": "19G79A8C",
        "design_owner_id": "6075586",
        "design_primary_tag": "SITUS TOTO",
@@ -159,7 +159,7 @@
        "variant": '{"Gender":"Male Fit","Style":"SITUS TOTO","Color":"Red"}',
        "dimension34": '74165272D1V19G79A8C',
        "dimension37": 'false',
-       "dimension42": 'https://johortoto-f2g.pages.dev/banner/4736872b-a927-4874-8fd1-c5cc36f52a50.png',
+       "dimension42": 'https://johortoto-images.pages.dev/banner/slotgacor-slot777-berpredikat.png',
        "dimension44": 'george-kittle',
        "dimension46": '6075586',
        "dimension47": 'designer'
@@ -222,7 +222,7 @@
      <span class='link__content'>
       <div class="header-mini__logo" bis_skin_checked="1">
        <a href="https://johortoto-ceria.com/">
-        <img alt="TOTO" src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif" style="height:100px; width:300px; display:">
+        <img alt="TOTO" src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif" style="height:100px; width:300px; display:">
        </a>
       </div>
      </span>
@@ -311,49 +311,49 @@
        </a>
        <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Lebaran" data-href="https://johortoto-ceria.com/" title="Lebaran TOTO" href="https://johortoto-ceria.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
-         <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
+         <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>JOHORTOTO</span>
        </a>
        <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://johortoto-ceria.com/" title="Music TOTO" href="https://johortoto-ceria.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
-         <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
+         <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>SITUS JOHORTOTO</span>
        </a>
        <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://johortoto-ceria.com/" title="Sport TOTO" href="https://johortoto-ceria.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
-         <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
+         <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>JOHORTOTO LOGIN</span>
        </a>
        <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://johortoto-ceria.com/" title="Movie TOTO" href="https://johortoto-ceria.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
-         <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
+         <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>JOHOR TOTO</span>
        </a>
        <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://johortoto-ceria.com/" title="Vintage TOTO" href="https://johortoto-ceria.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
-         <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
+         <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>SLOT TOTO</span>
        </a>
        <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://johortoto-ceria.com/" title="Animal TOTO" href="https://johortoto-ceria.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
-         <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
+         <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>SLOT GACOR</span>
        </a>
        <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://johortoto-ceria.com/" title="Television TOTO" href="https://johortoto-ceria.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
-         <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
+         <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>TOTO ONLINE</span>
        </a>
        <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://johortoto-ceria.com/" title="Funny TOTO" href="https://johortoto-ceria.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
-         <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
+         <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>LINK SLOT GACOR</span>
        </a>
@@ -620,9 +620,9 @@
    "@type": "ImageObject",
    "@context": "https://schema.org",
    "author": "JOHORTOTO",
-   "contentURL": "https://johortoto-f2g.pages.dev/banner/4736872b-a927-4874-8fd1-c5cc36f52a50.png",
+   "contentURL": "https://johortoto-images.pages.dev/banner/slotgacor-slot777-berpredikat.png",
    "description": "johortoto adalah lapak link situs slot gacor slot777 yang berpredikat resmi yang dipastikan mudah maxwin! Nikmati keseruan bermain Slot Gacor Slot777 berpredikat resmi No.1 di indonesia dengan fitur terbaru serta layanan profesional terpercaya berskala internasional.",
-   "thumbnail": "https://johortoto-f2g.pages.dev/banner/4736872b-a927-4874-8fd1-c5cc36f52a50.png"
+   "thumbnail": "https://johortoto-images.pages.dev/banner/slotgacor-slot777-berpredikat.png"
   }],
   "category": "JOHORTOTO > TOTO > SLOT GACOR",
   "brand": {
@@ -630,7 +630,7 @@
    "@context": "https://schema.org",
    "name": "JOHORTOTO"
   },
-  "logo": "https://johortoto-f2g.pages.dev/banner/4736872b-a927-4874-8fd1-c5cc36f52a50.png",
+  "logo": "https://johortoto-images.pages.dev/banner/slotgacor-slot777-berpredikat.png",
   "aggregateRating": {
    "@type": "AggregateRating",
    "ratingValue": "5.0",
@@ -851,12 +851,12 @@
                 <ul class='glide__slides'>
                  <li class='glide__slide m-product-preview__glider-slide' data-default='active' data-id='0' data-label=''>
                   <picture class='m-product-preview__glider-img'>
-                   <img alt='JOHORTOTO | Lapak Link Situs Slot Gacor Slot777 Berpredikat Resmi 2026 by Hey siriusly' class='mockup jsProductMainImage' src='https://johortoto-f2g.pages.dev/banner/4736872b-a927-4874-8fd1-c5cc36f52a50.png'>
+                   <img alt='JOHORTOTO | Lapak Link Situs Slot Gacor Slot777 Berpredikat Resmi 2026 by Hey siriusly' class='mockup jsProductMainImage' src='https://johortoto-images.pages.dev/banner/slotgacor-slot777-berpredikat.png'>
                   </picture>
                  </li>
                  <li class='glide__slide m-product-preview__glider-slide' data-default='' data-id='1' data-label=''>
                   <picture class='m-product-preview__glider-img'>
-                   <img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview jsProductMainImage' src='https://johortoto-f2g.pages.dev/banner/4736872b-a927-4874-8fd1-c5cc36f52a50.png'>
+                   <img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview jsProductMainImage' src='https://johortoto-images.pages.dev/banner/slotgacor-slot777-berpredikat.png'>
                   </picture>
                  </li>
                 </ul>
@@ -873,14 +873,14 @@
                <a data-id="0" href="https://johortoto-ceria.com/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
                 <span class='link__content'>
                  <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='0'>
-                  <img alt='JOHORTOTO | Lapak Link Situs Slot Gacor Slot777 Berpredikat Resmi 2026 by Hey siriusly' class='mockup' loading='lazy' src='https://johortoto-f2g.pages.dev/banner/4736872b-a927-4874-8fd1-c5cc36f52a50.png'>
+                  <img alt='JOHORTOTO | Lapak Link Situs Slot Gacor Slot777 Berpredikat Resmi 2026 by Hey siriusly' class='mockup' loading='lazy' src='https://johortoto-images.pages.dev/banner/slotgacor-slot777-berpredikat.png'>
                  </picture>
                 </span>
                </a>
                <a data-id="1" href="https://johortoto-ceria.com/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
                 <span class='link__content'>
                  <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='1'>
-                  <img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview' loading='lazy' src='https://johortoto-f2g.pages.dev/banner/4736872b-a927-4874-8fd1-c5cc36f52a50.png'>
+                  <img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview' loading='lazy' src='https://johortoto-images.pages.dev/banner/slotgacor-slot777-berpredikat.png'>
                  </picture>
                 </span>
                </a>
@@ -1771,9 +1771,9 @@ Kami memahami bahwa kendala akses dan proses yang berbelit-belit sering kali mer
            <h4>JOHORTOTO | Lapak Link Situs Slot Gacor Slot777 Berpredikat Resmi 2026</h4>
            <p>johortoto adalah lapak link situs slot gacor slot777 yang berpredikat resmi yang dipastikan mudah maxwin! Nikmati keseruan bermain Slot Gacor Slot777 berpredikat resmi No.1 di indonesia dengan fitur terbaru serta layanan profesional terpercaya berskala internasional.</p>
            <picture class='m-design-product-info--product-quality-image'>
-            <source srcset='https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992' type='image/avif'>
-            <source srcset='https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992' type='image/webp'>
-            <img loading="lazy" src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" />
+            <source srcset='https://johor-toto.pages.dev/banner/image-icon-johortoto.png' type='image/avif'>
+            <source srcset='https://johor-toto.pages.dev/banner/image-icon-johortoto.png' type='image/webp'>
+            <img loading="lazy" src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" />
            </picture>
           </div>
          </div>
@@ -2076,7 +2076,7 @@ Kami memahami bahwa kendala akses dan proses yang berbelit-belit sering kali mer
            <div class='m-footer__trusted-badges'>
             <figure class='m-footer__guarantee-image'>
              <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
-              <img src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif" alt="SITUS TOTO RESMI" style="width:50%; height:auto; max-width:500px; display:block; margin:0 auto;" />
+              <img src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif" alt="SITUS TOTO RESMI" style="width:50%; height:auto; max-width:500px; display:block; margin:0 auto;" />
              </span>
             </figure>
             <div class='m-footer__trusted-text'>
@@ -2772,8 +2772,8 @@ Kami memahami bahwa kendala akses dan proses yang berbelit-belit sering kali mer
               <a aria-label="Home Link" title="Home" href="https://www.teepublic.com/" class="link vc-header-logo__wrapper link--1 link--default">
                <span class='link__content'>
                 <picture>
-                 <source srcset="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif" type="image/png">
-                 <img class="vc-header-logo__image" src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif" style="max-width:150px; height:auto; display:block; margin:0 auto;" alt="TOTO Logo">
+                 <source srcset="https://logojohortoto.pages.dev/banner/logo-johortoto.gif" type="image/png">
+                 <img class="vc-header-logo__image" src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif" style="max-width:150px; height:auto; display:block; margin:0 auto;" alt="TOTO Logo">
                 </picture>
                </span>
               </a>
@@ -6521,27 +6521,27 @@ Kami memahami bahwa kendala akses dan proses yang berbelit-belit sering kali mer
         <div class="footer-floating-macau">
         <a href="https://bohong.me/adr" class="footer-btn-macau promo" target="_blank"
                     rel="nofollow noopener">
-                    <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" alt="PROMOSI"> PROMO
+                    <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" alt="PROMOSI"> PROMO
                 </a>
 
         <a href="https://bohong.me/adr" class="footer-btn-macau login" target="_blank"
                     rel="nofollow noopener">
-                    <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" alt="Login"> LOGIN
+                    <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" alt="Login"> LOGIN
                 </a>
 
         <a href="https://bohong.me/adr" class="footer-btn-macau daftar" target="_blank"
                     rel="nofollow noopener">
-                    <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" alt="Daftar"> DAFTAR
+                    <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" alt="Daftar"> DAFTAR
                 </a>
 
         <a href="https://bohong.me/adr" class="footer-btn-macau link" target="_blank"
                     rel="nofollow noopener">
-                    <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" alt="Link Alternatif"> LINK ALTERNATIF
+                    <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" alt="Link Alternatif"> LINK ALTERNATIF
                 </a>
 
         <a href="https://bohong.me/adr" class="footer-btn-macau chat" target="_blank"
                     rel="nofollow noopener">
-                    <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" alt="Live Chat"> LIVE CHAT
+                    <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" alt="Live Chat"> LIVE CHAT
                 </a>
         </div>
       
