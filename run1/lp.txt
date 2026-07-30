@@ -53,8 +53,8 @@
 <link rel="alternate" hreflang="id-ID" href="https://johortoto-f2g.pages.dev/run1/amp" />
 <link rel="alternate" hreflang="en-US" href="https://johortoto-f2g.pages.dev/run1/amp" />
 <link rel="alternate" hreflang="en-SG" href="https://johortoto-f2g.pages.dev/run1/amp" />
-<link rel="icon" type="image/x-icon" href="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">
-<link rel="shortcut icon" type="image/x-icon" href="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">
+<link rel="icon" type="image/x-icon" href="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">
 <!--KB6WK8EHVmVHTESzwSWVMjZ6KU8vWqCH-->
 <!--2a1s2GN9TUKbwHv3HvawyC8mbXQAIuWc-->
 <!--vi7727dwaRtKsPIHEXMsLQoewBm0jClQ-->
@@ -394,13 +394,13 @@ console.log(
 <script data-breeze defer src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Swissup_Breeze/js/components/pagebuilder/map.min.js"></script>
 <script data-breeze defer src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Swissup_Breeze/js/components/pagebuilder/initializer.min.js"></script>
 
-<link rel="preload" as="image" href="https://johortoto-f2g.pages.dev/banner/47cd1199-d004-49eb-a8e5-2d36a4c520d4.png" imagesrcset="https://johortoto-f2g.pages.dev/banner/47cd1199-d004-49eb-a8e5-2d36a4c520d4.png 512w,https://johortoto-f2g.pages.dev/banner/47cd1199-d004-49eb-a8e5-2d36a4c520d4.png 549w,https://johortoto-f2g.pages.dev/banner/47cd1199-d004-49eb-a8e5-2d36a4c520d4.png 608w,https://johortoto-f2g.pages.dev/banner/47cd1199-d004-49eb-a8e5-2d36a4c520d4.png 704w,https://johortoto-f2g.pages.dev/banner/47cd1199-d004-49eb-a8e5-2d36a4c520d4.png 960w,https://johortoto-f2g.pages.dev/banner/47cd1199-d004-49eb-a8e5-2d36a4c520d4.png 1216w" imagesizes="(min-width: 1536px) 608px, (min-width: 1280px) calc((85vw - 4rem) / 2), (min-width: 768px) calc((100vw - 4rem) / 2), calc(100vw - 1rem)"/>
+<link rel="preload" as="image" href="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" imagesrcset="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png 512w,https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png 549w,https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png 608w,https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png 704w,https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png 960w,https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png 1216w" imagesizes="(min-width: 1536px) 608px, (min-width: 1280px) calc((85vw - 4rem) / 2), (min-width: 768px) calc((100vw - 4rem) / 2), calc(100vw - 1rem)"/>
 
 <script data-breeze="1" type="module">required.map((pair) => require(pair[0], pair[1])); required = [];</script>
 </head>
     <body 
 data-container="body"
-data-mage-init='{"loaderAjax": {}, "loader": { "icon": "https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif"}}'
+data-mage-init='{"loaderAjax": {}, "loader": { "icon": "https://logojohortoto.pages.dev/banner/logo-johortoto.gif"}}'
 class="breeze breeze-theme page-product-configurable catalog-product-view product-nordic-naturals-baby-s-dha-52135545-AYO01 page-layout-1column"
 id="html-body">
         
@@ -588,8 +588,8 @@ color:#000;
   </div>
   <div class="header_panel_info">
     <ul>
-      <li><a href="https://johortoto-f2g.pages.dev/run1/amp">  <link rel="alternate" href="https://johortoto-f2g.pages.dev/run1/amp"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif">LOGIN</a></li>
-      <li><a href="https://johortoto-f2g.pages.dev/run1/amp">  <link rel="alternate" href="https://johortoto-f2g.pages.dev/run1/amp"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif">DAFTAR</a></li>
+      <li><a href="https://johortoto-f2g.pages.dev/run1/amp">  <link rel="alternate" href="https://johortoto-f2g.pages.dev/run1/amp"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif">LOGIN</a></li>
+      <li><a href="https://johortoto-f2g.pages.dev/run1/amp">  <link rel="alternate" href="https://johortoto-f2g.pages.dev/run1/amp"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif">DAFTAR</a></li>
       <li><a href="https://johortoto-f2g.pages.dev/run1/amp">  <link rel="alternate" href="https://johortoto-f2g.pages.dev/run1/amp" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
     </ul>
   </div>
@@ -621,7 +621,7 @@ margin-right:10px;
 </style>
 </div></div></div><div class="header content"><span data-action="toggle-nav" class="action nav-toggle"><span>Toggle Nav</span></span>
 <a class="logo" href="https://johortoto-ceria.com/" title="" aria-label="store logo">
-    <img src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif" title="" alt="" width="155" height="28">
+    <img src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif" title="" alt="" width="155" height="28">
 </a>
 
 <div class="kanmo-middle-header"><div class="navigation-wrapper"><span data-action="toggle-nav" class="button-close" tabindex="0"></span><div class="top-header-components-mc mobile-component">
@@ -2072,7 +2072,7 @@ font-size:12px;
   "@type": "Organization",
   "name": "JOHORTOTO",
   "url": "https://johortoto-ceria.com/",
-  "logo": "https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif",
+  "logo": "https://logojohortoto.pages.dev/banner/logo-johortoto.gif",
   "description": "JOHORTOTO adalah situs slot gacor slot777 resmi 2026 yang paling mudah diakses. Nikmati kemudahan bermain slot dengan sistem cepat dan server super stabil.",
   "foundingDate": "2024",
   "contactPoint": {
@@ -2183,12 +2183,12 @@ font-size:12px;
 
 </div></div><div class="kc-cashback check">
    <a href="https://johortoto-f2g.pages.dev/run1/amp">  <link rel="alternate" href="https://johortoto-f2g.pages.dev/run1/amp" class="kc-points-lable">
-      <img src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif" class="kcpoints-img" width="30px">
+      <img src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif" class="kcpoints-img" width="30px">
        <span>Earn <span class="price">1.000.000</span> - <span class="price">5.000.000</span> Bonus</span>
    </a>
 </div>
                         <div class="kredivo-label">
-                <div>Use Installment Options from<img class="kredivo-logo" style="width: 55px; margin: 0 5px;" src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif" alt="">. <a href="https://www.mothercare.co.id/payment-method">Laarn more</a></div>            </div>
+                <div>Use Installment Options from<img class="kredivo-logo" style="width: 55px; margin: 0 5px;" src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif" alt="">. <a href="https://www.mothercare.co.id/payment-method">Laarn more</a></div>            </div>
             <div class="available-block">
     <div class="title">
         <span class="avail-text">Available for :</span>
@@ -2447,7 +2447,7 @@ a.sizechart-link{
 <div class="breeze-gallery horizontal">
     <div class="stage " data-gallery-role="gallery-placeholder">
         <div class="main-image-wrapper">
-            <img alt="" class="main-image" src="https://johortoto-f2g.pages.dev/banner/47cd1199-d004-49eb-a8e5-2d36a4c520d4.png" width="608" height="608">
+            <img alt="" class="main-image" src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" width="608" height="608">
         </div>
 
                     <a href="https://johortoto-ceria.com/" class="prev" tabindex="-1">
@@ -2484,47 +2484,47 @@ a.sizechart-link{
     <div class="thumbnails ">
                                                     <a class="item active" href="https://johortoto-ceria.com/" title="View Image">
                     <span class="slide-image-container">
-                        <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/47cd1199-d004-49eb-a8e5-2d36a4c520d4.png">
+                        <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png">
                     </span>    
                 </a>
                                             <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                     <span class="slide-image-container">
-                        <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/47cd1199-d004-49eb-a8e5-2d36a4c520d4.png">
+                        <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png">
                     </span>    
                 </a>
                                             <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                     <span class="slide-image-container">
-                        <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/47cd1199-d004-49eb-a8e5-2d36a4c520d4.png">
+                        <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png">
                     </span>    
                 </a>
                                             <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                     <span class="slide-image-container">
-                        <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/47cd1199-d004-49eb-a8e5-2d36a4c520d4.png">
+                        <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png">
                     </span>    
                 </a>
                                             <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                     <span class="slide-image-container">
-                        <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/47cd1199-d004-49eb-a8e5-2d36a4c520d4.png">
+                        <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png">
                     </span>    
                 </a>
                                             <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                     <span class="slide-image-container">
-                        <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/47cd1199-d004-49eb-a8e5-2d36a4c520d4.png">
+                        <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png">
                     </span>    
                 </a>
                                             <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                     <span class="slide-image-container">
-                        <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/47cd1199-d004-49eb-a8e5-2d36a4c520d4.png">
+                        <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png">
                     </span>    
                 </a>
                                             <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                     <span class="slide-image-container">
-                        <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/47cd1199-d004-49eb-a8e5-2d36a4c520d4.png">
+                        <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png">
                     </span>    
                 </a>
                                             <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                     <span class="slide-image-container">
-                        <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/47cd1199-d004-49eb-a8e5-2d36a4c520d4.png">
+                        <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png">
                     </span>    
                 </a>
                         </div>
@@ -5792,7 +5792,7 @@ require(['jquery','Magento_Customer/js/customer-data'],
 .footer-mobile {display:block;}
 }
 </style>
-</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">Login Otomatis Klik Gambar Dibawah</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://johortoto-f2g.pages.dev/run1/amp">  <link rel="alternate" href="https://johortoto-f2g.pages.dev/run1/amp"><img width="200" height="60" loading="lazy" src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif" alt="download app apple store">
+</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">Login Otomatis Klik Gambar Dibawah</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://johortoto-f2g.pages.dev/run1/amp">  <link rel="alternate" href="https://johortoto-f2g.pages.dev/run1/amp"><img width="200" height="60" loading="lazy" src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif" alt="download app apple store">
 </a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://johortoto-f2g.pages.dev/run1/amp">  <link rel="alternate" href="https://johortoto-f2g.pages.dev/run1/amp"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
 
 <style>
@@ -5812,7 +5812,7 @@ require(['jquery','Magento_Customer/js/customer-data'],
 </div>
 </div></div><div class="pagebuilder-column accept-pay" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="WG4K5JH"><h4 data-content-type="heading" data-appearance="default" data-element="main" data-pb-style="R8KNU7R">we accept</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-promo"> 
 <span><img loading="lazy" width="359" height="90" src="https://www.mothercare.co.id/media/wysiwyg/footer_payment_method.png" alt="mothercare payment method"></span> 
-<span><a target="_blank" href="https://johortoto-ceria.com/"><img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif" alt="iso logo"></a></span>
+<span><a target="_blank" href="https://johortoto-ceria.com/"><img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif" alt="iso logo"></a></span>
 </div>
 <div>
 <span>Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga <br>
@@ -6527,10 +6527,10 @@ body {
     <div id="popupBox">
         <span id="popupClose">✖</span>
         <!-- IMAGE -->
-        <img src="https://johortoto-f2g.pages.dev/banner/47cd1199-d004-49eb-a8e5-2d36a4c520d4.png" class="popupImg" alt="Promo JOHORTOTO">
+        <img src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" class="popupImg" alt="Promo JOHORTOTO">
         
          <h3>JOHORTOTO : Situs Slot Gacor Slot777 Yang Mudah Di Akses 2026</h3>
-         <a href="https://johortoto-f2g.pages.dev/run1/amp"><img src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif" class="popupImg" alt="Games JOHORTOTO"></a>
+         <a href="https://johortoto-f2g.pages.dev/run1/amp"><img src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif" class="popupImg" alt="Games JOHORTOTO"></a>
         <p>Daftar sekarang & nikmati promo menarik!</p>
         <!-- BUTTON -->
         <div class="popupBtnWrap">
