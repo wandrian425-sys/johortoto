@@ -1713,8 +1713,8 @@
   <link rel="alternate" hreflang="id" href="https://johortoto-f2g.pages.dev/stoknine/amp">
   <link rel="alternate" hreflang="en" href="https://johortoto-f2g.pages.dev/stoknine/amp">
   <link rel="alternate" hreflang="x-default" href="https://johortoto-f2g.pages.dev/stoknine/amp">
-  <link rel="icon" type="image/x-icon" href="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">
-  <link rel="shortcut icon" type="image/x-icon" href="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">
+  <link rel="icon" type="image/x-icon" href="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">
   <link rel="canonical" href="https://ayuhoki999.com/">
   <!--KB6WK8EHVmVHTESzwSWVMjZ6KU8vWqCH-->
   <!--2a1s2GN9TUKbwHv3HvawyC8mbXQAIuWc-->
@@ -1862,7 +1862,7 @@
   <link rel="stylesheet" type="text/css" media="print" onload="media='all'" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/css/deferred-default.min.css">
   <meta property="og:type" content="product">
   <meta property="og:title" content="JOHORTOTO: Mainkan 72 Pasaran Togel Online Internasional dalam Satu Platform">
-  <meta property="og:image" content="https://johortoto-f2g.pages.dev/banner/4f04f1fd-cee0-45c2-9a05-5bd8953fa036.png?optimize=low&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=270&amp;width=270&amp;canvas=270:270">
+  <meta property="og:image" content="https://johortoto-images.pages.dev/banner/Pasaran-Togel-Online-Internasional.png?optimize=low&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=270&amp;width=270&amp;canvas=270:270">
   <meta property="og:description" content="JOHORTOTO menghadirkan 72 Pasaran Togel Online Internasional dalam satu platform yang mudah diakses. Nikmati berbagai macam pilihan pasaran togel online berskala internasional dengan sistem modern, akses cepat, dan pengalaman yang nyaman bagi para member.">
   <meta property="og:url" content="https://ayuhoki999.com/">
   <meta property="product:price:amount" content="10000">
@@ -2048,7 +2048,7 @@
   <script data-breeze="" defer="" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Swissup_Breeze/js/components/pagebuilder/tabs.min.js"></script>
   <script data-breeze="" defer="" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Swissup_Breeze/js/components/pagebuilder/map.min.js"></script>
   <script data-breeze="" defer="" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Swissup_Breeze/js/components/pagebuilder/initializer.min.js"></script>
-  <link rel="preload" as="image" href="https://johortoto-f2g.pages.dev/banner/4f04f1fd-cee0-45c2-9a05-5bd8953fa036.png" imagesrcset="https://johortoto-f2g.pages.dev/banner/4f04f1fd-cee0-45c2-9a05-5bd8953fa036.png 512w,https://johortoto-f2g.pages.dev/banner/4f04f1fd-cee0-45c2-9a05-5bd8953fa036.png 549w,https://johortoto-f2g.pages.dev/banner/4f04f1fd-cee0-45c2-9a05-5bd8953fa036.png 608w,https://johortoto-f2g.pages.dev/banner/4f04f1fd-cee0-45c2-9a05-5bd8953fa036.png 704w,https://johortoto-f2g.pages.dev/banner/4f04f1fd-cee0-45c2-9a05-5bd8953fa036.png 960w,https://johortoto-f2g.pages.dev/banner/4f04f1fd-cee0-45c2-9a05-5bd8953fa036.png 1216w" imagesizes="(min-width: 1536px) 608px, (min-width: 1280px) calc((85vw - 4rem) / 2), (min-width: 768px) calc((100vw - 4rem) / 2), calc(100vw - 1rem)">
+  <link rel="preload" as="image" href="https://johortoto-images.pages.dev/banner/Pasaran-Togel-Online-Internasional.png" imagesrcset="https://johortoto-images.pages.dev/banner/Pasaran-Togel-Online-Internasional.png 512w,https://johortoto-images.pages.dev/banner/Pasaran-Togel-Online-Internasional.png 549w,https://johortoto-images.pages.dev/banner/Pasaran-Togel-Online-Internasional.png 608w,https://johortoto-images.pages.dev/banner/Pasaran-Togel-Online-Internasional.png 704w,https://johortoto-images.pages.dev/banner/Pasaran-Togel-Online-Internasional.png 960w,https://johortoto-images.pages.dev/banner/Pasaran-Togel-Online-Internasional.png 1216w" imagesizes="(min-width: 1536px) 608px, (min-width: 1280px) calc((85vw - 4rem) / 2), (min-width: 768px) calc((100vw - 4rem) / 2), calc(100vw - 1rem)">
   <script data-breeze="1" type="module">
     required.map((pair) => require(pair[0], pair[1]));
     required = [];
@@ -5176,7 +5176,7 @@
   </style>
 </head>
 
-<body data-container="body" data-mage-init="{&quot;loaderAjax&quot;: {}, &quot;loader&quot;: { &quot;icon&quot;: &quot;https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992&quot;}}" class="breeze breeze-theme page-product-configurable catalog-product-view product-nordic-naturals-baby-s-dha-52135545-AYO01 page-layout-1column" id="html-body">
+<body data-container="body" data-mage-init="{&quot;loaderAjax&quot;: {}, &quot;loader&quot;: { &quot;icon&quot;: &quot;https://johor-toto.pages.dev/banner/image-icon-johortoto.png&quot;}}" class="breeze breeze-theme page-product-configurable catalog-product-view product-nordic-naturals-baby-s-dha-52135545-AYO01 page-layout-1column" id="html-body">
   <noscript>
     <div class="message global noscript">
       <div class="content">
@@ -5347,8 +5347,8 @@
               </div>
               <div class="header_panel_info">
                 <ul>
-                  <li><a href="https://johortoto-f2g.pages.dev/stoknine/amp"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">LOGIN</a></li>
-                  <li><a href="https://johortoto-f2g.pages.dev/stoknine/amp"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">DAFTAR</a></li>
+                  <li><a href="https://johortoto-f2g.pages.dev/stoknine/amp"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">LOGIN</a></li>
+                  <li><a href="https://johortoto-f2g.pages.dev/stoknine/amp"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">DAFTAR</a></li>
                   <li><a href="https://johortoto-f2g.pages.dev/stoknine/amp" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
                 </ul>
               </div>
@@ -5388,7 +5388,7 @@
       </div>
       <div class="header content"><span data-action="toggle-nav" class="action nav-toggle"><span>Toggle Nav</span></span>
         <a class="logo" href="https://ayuhoki999.com/" title="" aria-label="store logo">
-          <img src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif" title="" alt="" width="155" height="28">
+          <img src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif" title="" alt="" width="155" height="28">
         </a>
         <div class="kanmo-middle-header">
           <div class="navigation-wrapper"><span data-action="toggle-nav" class="button-close" tabindex="0"></span>
@@ -7064,7 +7064,7 @@ font-size:12px;
                             "@type": "Organization",
                             "name": "JOHORTOTO",
                             "url": "https://ayuhoki999.com/",
-                            "logo": "https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif",
+                            "logo": "https://logojohortoto.pages.dev/banner/logo-johortoto.gif",
                             "description": "JOHORTOTO menghadirkan 72 Pasaran Togel Online Internasional dalam satu platform yang mudah diakses. Nikmati berbagai macam pilihan pasaran togel online berskala internasional dengan sistem modern, akses cepat, dan pengalaman yang nyaman bagi para member.",
                             "foundingDate": "2024",
                             "contactPoint": {
@@ -7105,7 +7105,7 @@ font-size:12px;
                 </div>
                 <div class="kc-cashback check">
                   <a href="https://johortoto-f2g.pages.dev/stoknine/amp" class="kc-points-lable">
-                    <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" class="kcpoints-img" width="30px">
+                    <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" class="kcpoints-img" width="30px">
                     <span><span class="price">Hadiah Jackpot Rp.10.000.000 - Rp.10.000.000.000</span>
                     </span></a>
                 </div>
@@ -7500,7 +7500,7 @@ function myFunction() {
               <div class="breeze-gallery horizontal">
                 <div class="stage " data-gallery-role="gallery-placeholder">
                   <div class="main-image-wrapper">
-                    <img alt="" class="main-image" src="https://johortoto-f2g.pages.dev/banner/4f04f1fd-cee0-45c2-9a05-5bd8953fa036.png" width="608" height="608">
+                    <img alt="" class="main-image" src="https://johortoto-images.pages.dev/banner/Pasaran-Togel-Online-Internasional.png" width="608" height="608">
                   </div>
                   <a href="https://ayuhoki999.com/" class="prev" tabindex="-1">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -7533,47 +7533,47 @@ function myFunction() {
                 <div class="thumbnails ">
                   <a class="item active" href="https://ayuhoki999.com/" title="View Image">
                     <span class="slide-image-container">
-                      <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/4f04f1fd-cee0-45c2-9a05-5bd8953fa036.png">
+                      <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/Pasaran-Togel-Online-Internasional.png">
                     </span>
                   </a>
                   <a class="item" href="https://ayuhoki999.com/" title="View Image">
                     <span class="slide-image-container">
-                      <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/4f04f1fd-cee0-45c2-9a05-5bd8953fa036.png">
+                      <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/Pasaran-Togel-Online-Internasional.png">
                     </span>
                   </a>
                   <a class="item" href="https://ayuhoki999.com/" title="View Image">
                     <span class="slide-image-container">
-                      <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/4f04f1fd-cee0-45c2-9a05-5bd8953fa036.png">
+                      <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/Pasaran-Togel-Online-Internasional.png">
                     </span>
                   </a>
                   <a class="item" href="https://ayuhoki999.com/" title="View Image">
                     <span class="slide-image-container">
-                      <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/4f04f1fd-cee0-45c2-9a05-5bd8953fa036.png">
+                      <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/Pasaran-Togel-Online-Internasional.png">
                     </span>
                   </a>
                   <a class="item" href="https://ayuhoki999.com/" title="View Image">
                     <span class="slide-image-container">
-                      <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/4f04f1fd-cee0-45c2-9a05-5bd8953fa036.png">
+                      <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/Pasaran-Togel-Online-Internasional.png">
                     </span>
                   </a>
                   <a class="item" href="https://ayuhoki999.com/" title="View Image">
                     <span class="slide-image-container">
-                      <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/4f04f1fd-cee0-45c2-9a05-5bd8953fa036.png">
+                      <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/Pasaran-Togel-Online-Internasional.png">
                     </span>
                   </a>
                   <a class="item" href="https://ayuhoki999.com/" title="View Image">
                     <span class="slide-image-container">
-                      <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/4f04f1fd-cee0-45c2-9a05-5bd8953fa036.png">
+                      <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/Pasaran-Togel-Online-Internasional.png">
                     </span>
                   </a>
                   <a class="item" href="https://ayuhoki999.com/" title="View Image">
                     <span class="slide-image-container">
-                      <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/4f04f1fd-cee0-45c2-9a05-5bd8953fa036.png">
+                      <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/Pasaran-Togel-Online-Internasional.png">
                     </span>
                   </a>
                   <a class="item" href="https://ayuhoki999.com/" title="View Image">
                     <span class="slide-image-container">
-                      <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/4f04f1fd-cee0-45c2-9a05-5bd8953fa036.png">
+                      <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/Pasaran-Togel-Online-Internasional.png">
                     </span>
                   </a>
                 </div>
@@ -12063,7 +12063,7 @@ function myFunction() {
               </div>
               <div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q">
                 <h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">APK RESMI JOHORTOTO </h4>
-                <div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://johortoto-f2g.pages.dev/stoknine/amp"><img width="200" height="60" loading="lazy" src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" alt="download app apple store">
+                <div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://johortoto-f2g.pages.dev/stoknine/amp"><img width="200" height="60" loading="lazy" src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" alt="download app apple store">
                   </a></div>
                 <div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://johortoto-f2g.pages.dev/stoknine/amp"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
                   <style>
@@ -12090,7 +12090,7 @@ function myFunction() {
                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                   <div class="footer-promo">
                     <span><img loading="lazy" width="359" height="90" src="https://www.mothercare.co.id/media/wysiwyg/footer_payment_method.png" alt="mothercare payment method"></span>
-                    <span><a target="_blank" href="https://ayuhoki999.com/"><img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif" alt="iso logo"></a></span>
+                    <span><a target="_blank" href="https://ayuhoki999.com/"><img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif" alt="iso logo"></a></span>
                   </div>
                   <div>
                     <span>Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga <br> Kementerian Perdagangan RI <br> WhatsApp: +62 123 4284 3045 </span>
@@ -12701,7 +12701,7 @@ function myFunction() {
         <!-- HTML WIDGET FOOTER (Struktur Asli Anda) -->
         <div class="JOHORTOTO-TOTO-TOGEL">
           <a href="https://johortoto-f2g.pages.dev/stoknine/amp" rel="nofollow noopener" target="_blank">
-            <img layout="intrinsic" height="20px" width="20px" src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" alt="JOHORTOTO Promo"> PROMO </a>
+            <img layout="intrinsic" height="20px" width="20px" src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" alt="JOHORTOTO Promo"> PROMO </a>
           <a href="https://johortoto-f2g.pages.dev/stoknine/amp" rel="nofollow noopener" target="_blank">
             <img layout="intrinsic" height="20px" width="20px" src="https://mariterbang.io/download/Am5pyJRK.png" alt="JOHORTOTO Login"> LOGIN </a>
           <a href="https://johortoto-f2g.pages.dev/stoknine/amp" rel="nofollow noopener" target="_blank" class="tada">
@@ -12929,13 +12929,13 @@ function myFunction() {
             <div class="particle" style="left:80%; top:90%; animation-delay:2s;"></div>
             <div class="particle" style="left:50%; top:85%; animation-delay:4s;"></div>
             <div class="sendiri">
-              <img src="https://johortoto-f2g.pages.dev/banner/4f04f1fd-cee0-45c2-9a05-5bd8953fa036.png" class="popup-image">
+              <img src="https://johortoto-images.pages.dev/banner/Pasaran-Togel-Online-Internasional.png" class="popup-image">
               <div class="popup-buttons">
                 <a href="https://johortoto-f2g.pages.dev/stoknine/amp">LOGIN</a>
                 <a href="https://johortoto-f2g.pages.dev/stoknine/amp">DAFTAR</a>
               </div>
               <div class="popup-footer"> JOHORTOTO: Mainkan 72 Pasaran Togel Online Internasional dalam Satu Platform<br>
-                <span>© Copyright 2014 - 2026 JOHORTOTO | SEO UBUR UBUR</span>
+                <span>© Copyright 2014 - 2026 JOHORTOTO | SEO BAISO MUI</span>
               </div>
             </div>
           </div>
