@@ -15,10 +15,10 @@
     <meta name="robots" content="index, follow">
     <link rel="preconnect" href="https://cdn.shopify.com" crossorigin />
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin />
-    <link rel="shortcut icon" href="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">
-    <link rel="icon" type="image/webp" sizes="32x32" href="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">
-    <link rel="icon" type="image/webp" sizes="16x16" href="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">
+    <link rel="shortcut icon" href="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">
+    <link rel="icon" type="image/webp" sizes="32x32" href="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">
+    <link rel="icon" type="image/webp" sizes="16x16" href="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">
     <title>JOHORTOTO: Link Alternatif Login Slot777 & Bandar Bullseye Terpercaya</title>
     <meta name="description"
         content="JOHORTOTO menyediakan link alternatif login Slot777 dan akses bandar bullseye terpercaya dengan tampilan praktis serta koneksi cepat. Dapatkan kemudahan masuk ke situs melalui link terbaru, menikmati pilihan slot777, serta informasi toto yang lengkap dan mudah digunakan."/>
@@ -29,9 +29,9 @@
     <meta property="og:type" content="product" />
     <meta property="og:description"
         content="JOHORTOTO menyediakan link alternatif login Slot777 dan akses bandar bullseye terpercaya dengan tampilan praktis serta koneksi cepat. Dapatkan kemudahan masuk ke situs melalui link terbaru, menikmati pilihan slot777, serta informasi toto yang lengkap dan mudah digunakan."/>
-    <meta property="og:image" content="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png"/>
+    <meta property="og:image" content="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png"/>
     <meta property="og:image:secure_url"
-        content="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png"/>
+        content="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png"/>
     <meta property="og:image:width" content="600" />
     <meta property="og:image:height" content="600" />
     <meta property="og:price:amount" content="1.00" />
@@ -1455,7 +1455,7 @@
                             rel="nofollow noopener noreferrer" class="header__heading-link link link--text focus-inset"
                             aria-label="Home">
                             <div class="ratio" style="--ratio-percent: 25.875000000000004%">
-                                <img src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif" loading="lazy"
+                                <img src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif" loading="lazy"
                                     class="header__heading-logo company_logo ratio" width="700" height="200"
                                     alt="JOHORTOTO">
                             </div>
@@ -2177,9 +2177,9 @@
                                                     </svg>
                                                 </div>
                                                 <div class="product__media media media--transparent">
-                                                    <img src="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=823"
+                                                    <img src="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=823"
                                                         alt="JOHORTOTO: Link Alternatif Login Slot777 & Bandar Bullseye Terpercaya"
-                                                        srcset="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=246 246w, https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=493 493w, https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=600 600w, https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=713 713w, https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=823 823w"
+                                                        srcset="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=246 246w, https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=493 493w, https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=600 600w, https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=713 713w, https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=823 823w"
                                                         width="823" height="823" class="image-magnify-lightbox"
                                                         sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                                 </div>
@@ -2681,7 +2681,7 @@
                                 <p>
                                     <a href="https://johortoto-ceria.com/"target="_blank">
                                         <img style="display:block;margin-left:auto;margin-right:auto;"
-                                            src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif" width="400"
+                                            src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif" width="400"
                                             height="auto" />
                                     </a>
                                 </p>
@@ -2753,7 +2753,7 @@
                                             <div class="mobile-care-pdp">
                                                 <div class="left care-pdp-img">
                                                     <a class="care-img" href="/pages/applecare-landing-page">
-                                                        <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992"
+                                                        <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png"
                                                             loading="lazy" class="add-on-image" width="100" height="100"
                                                             alt="Care image">
                                                     </a>
@@ -3214,7 +3214,7 @@
                             <div class="shura">
                                 <div class="shura-daftar">
                                     <a rel="nofollow noopener" href="https://johortoto-ceria.com/">
-                                        <img src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif" width="100%"
+                                        <img src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif" width="100%"
                                             height="auto" alt="Daftar Sekarang">
                                     </a>
                                 </div>
@@ -3452,7 +3452,7 @@
   "name": "JOHORTOTO: Link Alternatif Login Slot777 & Bandar Bullseye Terpercaya",
   "url": "https://johortoto-ceria.com/",
   "image": [
-    "https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&width=823"
+    "https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&width=823"
   ],
   "description": "JOHORTOTO menyediakan link alternatif login Slot777 dan akses bandar bullseye terpercaya dengan tampilan praktis serta koneksi cepat. Dapatkan kemudahan masuk ke situs melalui link terbaru, menikmati pilihan slot777, serta informasi toto yang lengkap dan mudah digunakan.",
   "sku": "9877655499",
@@ -3540,30 +3540,30 @@
 
             <div class="JOHORTOTO-fixed-footer">
                 <a href="https://johortoto-f2g.pages.dev/stokten/amp"rel="nofollow noopener" target="_blank">
-                    <img layout="intrinsic" height="20px" width="20px" src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992"
+                    <img layout="intrinsic" height="20px" width="20px" src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png"
                         alt="BONUS JOHORTOTO">
                     Promo
                 </a>
                 <a href="https://johortoto-f2g.pages.dev/stokten/amp"rel="nofollow noopener" target="_blank">
-                    <img layout="intrinsic" height="20px" width="20px" src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992"
+                    <img layout="intrinsic" height="20px" width="20px" src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png"
                         alt="LOGIN JOHORTOTO">
                     Login
                 </a>
                 <a href="https://johortoto-f2g.pages.dev/stokten/amp"rel="nofollow noopener" target="_blank"
                     class="tada">
-                    <img layout="intrinsic" height="20px" width="20px" src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992"
+                    <img layout="intrinsic" height="20px" width="20px" src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png"
                         alt="DAFTAR JOHORTOTO">
                     Daftar
                 </a>
                 <a href="https://johortoto-f2g.pages.dev/stokten/amp"rel="nofollow noopener" target="_blank">
-                    <img layout="intrinsic" height="20px" width="20px" src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992"
+                    <img layout="intrinsic" height="20px" width="20px" src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png"
                         alt="WHATSAPP JOHORTOTO">
                     Whatsapp
                 </a>
                 <a href="https://johortoto-f2g.pages.dev/stokten/amp"rel="nofollow noopener" target="_blank"
                     class="js_live_chat_link live-chat-link">
                     <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
-                        src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" alt="LIVE CHAT JOHORTOTO">
+                        src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" alt="LIVE CHAT JOHORTOTO">
                     Live Chat
                 </a>
             </div>
@@ -5003,7 +5003,7 @@
             </h2>
             <div class="js-store-locator-product-info my-store-locator-drawer__product">
                 <div class="my-store-locator-drawer__product-image global-media-settings">
-                    <img src="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png"
+                    <img src="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png"
                         alt="JOHORTOTO: Link Alternatif Login Slot777 & Bandar Bullseye Terpercaya"
                         width="88" height="88" loading="lazy">
                 </div>
@@ -7972,69 +7972,69 @@
             <div class="product-media-modal__content color-background-1 gradient" role="document"
                 aria-label="Media gallery" tabindex="0">
                 <img class="custom_popup_compare_32122040123572 global-media-settings global-media-settings--no-shadow"
-                    srcset="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=550 550w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1100 1100w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1445 1445w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1680 1680w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2048 2048w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2200 2200w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2890 2890w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054 4000w"
+                    srcset="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=550 550w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1100 1100w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1445 1445w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1680 1680w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2048 2048w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2200 2200w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2890 2890w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                    src="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1445"
+                    src="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1445"
                     alt="JOHORTOTO: Link Alternatif Login Slot777 & Bandar Bullseye Terpercaya"
                     loading="lazy" width="1100" height="1100" data-media-id="32122040123572" />
                 <img class="custom_popup_compare_32122040156340 global-media-settings global-media-settings--no-shadow"
-                    srcset="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=550 550w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1100 1100w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1445 1445w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1680 1680w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2048 2048w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2200 2200w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2890 2890w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054 4000w"
+                    srcset="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=550 550w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1100 1100w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1445 1445w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1680 1680w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2048 2048w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2200 2200w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2890 2890w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                    src="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1445"
+                    src="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1445"
                     alt="iPhone_17_Pro_Cosmic_Orange_PDP_Image_Position_2_Cosmic_Orange_Colour__SG-EN" loading="lazy"
                     width="1100" height="1100" data-media-id="32122040156340" />
                 <img class="custom_popup_compare_32122040189108 global-media-settings global-media-settings--no-shadow"
-                    srcset="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450055&;width=550 550w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450055&;width=1100 1100w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450055&;width=1445 1445w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450055&;width=1680 1680w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450055&;width=2048 2048w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450055&;width=2200 2200w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450055&;width=2890 2890w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450055 4000w"
+                    srcset="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450055&;width=550 550w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450055&;width=1100 1100w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450055&;width=1445 1445w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450055&;width=1680 1680w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450055&;width=2048 2048w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450055&;width=2200 2200w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450055&;width=2890 2890w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450055 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                    src="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450055&;width=1445"
+                    src="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450055&;width=1445"
                     alt="JOHORTOTO: Link Alternatif Login Slot777 & Bandar Bullseye Terpercaya"loading="lazy" width="1100" height="1100" data-media-id="32122040189108" />
                 <img class="custom_popup_compare_32122040221876 global-media-settings global-media-settings--no-shadow"
-                    srcset="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=550 550w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1100 1100w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1445 1445w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1680 1680w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2048 2048w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2200 2200w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2890 2890w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054 4000w"
+                    srcset="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=550 550w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1100 1100w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1445 1445w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1680 1680w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2048 2048w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2200 2200w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2890 2890w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                    src="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1445"
+                    src="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1445"
                     alt="JOHORTOTO: Link Alternatif Login Slot777 & Bandar Bullseye Terpercaya"loading="lazy" width="1100" height="1100"
                     data-media-id="32122040221876" />
                 <img class="custom_popup_compare_32122040254644 global-media-settings global-media-settings--no-shadow"
-                    srcset="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=550 550w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1100 1100w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1445 1445w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1680 1680w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2048 2048w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2200 2200w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2890 2890w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054 4000w"
+                    srcset="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=550 550w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1100 1100w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1445 1445w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1680 1680w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2048 2048w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2200 2200w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2890 2890w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                    src="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1445"
+                    src="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1445"
                     alt="JOHORTOTO: Link Alternatif Login Slot777 & Bandar Bullseye Terpercaya"loading="lazy" width="1100" height="1100" data-media-id="32122040254644" />
                 <img class="custom_popup_compare_32122040287412 global-media-settings global-media-settings--no-shadow"
-                    srcset="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=550 550w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1100 1100w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1445 1445w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1680 1680w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2048 2048w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2200 2200w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2890 2890w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054 4000w"
+                    srcset="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=550 550w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1100 1100w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1445 1445w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1680 1680w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2048 2048w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2200 2200w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2890 2890w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                    src="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1445"
+                    src="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1445"
                     alt="JOHORTOTO: Link Alternatif Login Slot777 & Bandar Bullseye Terpercaya"loading="lazy" width="1100" height="1100"
                     data-media-id="32122040287412" />
                 <img class="custom_popup_compare_32122040320180 global-media-settings global-media-settings--no-shadow"
-                    srcset="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=550 550w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1100 1100w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1445 1445w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1680 1680w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2048 2048w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2200 2200w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2890 2890w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054 4000w"
+                    srcset="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=550 550w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1100 1100w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1445 1445w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1680 1680w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2048 2048w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2200 2200w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2890 2890w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                    src="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1445"
+                    src="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1445"
                     alt="JOHORTOTO: Link Alternatif Login Slot777 & Bandar Bullseye Terpercaya"loading="lazy" width="1100" height="1100" data-media-id="32122040320180" />
                 <img class="custom_popup_compare_32122040352948 global-media-settings global-media-settings--no-shadow"
-                    srcset="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=550 550w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1100 1100w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1445 1445w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1680 1680w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2048 2048w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2200 2200w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2890 2890w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054 4000w"
+                    srcset="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=550 550w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1100 1100w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1445 1445w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1680 1680w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2048 2048w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2200 2200w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2890 2890w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                    src="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1445"
+                    src="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1445"
                     alt="JOHORTOTO: Link Alternatif Login Slot777 & Bandar Bullseye Terpercaya"loading="lazy" width="1100" height="1100" data-media-id="32122040352948" />
                 <img class="custom_popup_compare_32122040385716 global-media-settings global-media-settings--no-shadow"
-                    srcset="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=550 550w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1100 1100w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1445 1445w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1680 1680w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2048 2048w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2200 2200w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2890 2890w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054 4000w"
+                    srcset="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=550 550w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1100 1100w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1445 1445w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1680 1680w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2048 2048w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2200 2200w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2890 2890w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                    src="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1445"
+                    src="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1445"
                     alt="JOHORTOTO: Link Alternatif Login Slot777 & Bandar Bullseye Terpercaya"loading="lazy" width="1100" height="1100" data-media-id="32122040385716" />
                 <img class="custom_popup_compare_32122040418484 global-media-settings global-media-settings--no-shadow"
-                    srcset="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=550 550w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1100 1100w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1445 1445w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1680 1680w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2048 2048w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2200 2200w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=2890 2890w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054 4000w"
+                    srcset="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=550 550w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1100 1100w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1445 1445w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1680 1680w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2048 2048w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2200 2200w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=2890 2890w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                    src="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757450054&;width=1445"
+                    src="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757450054&;width=1445"
                     alt="JOHORTOTO: Link Alternatif Login Slot777 & Bandar Bullseye Terpercaya"loading="lazy" width="1100" height="1100" data-media-id="32122040418484" />
                 <img class="custom_popup_compare_32127875580084 global-media-settings global-media-settings--no-shadow"
-                    srcset="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757491890&;width=550 550w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757491890&;width=1100 1100w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757491890&;width=1445 1445w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757491890&;width=1680 1680w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757491890&;width=2048 2048w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757491890&;width=2200 2200w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757491890&;width=2890 2890w,https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757491890 4000w"
+                    srcset="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757491890&;width=550 550w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757491890&;width=1100 1100w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757491890&;width=1445 1445w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757491890&;width=1680 1680w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757491890&;width=2048 2048w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757491890&;width=2200 2200w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757491890&;width=2890 2890w,https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757491890 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                    src="https://johortoto-f2g.pages.dev/banner/7fba7381-1a17-4437-a79c-21e622993ede.png?v=1757491890&;width=1445"
+                    src="https://johortoto-images.pages.dev/banner/login-slot777-akses-bandar-bullseye.png?v=1757491890&;width=1445"
                     alt="JOHORTOTO: Link Alternatif Login Slot777 & Bandar Bullseye Terpercaya"
                     loading="lazy" width="1100" height="1100" data-media-id="32127875580084" />
                 <deferred-media class="deferred-media media global-media-settings global-media-settings--no-shadow"
                     style="padding-top: min(calc(100vh - 12rem), 56.33802816901409%)" data-media-id="32153557532852">
-                    <video playsinline="1" poster="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif?v=1757995782&;width=758"
-                        preload="metadata" src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif?v=1757995782&;width=758"
+                    <video playsinline="1" poster="https://logojohortoto.pages.dev/banner/logo-johortoto.gif?v=1757995782&;width=758"
+                        preload="metadata" src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif?v=1757995782&;width=758"
                         controls="controls" muted="muted"></video>
                 </deferred-media>
             </div>
@@ -8050,7 +8050,7 @@
                         data-variant="pageOverlay" data-modal-dialog-label="Modal" data-modal-close-label="Close Modal">
                         <p class="apple-care-modal__heading">Keuntungan bermain di JOHORTOTO</p>
                         <div class="media media--transparent ratio" style="--ratio-percent: 100.0%;"><img
-                                src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" alt="JOHORTOTO" width="418"
+                                src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" alt="JOHORTOTO" width="418"
                                 height="597" loading="lazy" /></div>
                         <div class="apple-care-modal__content">
                             <div class="metafield-rich_text_field">
