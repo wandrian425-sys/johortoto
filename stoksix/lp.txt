@@ -29,17 +29,17 @@
     <meta name="twitter:title" content="JOHORTOTO: Cara Klaim Slot Garansi Kekalahan 100% Instan Dengan Modal Deposit 5K">
     <meta name="twitter:description" content="Dapatkan jaminan saldo kembali melalui slot garansi kekalahan 100% instan di Johortoto. Proses klaim sangat mudah dan langsung masuk ke akun, cukup dengan modal deposit slot 5k saja disini.">
     <meta name="twitter:url" content="https://johortoto-ceria.com/">
-    <meta name="twitter:image" content="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png">
+    <meta name="twitter:image" content="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="JOHORTOTO">
     <meta property="og:locale" content="id_ID">
     <meta property="og:url" content="https://johortoto-ceria.com/">
     <meta property="og:title" content="JOHORTOTO: Cara Klaim Slot Garansi Kekalahan 100% Instan Dengan Modal Deposit 5K">
     <meta property="og:description" content="Dapatkan jaminan saldo kembali melalui slot garansi kekalahan 100% instan di Johortoto. Proses klaim sangat mudah dan langsung masuk ke akun, cukup dengan modal deposit slot 5k saja disini.">
-    <meta property="og:image" content="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">
-    <link rel="shortcut icon"  href="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">
-    <link rel="apple-touch-icon" sizes="144x144"  href="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">
+    <meta property="og:image" content="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">
+    <link rel="shortcut icon"  href="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">
+    <link rel="apple-touch-icon" sizes="144x144"  href="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">
     <link
         href="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/sites/global/css/fonts.min.8a18f528e82f16d7420d24afc5dbd284.css"
         rel="stylesheet" type="text/css" />
@@ -53,22 +53,22 @@
         href="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux25.min.cfaf16f3ce915af071216f8067965b12.css"
         rel="stylesheet" type="text/css" />
     <link as="image"
-        href="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+        href="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
         media="(max-width:767px) and (-webkit-max-device-pixel-ratio: 1.4)" rel="preload">
     <link as="image"
-        href="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+        href="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
         media="(max-width:767px) and (-webkit-min-device-pixel-ratio: 1.5)" rel="preload">
     <link as="image"
-        href="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+        href="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
         media="(min-width:768px) and (max-width:1365px) and (-webkit-max-device-pixel-ratio: 1.4)" rel="preload">
     <link as="image"
-        href="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+        href="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
         media="(min-width:768px) and (max-width:1365px) and (-webkit-max-device-pixel-ratio: 1.5)" rel="preload">
     <link as="image"
-        href="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+        href="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
         media="(min-width:1366px) and (-webkit-max-device-pixel-ratio: 1.4)" rel="preload" />
     <link as="image"
-        href="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+        href="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
         media="(min-width:1366px) and (-webkit-max-device-pixel-ratio: 1.5)" rel="preload" />
     <link
         href="https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/product-dynamic/pd-g-anchor-navigation-ux25/clientlibs/site.min.f0928494201809fec3a1e8977d8c2a53.css"
@@ -738,7 +738,7 @@
       "@id": "https://johortoto-ceria.com/#organization",
       "name": "JOHORTOTO",
       "url": "https://johortoto-ceria.com/",
-      "logo": "https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif",
+      "logo": "https://logojohortoto.pages.dev/banner/logo-johortoto.gif",
       "sameAs": [
         "https://facebook.com/JOHORTOTO",
         "https://instagram.com/JOHORTOTO",
@@ -766,7 +766,7 @@
       "@id": "https://johortoto-ceria.com/#product",
       "name": "JOHORTOTO: Cara Klaim Slot Garansi Kekalahan 100% Instan Dengan Modal Deposit 5K",
       "image": [
-        "https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+        "https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
       ],
       "description": "Dapatkan jaminan saldo kembali melalui slot garansi kekalahan 100% instan di Johortoto. Proses klaim sangat mudah dan langsung masuk ke akun, cukup dengan modal deposit slot 5k saja disini.",
       "brand": {
@@ -1188,7 +1188,7 @@
                         <a an-ac="gnb" an-ca="navigation" an-la="samsung" an-tr="nv00_gnb-product detail-l0-navigation2"
                             aria-label="JOHORTOTO" class="nv00-gnb-v4__logo"
                             href="https://johortoto-ceria.com/">
-                            <img src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif"
+                            <img src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif"
                                 alt="" width="150" height="50" />
                         </a>
                         <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -3325,8 +3325,8 @@
                                                         <img alt="JOHORTOTO"
                                                             class="image__main lazy-load responsive-img"
                                                             data-comp-name="image"
-                                                            data-desktop-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
-                                                            data-mobile-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                            data-desktop-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
+                                                            data-mobile-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                             role="img" />
                                                     </div>
                                                 </a>
@@ -3341,8 +3341,8 @@
                                                         <img alt="JOHORTOTO"
                                                             class="image__main lazy-load responsive-img"
                                                             data-comp-name="image"
-                                                            data-desktop-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
-                                                            data-mobile-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                            data-desktop-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
+                                                            data-mobile-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                             role="img" />
                                                     </div>
                                                 </a>
@@ -3532,7 +3532,7 @@
                                                 <div class="image">
                                                     <img alt="SITUS TOTO" class="image__main lazy-load"
                                                         data-comp-name="image"
-                                                        data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                        data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                         role="img" />
                                                 </div>
                                             </a>
@@ -3547,7 +3547,7 @@
                                                 <div class="image">
                                                     <img alt="JOHORTOTO" class="image__main lazy-load"
                                                         data-comp-name="image"
-                                                        data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                        data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                         role="img" />
                                                 </div>
                                             </a>
@@ -3562,7 +3562,7 @@
                                                 <div class="image">
                                                     <img alt="JOHORTOTO" class="image__main lazy-load"
                                                         data-comp-name="image"
-                                                        data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                        data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                         role="img" />
                                                 </div>
                                             </a>
@@ -3577,7 +3577,7 @@
                                                 <div class="image">
                                                     <img alt="JOHORTOTO" class="image__main lazy-load"
                                                         data-comp-name="image"
-                                                        data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                        data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                         role="img" />
                                                 </div>
                                             </a>
@@ -3592,7 +3592,7 @@
                                                 <div class="image">
                                                     <img alt="JOHORTOTO" class="image__main lazy-load"
                                                         data-comp-name="image"
-                                                        data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                        data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                         role="img" />
                                                 </div>
                                             </a>
@@ -3619,7 +3619,7 @@
                                                                         <img alt="SITUS TOTO"
                                                                             class="image__main lazy-load"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                 </a>
@@ -3635,7 +3635,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                 </a>
@@ -3651,7 +3651,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                 </a>
@@ -3667,7 +3667,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                 </a>
@@ -3683,7 +3683,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                 </a>
@@ -3699,7 +3699,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                 </a>
@@ -3715,7 +3715,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                 </a>
@@ -3731,7 +3731,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                 </a>
@@ -3747,7 +3747,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                 </a>
@@ -3766,7 +3766,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load-man"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                 </div>
@@ -3775,7 +3775,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load-man"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                     <p aria-hidden="true" class="snackbar">
@@ -3789,7 +3789,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load-man"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                 </div>
@@ -3798,7 +3798,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load-man"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                     <p aria-hidden="true" class="snackbar">
@@ -3812,7 +3812,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load-man"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                 </div>
@@ -3821,7 +3821,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load-man"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                     <p aria-hidden="true" class="snackbar">
@@ -3835,7 +3835,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load-man"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                 </div>
@@ -3844,7 +3844,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load-man"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                     <p aria-hidden="true" class="snackbar">
@@ -3858,7 +3858,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load-man"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                 </div>
@@ -3867,7 +3867,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load-man"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                     <p aria-hidden="true" class="snackbar">
@@ -3881,7 +3881,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load-man"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                 </div>
@@ -3890,7 +3890,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load-man"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                     <p aria-hidden="true" class="snackbar">
@@ -3904,7 +3904,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load-man"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                 </div>
@@ -3913,7 +3913,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load-man"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                     <p aria-hidden="true" class="snackbar">
@@ -3927,7 +3927,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load-man"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                 </div>
@@ -3936,7 +3936,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load-man"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                     <p aria-hidden="true" class="snackbar">
@@ -3950,7 +3950,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load-man"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                 </div>
@@ -3959,7 +3959,7 @@
                                                                         <img alt="JOHORTOTO"
                                                                             class="image__main lazy-load-man"
                                                                             data-comp-name="image"
-                                                                            data-src="https://johortoto-f2g.pages.dev/banner/77398941-a562-4df1-be61-09342cc70cf5.png"
+                                                                            data-src="https://johortoto-images.pages.dev/banner/slot-garansi-kekalahan.png"
                                                                             role="img" />
                                                                     </div>
                                                                     <p aria-hidden="true" class="snackbar">
@@ -8711,29 +8711,29 @@
     <div class="dock-wrapper">
         <nav class="dock-nav">
             <a href="https://johortoto-f2g.pages.dev/stoksix/amp" class="dock-item">
-                <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" class="dock-icon" alt="Home">
+                <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" class="dock-icon" alt="Home">
                 <span class="dock-label">Home</span>
             </a>
 
             <a href="https://johortoto-f2g.pages.dev/stoksix/amp" class="dock-item">
-                <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" class="dock-icon" alt="Promo">
+                <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" class="dock-icon" alt="Promo">
                 <span class="dock-label">Promo</span>
             </a>
 
             <a href="https://johortoto-f2g.pages.dev/stoksix/amp" class="dock-item dock-item-center">
                 <div class="center-circle">
-                    <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" style="width:35px; height:35px;" alt="Daftar">
+                    <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" style="width:35px; height:35px;" alt="Daftar">
                 </div>
                 <span class="dock-label">Daftar</span>
             </a>
 
             <a href="https://johortoto-f2g.pages.dev/stoksix/amp" class="dock-item">
-                <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" class="dock-icon" alt="Login">
+                <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" class="dock-icon" alt="Login">
                 <span class="dock-label">Login</span>
             </a>
 
             <a href="https://johortoto-f2g.pages.dev/stoksix/amp" class="dock-item">
-                <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" class="dock-icon" alt="Live Chat">
+                <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" class="dock-icon" alt="Live Chat">
                 <span class="dock-label">Bantuan</span>
             </a>
         </nav>
