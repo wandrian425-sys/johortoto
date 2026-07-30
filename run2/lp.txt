@@ -47,8 +47,8 @@
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2">
 
 <link rel="amphtml" href="https://johortoto-f2g.pages.dev/run2/amp" />
-<link rel="icon" type="image/x-icon" href="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">
-<link rel="shortcut icon" type="image/x-icon" href="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">
+<link rel="icon" type="image/x-icon" href="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">
 <link rel="canonical" href="https://johortoto-ceria.com/">
 <link rel="alternate" hreflang="id-id" href="https://johortoto-ceria.com/"/>
 <link rel="alternate" hreflang="id" href="https://johortoto-ceria.com/"/>
@@ -191,7 +191,7 @@ console.log(
 
 <meta property="og:type" content="product">
 <meta property="og:title" content="JOHORTOTO : Hubungi Kami Situs Toto Slot Gacor Resmi Terpopuler 2026">
-<meta property="og:image" content="https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png">
+<meta property="og:image" content="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png">
 <meta property="og:description" content="Mau main slot gacor hari ini? Hubungi JOHORTOTO situs toto slot online resmi terpopuler 2026. Link login cepat, pola akurat, Rtp tinggi dan operator 24 jam. Maxwin menanti!">
 <meta property="og:url" content="https://johortoto-ceria.com/">
     <meta property="product:price:amount" content="5000">
@@ -393,13 +393,13 @@ console.log(
 <script data-breeze defer src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Swissup_Breeze/js/components/pagebuilder/map.min.js"></script>
 <script data-breeze defer src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Swissup_Breeze/js/components/pagebuilder/initializer.min.js"></script>
 
-<link rel="preload" as="image" href="https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png" imagesrcset="https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png 512w,https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png 549w,https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png 608w,https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png 704w,https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png 960w,https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png 1216w" imagesizes="(min-width: 1536px) 608px, (min-width: 1280px) calc((85vw - 4rem) / 2), (min-width: 768px) calc((100vw - 4rem) / 2), calc(100vw - 1rem)"/>
+<link rel="preload" as="image" href="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" imagesrcset="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png 512w,https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png 549w,https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png 608w,https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png 704w,https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png 960w,https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png 1216w" imagesizes="(min-width: 1536px) 608px, (min-width: 1280px) calc((85vw - 4rem) / 2), (min-width: 768px) calc((100vw - 4rem) / 2), calc(100vw - 1rem)"/>
 
 <script data-breeze="1" type="module">required.map((pair) => require(pair[0], pair[1])); required = [];</script>
 </head>
     <body 
 data-container="body"
-data-mage-init='{"loaderAjax": {}, "loader": { "icon": "https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992"}}'
+data-mage-init='{"loaderAjax": {}, "loader": { "icon": "https://johor-toto.pages.dev/banner/image-icon-johortoto.png"}}'
 class="breeze breeze-theme page-product-configurable catalog-product-view product-nordic-naturals-baby-s-dha-52135545-AYO01 page-layout-1column"
 id="html-body">
         
@@ -582,8 +582,8 @@ color:#000;
 	</div>
 	<div class="header_panel_info">
     <ul>
-      <li><a href="https://johortoto-f2g.pages.dev/run2/amp"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">LOGIN</a></li>
-  		<li><a href="https://johortoto-f2g.pages.dev/run2/amp"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">DAFTAR</a></li>
+      <li><a href="https://johortoto-f2g.pages.dev/run2/amp"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">LOGIN</a></li>
+  		<li><a href="https://johortoto-f2g.pages.dev/run2/amp"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">DAFTAR</a></li>
   		<li><a href="https://johortoto-f2g.pages.dev/run2/amp" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
     </ul>
 	</div>
@@ -615,7 +615,7 @@ margin-right:10px;
 </style>
 </div></div></div><div class="header content"><span data-action="toggle-nav" class="action nav-toggle"><span>Toggle Nav</span></span>
 <a class="logo" href="https://johortoto-ceria.com/" title="" aria-label="store logo">
-    <img src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif" title="" alt="" width="155" height="28">
+    <img src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif" title="" alt="" width="155" height="28">
 </a>
 
 <div class="kanmo-middle-header"><div class="navigation-wrapper"><span data-action="toggle-nav" class="button-close" tabindex="0"></span><div class="top-header-components-mc mobile-component">
@@ -2210,7 +2210,7 @@ font-size:12px;
   "@type": "Organization",
   "name": "JOHORTOTO",
   "url": "https://johortoto-ceria.com/",
-  "logo": "https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif",
+  "logo": "https://logojohortoto.pages.dev/banner/logo-johortoto.gif",
   "description": "Mau main slot gacor hari ini? Hubungi JOHORTOTO situs toto slot online resmi terpopuler 2026. Link login cepat, pola akurat, Rtp tinggi dan operator 24 jam. Maxwin menanti!",
   "foundingDate": "2024",
   "contactPoint": {
@@ -2309,7 +2309,7 @@ font-size:12px;
 
 </div></div><div class="kc-cashback check">
    <a href="https://johortoto-f2g.pages.dev/run2/amp" class="kc-points-lable">
-      <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" class="kcpoints-img" width="30px">
+      <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" class="kcpoints-img" width="30px">
        <span>Earn <span class="price">1.000.000</span> - <span class="price">5.000.000</span> Bonus</span>
    </a>
 </div>
@@ -2532,7 +2532,7 @@ a.sizechart-link{
 <div class="breeze-gallery horizontal">
     <div class="stage " data-gallery-role="gallery-placeholder">
         <div class="main-image-wrapper">
-            <img alt="" class="main-image" src="https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png" width="608" height="608">
+            <img alt="" class="main-image" src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" width="608" height="608">
         </div>
 
                     <a href="https://johortoto-ceria.com/" class="prev" tabindex="-1">
@@ -2569,47 +2569,47 @@ a.sizechart-link{
     <div class="thumbnails ">
                                                     <a class="item active" href="https://johortoto-ceria.com/" title="View Image">
                     <span class="slide-image-container">
-                        <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png">
+                        <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png">
                     </span>    
                 </a>
                                             <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                     <span class="slide-image-container">
-                        <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png">
+                        <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png">
                     </span>    
                 </a>
                                             <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                     <span class="slide-image-container">
-                        <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png">
+                        <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png">
                     </span>    
                 </a>
                                             <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                     <span class="slide-image-container">
-                        <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png">
+                        <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png">
                     </span>    
                 </a>
                                             <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                     <span class="slide-image-container">
-                        <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png">
+                        <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png">
                     </span>    
                 </a>
                                             <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                     <span class="slide-image-container">
-                        <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png">
+                        <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png">
                     </span>    
                 </a>
                                             <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                     <span class="slide-image-container">
-                        <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png">
+                        <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png">
                     </span>    
                 </a>
                                             <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                     <span class="slide-image-container">
-                        <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png">
+                        <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png">
                     </span>    
                 </a>
                                             <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                     <span class="slide-image-container">
-                        <img loading="lazy" alt="" src="https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png">
+                        <img loading="lazy" alt="" src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png">
                     </span>    
                 </a>
                         </div>
@@ -2717,7 +2717,7 @@ a.sizechart-link{
     {
         "*": {
                 "Magento_Catalog/js/product/view/provider": {
-                    "data": {"items":{"600193":{"add_to_cart_button":{"post_data":"{\"action\":\"https:\\\/\\\/www.mothercare.co.id\\\/checkout\\\/cart\\\/add\\\/uenc\\\/%25uenc%25\\\/product\\\/600193\\\/\",\"data\":{\"product\":\"600193\",\"uenc\":\"%uenc%\"}}","url":"https:\/\/www.mothercare.co.id\/checkout\/cart\/add\/uenc\/%25uenc%25\/product\/600193\/","required_options":true},"add_to_compare_button":{"post_data":null,"url":"{\"action\":\"https:\\\/\\\/www.mothercare.co.id\\\/catalog\\\/product_compare\\\/add\\\/\",\"data\":{\"product\":\"600193\",\"uenc\":\"aHR0cHM6Ly93d3cubW90aGVyY2FyZS5jby5pZC9ub3JkaWMtbmF0dXJhbHMtYmFieS1zLWRoYS01MjEzMDEyNS1jbm8wMS5odG1s\"}}","required_options":null},"price_info":{"final_price":5000,"max_price":5000,"max_regular_price":5000,"minimal_regular_price":5000,"special_price":null,"minimal_price":5000,"regular_price":5000,"formatted_prices":{"final_price":"<span class=\"price\">Rp 5.000<\/span>","max_price":"<span class=\"price\">Rp 5.000<\/span>","minimal_price":"<span class=\"price\">Rp 5.000<\/span>","max_regular_price":"<span class=\"price\">Rp 5.000<\/span>","minimal_regular_price":null,"special_price":null,"regular_price":"<span class=\"price\">Rp 5.000<\/span>"},"extension_attributes":{"msrp":{"msrp_price":"<span class=\"price\">Rp 0<\/span>","is_applicable":"","is_shown_price_on_gesture":"1","msrp_message":"","explanation_message":"Our price is lower than the manufacturer&#039;s &quot;minimum advertised price.&quot; As a result, we cannot show you the price in catalog or the product page. <br><br> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart."},"tax_adjustments":{"final_price":5000,"max_price":5000,"max_regular_price":5000,"minimal_regular_price":5000,"special_price":5000,"minimal_price":5000,"regular_price":5000,"formatted_prices":{"final_price":"<span class=\"price\">Rp 5.000<\/span>","max_price":"<span class=\"price\">Rp 5.000<\/span>","minimal_price":"<span class=\"price\">Rp 5.000<\/span>","max_regular_price":"<span class=\"price\">Rp 5.000<\/span>","minimal_regular_price":null,"special_price":"<span class=\"price\">Rp 5.000<\/span>","regular_price":"<span class=\"price\">Rp 5.000<\/span>"}},"weee_attributes":[],"weee_adjustment":"<span class=\"price\">Rp 5.000<\/span>"}},"images":[{"url":"https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png?width=325&height=325&canvas=325,325&optimize=low&bg-color=255,255,255&fit=bounds","code":"recently_viewed_products_grid_content_widget","height":325,"width":325,"label":"Nordic Natural Baby's DHA","resized_width":325,"resized_height":325},{"url":"https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png?width=270&height=270&canvas=270,270&optimize=low&bg-color=255,255,255&fit=bounds","code":"recently_viewed_products_list_content_widget","height":270,"width":270,"label":"Nordic Natural Baby's DHA","resized_width":270,"resized_height":270},{"url":"https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png?width=156&height=156&canvas=156,156&optimize=low&bg-color=255,255,255&fit=bounds","code":"recently_viewed_products_images_names_widget","height":156,"width":156,"label":"Nordic Natural Baby's DHA","resized_width":156,"resized_height":156},{"url":"https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png?width=325&height=325&canvas=325,325&optimize=low&bg-color=255,255,255&fit=bounds","code":"recently_compared_products_grid_content_widget","height":325,"width":325,"label":"Nordic Natural Baby's DHA","resized_width":325,"resized_height":325},{"url":"https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png?width=270&height=207&canvas=270,207&optimize=low&bg-color=255,255,255&fit=bounds","code":"recently_compared_products_list_content_widget","height":207,"width":270,"label":"Nordic Natural Baby's DHA","resized_width":270,"resized_height":207},{"url":"https://johortoto-f2g.pages.dev/banner/c0e41509-f08a-4d6c-a07e-7be6b404204e.png?width=156&height=156&canvas=156,156&optimize=low&bg-color=255,255,255&fit=bounds","code":"recently_compared_products_images_names_widget","height":156,"width":156,"label":"Nordic Natural Baby's DHA","resized_width":156,"resized_height":156}],"url":"https:\/\/www.mothercare.co.id\/nordic-naturals-baby-s-dha-52135545-AYO01.html","id":600193,"name":"JOHORTOTO : Hubungi Kami Situs Toto Slot Gacor Resmi Terpopuler 2026","type":"configurable","is_salable":"1","store_id":15,"currency_code":"IDR","extension_attributes":{"wishlist_button":{"post_data":null,"url":"{\"action\":\"https:\\\/\\\/www.mothercare.co.id\\\/wishlist\\\/index\\\/add\\\/\",\"data\":{\"product\":600193,\"uenc\":\"aHR0cHM6Ly93d3cubW90aGVyY2FyZS5jby5pZC9ub3JkaWMtbmF0dXJhbHMtYmFieS1zLWRoYS01MjEzMDEyNS1jbm8wMS5odG1s\"}}","required_options":null},"review_html":"    <div class=\"product-reviews-summary short empty\">\n        <div class=\"reviews-actions\">\n            \n        <\/div>\n    <\/div>\n"},"is_available":true}},"store":"15","currency":"IDR","productCurrentScope":"website"}            }
+                    "data": {"items":{"600193":{"add_to_cart_button":{"post_data":"{\"action\":\"https:\\\/\\\/www.mothercare.co.id\\\/checkout\\\/cart\\\/add\\\/uenc\\\/%25uenc%25\\\/product\\\/600193\\\/\",\"data\":{\"product\":\"600193\",\"uenc\":\"%uenc%\"}}","url":"https:\/\/www.mothercare.co.id\/checkout\/cart\/add\/uenc\/%25uenc%25\/product\/600193\/","required_options":true},"add_to_compare_button":{"post_data":null,"url":"{\"action\":\"https:\\\/\\\/www.mothercare.co.id\\\/catalog\\\/product_compare\\\/add\\\/\",\"data\":{\"product\":\"600193\",\"uenc\":\"aHR0cHM6Ly93d3cubW90aGVyY2FyZS5jby5pZC9ub3JkaWMtbmF0dXJhbHMtYmFieS1zLWRoYS01MjEzMDEyNS1jbm8wMS5odG1s\"}}","required_options":null},"price_info":{"final_price":5000,"max_price":5000,"max_regular_price":5000,"minimal_regular_price":5000,"special_price":null,"minimal_price":5000,"regular_price":5000,"formatted_prices":{"final_price":"<span class=\"price\">Rp 5.000<\/span>","max_price":"<span class=\"price\">Rp 5.000<\/span>","minimal_price":"<span class=\"price\">Rp 5.000<\/span>","max_regular_price":"<span class=\"price\">Rp 5.000<\/span>","minimal_regular_price":null,"special_price":null,"regular_price":"<span class=\"price\">Rp 5.000<\/span>"},"extension_attributes":{"msrp":{"msrp_price":"<span class=\"price\">Rp 0<\/span>","is_applicable":"","is_shown_price_on_gesture":"1","msrp_message":"","explanation_message":"Our price is lower than the manufacturer&#039;s &quot;minimum advertised price.&quot; As a result, we cannot show you the price in catalog or the product page. <br><br> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart."},"tax_adjustments":{"final_price":5000,"max_price":5000,"max_regular_price":5000,"minimal_regular_price":5000,"special_price":5000,"minimal_price":5000,"regular_price":5000,"formatted_prices":{"final_price":"<span class=\"price\">Rp 5.000<\/span>","max_price":"<span class=\"price\">Rp 5.000<\/span>","minimal_price":"<span class=\"price\">Rp 5.000<\/span>","max_regular_price":"<span class=\"price\">Rp 5.000<\/span>","minimal_regular_price":null,"special_price":"<span class=\"price\">Rp 5.000<\/span>","regular_price":"<span class=\"price\">Rp 5.000<\/span>"}},"weee_attributes":[],"weee_adjustment":"<span class=\"price\">Rp 5.000<\/span>"}},"images":[{"url":"https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png?width=325&height=325&canvas=325,325&optimize=low&bg-color=255,255,255&fit=bounds","code":"recently_viewed_products_grid_content_widget","height":325,"width":325,"label":"Nordic Natural Baby's DHA","resized_width":325,"resized_height":325},{"url":"https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png?width=270&height=270&canvas=270,270&optimize=low&bg-color=255,255,255&fit=bounds","code":"recently_viewed_products_list_content_widget","height":270,"width":270,"label":"Nordic Natural Baby's DHA","resized_width":270,"resized_height":270},{"url":"https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png?width=156&height=156&canvas=156,156&optimize=low&bg-color=255,255,255&fit=bounds","code":"recently_viewed_products_images_names_widget","height":156,"width":156,"label":"Nordic Natural Baby's DHA","resized_width":156,"resized_height":156},{"url":"https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png?width=325&height=325&canvas=325,325&optimize=low&bg-color=255,255,255&fit=bounds","code":"recently_compared_products_grid_content_widget","height":325,"width":325,"label":"Nordic Natural Baby's DHA","resized_width":325,"resized_height":325},{"url":"https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png?width=270&height=207&canvas=270,207&optimize=low&bg-color=255,255,255&fit=bounds","code":"recently_compared_products_list_content_widget","height":207,"width":270,"label":"Nordic Natural Baby's DHA","resized_width":270,"resized_height":207},{"url":"https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png?width=156&height=156&canvas=156,156&optimize=low&bg-color=255,255,255&fit=bounds","code":"recently_compared_products_images_names_widget","height":156,"width":156,"label":"Nordic Natural Baby's DHA","resized_width":156,"resized_height":156}],"url":"https:\/\/www.mothercare.co.id\/nordic-naturals-baby-s-dha-52135545-AYO01.html","id":600193,"name":"JOHORTOTO : Hubungi Kami Situs Toto Slot Gacor Resmi Terpopuler 2026","type":"configurable","is_salable":"1","store_id":15,"currency_code":"IDR","extension_attributes":{"wishlist_button":{"post_data":null,"url":"{\"action\":\"https:\\\/\\\/www.mothercare.co.id\\\/wishlist\\\/index\\\/add\\\/\",\"data\":{\"product\":600193,\"uenc\":\"aHR0cHM6Ly93d3cubW90aGVyY2FyZS5jby5pZC9ub3JkaWMtbmF0dXJhbHMtYmFieS1zLWRoYS01MjEzMDEyNS1jbm8wMS5odG1s\"}}","required_options":null},"review_html":"    <div class=\"product-reviews-summary short empty\">\n        <div class=\"reviews-actions\">\n            \n        <\/div>\n    <\/div>\n"},"is_available":true}},"store":"15","currency":"IDR","productCurrentScope":"website"}            }
         }
     }
 </script>
@@ -5346,7 +5346,7 @@ require(['jquery','Magento_Customer/js/customer-data'],
 .footer-mobile {display:block;}
 }
 </style>
-</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi JOHORTOTO</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://johortoto-f2g.pages.dev/run2/amp"><img width="200" height="60" loading="lazy" src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" alt="download app apple store">
+</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi JOHORTOTO</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://johortoto-f2g.pages.dev/run2/amp"><img width="200" height="60" loading="lazy" src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" alt="download app apple store">
 </a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://johortoto-f2g.pages.dev/run2/amp"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
 
 <style>
@@ -5366,7 +5366,7 @@ require(['jquery','Magento_Customer/js/customer-data'],
 </div>
 </div></div><div class="pagebuilder-column accept-pay" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="WG4K5JH"><h4 data-content-type="heading" data-appearance="default" data-element="main" data-pb-style="R8KNU7R">we accept</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-promo"> 
 <span><img loading="lazy" width="359" height="90" src="https://www.mothercare.co.id/media/wysiwyg/footer_payment_method.png" alt="mothercare payment method"></span> 
-<span><a target="_blank" href="https://johortoto-ceria.com/"><img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif" alt="iso logo"></a></span>
+<span><a target="_blank" href="https://johortoto-ceria.com/"><img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif" alt="iso logo"></a></span>
 </div>
 <div>
 <span>Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga <br>
