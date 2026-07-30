@@ -33,7 +33,7 @@
 <meta property="og:url" content="https://johortoto-ceria.com/">
 <meta property="og:title" content="JOHORTOTO: Platform Slot Online Andalan Beserta rtp gacor & Provider Legal 2026">
 <meta property="og:description" content="Platform slot online andalan JOHORTOTO menyiapkan rtp gacor dan provider legal 2026. Akses permainan dengan kejelasan penuh untuk memudahkan akses login dengan koneksi cepat, stabil, dan kompatibel di desktop maupun smartphone.">
-<meta property="og:image" content="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png">
+<meta property="og:image" content="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png">
 <link rel="icon" type="image/png" sizes="96x96" href="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">
 <link rel="shortcut icon" href="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">
 <link rel="apple-touch-icon" sizes="144x144" href="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">
@@ -752,7 +752,7 @@ digitalData.page.pageInfo.pageName = pageName;
         "@id": "https://johortoto-ceria.com/review#product",
         "name": "S7",
         "image": [
-          "https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png"
+          "https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png"
         ],
         "description": "Platform slot online andalan JOHORTOTO menyiapkan rtp gacor dan provider legal 2026. Akses permainan dengan kejelasan penuh untuk memudahkan akses login dengan koneksi cepat, stabil, dan kompatibel di desktop maupun smartphone.",
         "brand": {
@@ -826,7 +826,7 @@ digitalData.page.pageInfo.pageName = pageName;
               "@id": "https://johortoto-ceria.com//slot-online-andalan#product",
               "name": "JOHORTOTO",
               "url": "https://johortoto-ceria.com//slot-online-andalan",
-              "image": "https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png",
+              "image": "https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png",
               "description": "Platform slot online andalan JOHORTOTO menyiapkan rtp gacor dan provider legal 2026. Akses permainan dengan kejelasan penuh untuk memudahkan akses login dengan koneksi cepat, stabil, dan kompatibel di desktop maupun smartphone.",
               "brand": {
                 "@type": "Brand",
@@ -855,7 +855,7 @@ digitalData.page.pageInfo.pageName = pageName;
               "@id": "https://johortoto-ceria.com//#product",
               "name": "JOHORTOTO login",
               "url": "https://johortoto-ceria.com//#product",
-              "image": "https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png",
+              "image": "https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png",
               "description": "Platform slot online andalan JOHORTOTO menyiapkan rtp gacor dan provider legal 2026. Akses permainan dengan kejelasan penuh untuk memudahkan akses login dengan koneksi cepat, stabil, dan kompatibel di desktop maupun smartphone.",
               "brand": {
                 "@type": "Brand",
@@ -884,7 +884,7 @@ digitalData.page.pageInfo.pageName = pageName;
               "@id": "https://johortoto-ceria.com//platform-slot-andalan#product",
               "name": "JOHORTOTO slot",
               "url": "https://johortoto-ceria.com//platform-slot-andalan",
-              "image": "https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png",
+              "image": "https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png",
               "description": "Platform slot online andalan JOHORTOTO menyiapkan rtp gacor dan provider legal 2026. Akses permainan dengan kejelasan penuh untuk memudahkan akses login dengan koneksi cepat, stabil, dan kompatibel di desktop maupun smartphone.",
               "brand": {
                 "@type": "Brand",
@@ -919,7 +919,7 @@ digitalData.page.pageInfo.pageName = pageName;
       "@id": "https://johortoto-ceria.com/#org",
       "name": "JOHORTOTO",
       "url": "https://johortoto-ceria.com/",
-      "logo": "https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png"
+      "logo": "https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png"
     },
     {
       "@type": "WebSite",
@@ -2967,14 +2967,14 @@ digitalData.page.pageInfo.pageName = pageName;
             <li class="hdd02-gallery__item swiper-slide" data-type-headline="Galaxy A07 Front Black ">
              <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="javascript:void(0);">
               <div class="image">
-               <img alt="Galaxy A07 Front Black " class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" data-mobile-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+               <img alt="Galaxy A07 Front Black " class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" data-mobile-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
               </div>
              </a>
             </li>
             <li class="hdd02-gallery__item swiper-slide" data-type-headline="Galaxy A07 Back Black ">
              <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="javascript:void(0);">
               <div class="image">
-               <img alt="Galaxy A07 Back Black " class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" data-mobile-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+               <img alt="Galaxy A07 Back Black " class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" data-mobile-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
               </div>
              </a>
             </li>
@@ -3089,35 +3089,35 @@ digitalData.page.pageInfo.pageName = pageName;
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 Front Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+              <img alt="Galaxy A07 Front Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
              </div>
             </a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 Back Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+              <img alt="Galaxy A07 Back Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
              </div>
             </a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+              <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
              </div>
             </a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+              <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
              </div>
             </a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+              <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
              </div>
             </a>
            </li>
@@ -3142,63 +3142,63 @@ digitalData.page.pageInfo.pageName = pageName;
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                  </a>
                 </li>
@@ -3213,12 +3213,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3228,12 +3228,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3243,12 +3243,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3258,12 +3258,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3273,12 +3273,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3288,12 +3288,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3303,12 +3303,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3318,12 +3318,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3333,12 +3333,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" role="img"/>
+                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -4210,7 +4210,7 @@ digitalData.page.pageInfo.pageName = pageName;
        </section>
        <!-- N -->
        <script data-id="aac44b1f-0962-428e-af28-1f4e53562d11" data-object-type="Product" data-type="seo" type="application/ld+json">
-        {"@context":"https://schema.org","@type":"Product","brand":{"@type":"Brand","name":"Samsung"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","ratingCount":"6"},"@id":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","name":"Galaxy A07","image":"https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png","description":"JOHORTOTO - Lihat keunggulan dan fitur lengkap produk ini. Pelajari harga, spesifikasi dan temukan produk terbaru serta  Smartphones terbaik untuk Anda di Samsung Indonesia.","sku":"MS-F813QBDUIDZ","offers":{"@type":"Offer","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","priceCurrency":"IDR","availability":"inStock","price":"1399000"}}
+        {"@context":"https://schema.org","@type":"Product","brand":{"@type":"Brand","name":"Samsung"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","ratingCount":"6"},"@id":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","name":"Galaxy A07","image":"https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png","description":"JOHORTOTO - Lihat keunggulan dan fitur lengkap produk ini. Pelajari harga, spesifikasi dan temukan produk terbaru serta  Smartphones terbaik untuk Anda di Samsung Indonesia.","sku":"MS-F813QBDUIDZ","offers":{"@type":"Offer","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","priceCurrency":"IDR","availability":"inStock","price":"1399000"}}
        </script>
        <!--googleoff: all true-->
        <div class="sdf-component-templates" id="sg-pdh-dynamic-template-assembly">
@@ -10540,7 +10540,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <!-- Border mewah -->
         <div class="luxury-border"></div>
         <div class="rtp gacor">
-            <img src="https://johortoto-images.pages.dev/banner/Hubungi-Johortoto.png" alt="Popup Banner" class="popup-image" />
+            <img src="https://johortoto-images.pages.dev/banner/situs-slotgacor-slot777-resmi2026.png" alt="Popup Banner" class="popup-image" />
             <div class="clk-btn-sgp" style="font-size: 20px;">
                 <a href="https://johortoto-f2g.pages.dev/stoktwo/amp" target="_blank" rel="nofollow noreferrer"
                     class="login">LOGIN</a>
