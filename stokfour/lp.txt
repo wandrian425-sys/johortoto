@@ -60,9 +60,9 @@
     <link rel="alternate" media="only screen and (max-width: 640px)" href="https://johortoto-f2g.pages.dev/stokfour/amp" />
     <link rel="alternate" media="handheld" href="https://johortoto-f2g.pages.dev/stokfour/amp" />
     <link rel="icon" type="image/x-icon"
-        href="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">
+        href="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">
     <link rel="shortcut icon" type="image/x-icon"
-        href="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">
+        href="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">
     <link rel="canonical" href="https://johortoto-ceria.com/">
     <!--KB6WK8EHVmVHTESzwSWVMjZ6KU8vWqCH-->
     <!--2a1s2GN9TUKbwHv3HvawyC8mbXQAIuWc-->
@@ -200,7 +200,7 @@
     <meta property="og:type" content="product">
     <meta property="og:title" content="JOHORTOTO: fakta Situs Togel Online & Link Agen Toto 4D Terbesar 2026">
     <meta property="og:image"
-        content="https://johortoto-f2g.pages.dev/banner/1f655c58-e87d-4a0c-814d-40ab34c107d4.png?optimize=low&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=270&amp;width=270&amp;canvas=270:270">
+        content="https://johortoto-images.pages.dev/banner/fakta-situs-togel-online.png?optimize=low&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=270&amp;width=270&amp;canvas=270:270">
     <meta property="og:description"
         content="johortoto merupakan penyedia layanan situs togel online dan agen Toto 4D terkenal yang telah meraih predikat sebagai situs terbesar 2026. Dikenal karena sistem keamanannya yang canggih, antarmuka pengguna yang ramah, serta layanan pelanggan aktif 24 jam.">
     <meta property="og:url" content="https://johortoto-ceria.com/">
@@ -518,8 +518,8 @@
         src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Swissup_Breeze/js/components/pagebuilder/initializer.min.js"></script>
 
     <link rel="preload" as="image"
-        href="https://johortoto-f2g.pages.dev/banner/1f655c58-e87d-4a0c-814d-40ab34c107d4.png"
-        imagesrcset="https://johortoto-f2g.pages.dev/banner/1f655c58-e87d-4a0c-814d-40ab34c107d4.png 512w,https://johortoto-f2g.pages.dev/banner/1f655c58-e87d-4a0c-814d-40ab34c107d4.png 549w,https://johortoto-f2g.pages.dev/banner/1f655c58-e87d-4a0c-814d-40ab34c107d4.png 608w,https://johortoto-f2g.pages.dev/banner/1f655c58-e87d-4a0c-814d-40ab34c107d4.png 704w,https://johortoto-f2g.pages.dev/banner/1f655c58-e87d-4a0c-814d-40ab34c107d4.png 960w,https://johortoto-f2g.pages.dev/banner/1f655c58-e87d-4a0c-814d-40ab34c107d4.png 1216w"
+        href="https://johortoto-images.pages.dev/banner/fakta-situs-togel-online.png"
+        imagesrcset="https://johortoto-images.pages.dev/banner/fakta-situs-togel-online.png 512w,https://johortoto-images.pages.dev/banner/fakta-situs-togel-online.png 549w,https://johortoto-images.pages.dev/banner/fakta-situs-togel-online.png 608w,https://johortoto-images.pages.dev/banner/fakta-situs-togel-online.png 704w,https://johortoto-images.pages.dev/banner/fakta-situs-togel-online.png 960w,https://johortoto-images.pages.dev/banner/fakta-situs-togel-online.png 1216w"
         imagesizes="(min-width: 1536px) 608px, (min-width: 1280px) calc((85vw - 4rem) / 2), (min-width: 768px) calc((100vw - 4rem) / 2), calc(100vw - 1rem)" />
 
     <script data-breeze="1" type="module">required.map((pair) => require(pair[0], pair[1])); required = [];</script>
@@ -3735,7 +3735,7 @@
 </head>
 
 <body data-container="body"
-    data-mage-init="{&quot;loaderAjax&quot;: {}, &quot;loader&quot;: { &quot;icon&quot;: &quot;https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992&quot;}}"
+    data-mage-init="{&quot;loaderAjax&quot;: {}, &quot;loader&quot;: { &quot;icon&quot;: &quot;https://johor-toto.pages.dev/banner/image-icon-johortoto.png&quot;}}"
     class="breeze breeze-theme page-product-configurable catalog-product-view product-nordic-naturals-baby-s-dha-52135545-AYO01 page-layout-1column"
     id="html-body" data-breeze-processed="true">
 
@@ -3939,15 +3939,15 @@
                                 <ul>
                                     <li><a href="https://johortoto-f2g.pages.dev/stokfour/amp"><img loading="lazy" width="22"
                                                 height="22" alt="store finder icon"
-                                                src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">LOGIN</a>
+                                                src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">LOGIN</a>
                                     </li>
                                     <li><a href="https://johortoto-f2g.pages.dev/stokfour/amp"><img loading="lazy" width="22"
                                                 height="22" alt="Kanmo Circle logo"
-                                                src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992">DAFTAR</a>
+                                                src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png">DAFTAR</a>
                                     </li>
                                     <li><a href="https://johortoto-f2g.pages.dev/stokfour/amp" target="_blank"><img loading="lazy"
                                                 width="22" height="22" alt="Whatsapp logo"
-                                                src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif">
+                                                src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif">
                                             Contact Us</a></li>
                                 </ul>
                             </div>
@@ -3988,7 +3988,7 @@
             <div class="header content"><span data-action="toggle-nav" class="action nav-toggle"
                     tabindex="0"><span>Toggle Nav</span></span>
                 <a class="logo" href="https://johortoto-ceria.com/" title="" aria-label="store logo">
-                    <img src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif"
+                    <img src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif"
                         title="" alt="" width="155" height="28">
                 </a>
 
@@ -4012,7 +4012,7 @@
                                             finder</a></li>
                                     <li><a href="https://johortoto-ceria.com/" target="_blank"><span><img loading="lazy"
                                                     width="22" height="22" alt="Whatsapp logo"
-                                                    src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif"></span>contact
+                                                    src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif"></span>contact
                                             us</a></li>
 
                                 </ul>
@@ -6546,15 +6546,15 @@ font-size:12px;
                                         <ul>
                                             <li><a href="https://johortoto-f2g.pages.dev/stokfour/amp"><img loading="lazy" width="22"
                                                         height="22" alt="store finder icon"
-                                                        src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" />LOGIN</a>
+                                                        src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" />LOGIN</a>
                                             </li>
                                             <li><a href="https://johortoto-f2g.pages.dev/stokfour/amp"><img loading="lazy" width="22"
                                                         height="22" alt="Kanmo Circle logo"
-                                                        src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992" />DAFTAR</a>
+                                                        src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png" />DAFTAR</a>
                                             </li>
                                             <li><a href="https://johortoto-f2g.pages.dev/stokfour/amp" target="_blank"><img
                                                         loading="lazy" width="22" height="22" alt="Whatsapp logo"
-                                                        src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif" />
+                                                        src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif" />
                                                     Contact Us</a></li>
                                         </ul>
                                     </div>
@@ -6920,7 +6920,7 @@ font-size:12px;
   "@type": "Organization",
   "name": "JOHORTOTO",
   "url": "https://johortoto-ceria.com/",
-  "logo": "https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif",
+  "logo": "https://logojohortoto.pages.dev/banner/logo-johortoto.gif",
   "description": "johortoto merupakan penyedia layanan situs togel online dan agen Toto 4D terkenal yang telah meraih predikat sebagai situs terbesar 2026. Dikenal karena sistem keamanannya yang canggih, antarmuka pengguna yang ramah, serta layanan pelanggan aktif 24 jam.",
   "foundingDate": "2024",
   "contactPoint": {
@@ -6974,7 +6974,7 @@ font-size:12px;
                                     </div>
                                     <div class="kc-cashback check">
                                         <a href="https://johortoto-f2g.pages.dev/stokfour/amp" class="kc-points-lable">
-                                            <img src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992"
+                                            <img src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png"
                                                 class="kcpoints-img" width="20px">
                                             <span>Hadiah Jackpot <span class="price">Rp.88.888.000</span> - <span
                                                     class="price">Rp.888.888.888</span></span>
@@ -7455,7 +7455,7 @@ function myFunction() {
                                     <div class="stage " data-gallery-role="gallery-placeholder">
                                         <div class="main-image-wrapper">
                                             <img alt="" class="main-image"
-                                                src="https://johortoto-f2g.pages.dev/banner/1f655c58-e87d-4a0c-814d-40ab34c107d4.png"
+                                                src="https://johortoto-images.pages.dev/banner/fakta-situs-togel-online.png"
                                                 width="608" height="608">
                                         </div>
 
@@ -7504,55 +7504,55 @@ function myFunction() {
                                         <a class="item active" href="https://johortoto-ceria.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt=""
-                                                    src="https://johortoto-f2g.pages.dev/banner/1f655c58-e87d-4a0c-814d-40ab34c107d4.png">
+                                                    src="https://johortoto-images.pages.dev/banner/fakta-situs-togel-online.png">
                                             </span>
                                         </a>
                                         <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt=""
-                                                    src="https://johortoto-f2g.pages.dev/banner/1f655c58-e87d-4a0c-814d-40ab34c107d4.png">
+                                                    src="https://johortoto-images.pages.dev/banner/fakta-situs-togel-online.png">
                                             </span>
                                         </a>
                                         <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt=""
-                                                    src="https://johortoto-f2g.pages.dev/banner/1f655c58-e87d-4a0c-814d-40ab34c107d4.png">
+                                                    src="https://johortoto-images.pages.dev/banner/fakta-situs-togel-online.png">
                                             </span>
                                         </a>
                                         <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt=""
-                                                    src="https://johortoto-f2g.pages.dev/banner/1f655c58-e87d-4a0c-814d-40ab34c107d4.png">
+                                                    src="https://johortoto-images.pages.dev/banner/fakta-situs-togel-online.png">
                                             </span>
                                         </a>
                                         <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt=""
-                                                    src="https://johortoto-f2g.pages.dev/banner/1f655c58-e87d-4a0c-814d-40ab34c107d4.png">
+                                                    src="https://johortoto-images.pages.dev/banner/fakta-situs-togel-online.png">
                                             </span>
                                         </a>
                                         <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt=""
-                                                    src="https://johortoto-f2g.pages.dev/banner/1f655c58-e87d-4a0c-814d-40ab34c107d4.png">
+                                                    src="https://johortoto-images.pages.dev/banner/fakta-situs-togel-online.png">
                                             </span>
                                         </a>
                                         <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt=""
-                                                    src="https://johortoto-f2g.pages.dev/banner/1f655c58-e87d-4a0c-814d-40ab34c107d4.png">
+                                                    src="https://johortoto-images.pages.dev/banner/fakta-situs-togel-online.png">
                                             </span>
                                         </a>
                                         <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt=""
-                                                    src="https://johortoto-f2g.pages.dev/banner/1f655c58-e87d-4a0c-814d-40ab34c107d4.png">
+                                                    src="https://johortoto-images.pages.dev/banner/fakta-situs-togel-online.png">
                                             </span>
                                         </a>
                                         <a class="item" href="https://johortoto-ceria.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt=""
-                                                    src="https://johortoto-f2g.pages.dev/banner/1f655c58-e87d-4a0c-814d-40ab34c107d4.png">
+                                                    src="https://johortoto-images.pages.dev/banner/fakta-situs-togel-online.png">
                                             </span>
                                         </a>
                                     </div>
@@ -11943,7 +11943,7 @@ function myFunction() {
                                             <span><a target="_blank" href="https://johortoto-ceria.com/"><img
                                                         loading="lazy" width="117" height="60"
                                                         style="max-height: 60px;margin:0 auto 15px;"
-                                                        src="https://johortoto-f2g.pages.dev/banner/1G7odszuFFQLUigM.gif"
+                                                        src="https://logojohortoto.pages.dev/banner/logo-johortoto.gif"
                                                         alt="JOHORTOTO"></a></span>
                                         </div>
                                         <div>
@@ -12611,32 +12611,32 @@ function myFunction() {
                     <div class="JOHORTOTO-OFFICIAL">
                         <a href="https://johortoto-f2g.pages.dev/stokfour/amp" rel="nofollow noopener" target="_blank">
                             <img layout="intrinsic" height="20px" width="20px"
-                                src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992"
+                                src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png"
                                 alt="JOHORTOTO Promo">
                             <span>PROMO</span>
                         </a>
                         <a href="https://johortoto-f2g.pages.dev/stokfour/amp" rel="nofollow noopener" target="_blank">
                             <img layout="intrinsic" height="20px" width="20px"
-                                src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992"
+                                src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png"
                                 alt="JOHORTOTO Login">
                             <span>LOGIN</span>
                         </a>
                         <a href="https://johortoto-f2g.pages.dev/stokfour/amp" rel="nofollow noopener" target="_blank" class="tada">
                             <img layout="intrinsic" height="20px" width="20px"
-                                src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992"
+                                src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png"
                                 alt="JOHORTOTO Daftar">
                             <span>DAFTAR</span>
                         </a>
                         <a href="https://johortoto-f2g.pages.dev/stokfour/amp" rel="nofollow noopener" target="_blank">
                             <img layout="intrinsic" height="20px" width="20px"
-                                src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992"
+                                src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png"
                                 alt="ALTERNATIF">
                             <span>ALTERNATIF</span>
                         </a>
                         <a href="https://johortoto-f2g.pages.dev/stokfour/amp" rel="nofollow noopener" target="_blank"
                             class="js_live_chat_link live-chat-link">
                             <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
-                                src="https://johortoto.dataklmsad902.site/images/setting-favicon/1/E4vLbckMwFgfDhqx.png?s=7ffba1149df1bed3230c13d53c79e992"
+                                src="https://johor-toto.pages.dev/banner/image-icon-johortoto.png"
                                 alt="JOHORTOTO LiveChat">
                             <span>LIVE CHAT</span>
                         </a>
