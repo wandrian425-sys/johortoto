@@ -6442,7 +6442,7 @@ body {
 
 <div data-bind="scope: 'ajaxpro'">
     <div id="ajaxpro-reinit" data-bind="html: bindBlock('reinit')"></div> 
-</div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div style="font-size:12px;background-color:#000001;color: #fff;padding: 15px;text-align: center;">&copy; Copyright JOHORTOTO ❀ CAUNIMALE.<div>
+</div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div style="font-size:12px;background-color:#000001;color: #fff;padding: 15px;text-align: center;">&copy; Copyright JOHORTOTO ❀ BUDI PK<div>
 <style>
 @media only screen and (max-width: 768px) {
     .catalog-product-view.page-product-configurable #maincontent .column.main .product-info-wrapper {
