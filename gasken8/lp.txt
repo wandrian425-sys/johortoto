@@ -7,25 +7,25 @@
   <title>JOHORTOTO | Platform Bandar Togel Online Resmi Minimal Bet 1 Perak di Semua Pasaran</title>
   <meta name="description" content="Akses JOHORTOTO untuk menemukan beragam pasaran togel online dengan sistem praktis, informasi tertata, dan nominal taruhan mulai dari 1 perak.">
   <meta name="robots" content="index, follow, nosnippet">
-  <link rel="canonical" href="https://rsgadingmedika.com/unggulan">
-  <link rel="amphtml" href="https://unggulan.rsgadingmedika.id/">
-  <link rel="alternate" href="https://unggulan.rsgadingmedika.id/" hreflang="id">
-  <link rel="alternate" href="https://unggulan.rsgadingmedika.id/" hreflang="en">
-  <link rel="alternate" href="https://unggulan.rsgadingmedika.id/" hreflang="x-default">
-  <link rel="alternate" hreflang="id-ID" href="https://unggulan.rsgadingmedika.id/" />
-  <link rel="alternate" hreflang="en-US" href="https://unggulan.rsgadingmedika.id/" />
-  <link rel="alternate" hreflang="en-SG" href="https://unggulan.rsgadingmedika.id/" />
+  <link rel="canonical" href="https://johortoto-emas.com/">
+  <link rel="amphtml" href="https://johortoto-f2g.pages.dev/gasken8/amp">
+  <link rel="alternate" href="https://johortoto-f2g.pages.dev/gasken8/amp" hreflang="id">
+  <link rel="alternate" href="https://johortoto-f2g.pages.dev/gasken8/amp" hreflang="en">
+  <link rel="alternate" href="https://johortoto-f2g.pages.dev/gasken8/amp" hreflang="x-default">
+  <link rel="alternate" hreflang="id-ID" href="https://johortoto-f2g.pages.dev/gasken8/amp" />
+  <link rel="alternate" hreflang="en-US" href="https://johortoto-f2g.pages.dev/gasken8/amp" />
+  <link rel="alternate" hreflang="en-SG" href="https://johortoto-f2g.pages.dev/gasken8/amp" />
   <meta name="language" content="id">
   <meta name="geo.region" content="ID">
   <meta name="geo.country" content="Indonesia">
   <meta name="geo.placename" content="Indonesia">
   <meta property="og:locale" content="id_ID">
-  <meta property="og:site_name" content="TRIBUNTOGEL">
+  <meta property="og:site_name" content="JOHORTOTO">
   <meta property="og:type" content="product">
   <meta property="og:title" content="JOHORTOTO | Platform Bandar Togel Online Resmi Minimal Bet 1 Perak di Semua Pasaran">
   <meta property="og:description" content="Akses JOHORTOTO untuk menemukan beragam pasaran togel online dengan sistem praktis, informasi tertata, dan nominal taruhan mulai dari 1 perak.">
-  <meta name="keywords" content="tribuntogel, tribun togel, tribuntogel login, tribuntogel link, togel, togel online, togel online resmi, link togel online, prediksi togel online, bandar togel resmi, bandar togel online">
-  <meta property="og:url" content="https://rsgadingmedika.com/unggulan">
+  <meta name="keywords" content="johortoto, johor toto, johortoto login, johortoto link, togel, togel online, togel online resmi, link togel online, prediksi togel online, bandar togel resmi, bandar togel online">
+  <meta property="og:url" content="https://johortoto-emas.com/">
   <meta property="og:image" content="https://imgjohor.io/image/2026/september/02/johortoto-bandar-togel-online-resmi.jpeg">
   <meta property="og:image:alt" content="JOHORTOTO | Platform Bandar Togel Online Resmi Minimal Bet 1 Perak di Semua Pasaran">
   <meta property="product:price:amount" content="10000">
@@ -12769,9 +12769,9 @@ header {
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "@id": "https://rsgadingmedika.com/unggulan#organization",
-  "name": "TRIBUNTOGEL",
-  "url": "https://rsgadingmedika.com/unggulan",
+  "@id": "https://johortoto-emas.com/#organization",
+  "name": "JOHORTOTO",
+  "url": "https://johortoto-emas.com/",
   "logo": "https://imgjohor.io/image/2026/september/02/logo-johortoto-bandar-togel-online-resmi.webp",
   "description": "Akses JOHORTOTO untuk menemukan beragam pasaran togel online dengan sistem praktis, informasi tertata, dan nominal taruhan mulai dari 1 perak.",
   "knowsAbout": [
@@ -12805,11 +12805,11 @@ header {
     }
   },
   "sameAs": [
-    "https://rsgadingmedika.com/unggulan",
-    "https://www.facebook.com/tribuntogel.official",
-    "https://www.instagram.com/tribuntogel.official",
-    "https://x.com/tribuntogel_id",
-    "https://www.youtube.com/@tribuntogel.official"
+    "https://johortoto-emas.com/",
+    "https://www.facebook.com/johortoto.official",
+    "https://www.instagram.com/johortoto.official",
+    "https://x.com/johortoto_id",
+    "https://www.youtube.com/@johortoto.official"
   ]
 }
 </script>
@@ -12818,19 +12818,19 @@ header {
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "@id": "https://rsgadingmedika.com/unggulan#website",
-  "url": "https://rsgadingmedika.com/unggulan",
-  "name": "TRIBUNTOGEL",
+  "@id": "https://johortoto-emas.com/#website",
+  "url": "https://johortoto-emas.com/",
+  "name": "JOHORTOTO",
   "description": "Akses JOHORTOTO untuk menemukan beragam pasaran togel online dengan sistem praktis, informasi tertata, dan nominal taruhan mulai dari 1 perak.",
   "inLanguage": "id-ID",
   "publisher": {
-    "@id": "https://rsgadingmedika.com/unggulan#organization"
+    "@id": "https://johortoto-emas.com/#organization"
   },
   "potentialAction": {
     "@type": "SearchAction",
     "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://rsgadingmedika.com/unggulan?s={search_term_string}"
+      "urlTemplate": "https://johortoto-emas.com/?s={search_term_string}"
     },
     "query-input": "required name=search_term_string"
   }
@@ -12841,7 +12841,7 @@ header {
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "@id": "https://rsgadingmedika.com/unggulan#product",
+  "@id": "https://johortoto-emas.com/#product",
   "name": "JOHORTOTO | Platform Bandar Togel Online Resmi Minimal Bet 1 Perak di Semua Pasaran",
   "image": [
     "https://imgjohor.io/image/2026/september/02/johortoto-bandar-togel-online-resmi.jpeg"
@@ -12849,7 +12849,7 @@ header {
   "description": "Akses JOHORTOTO untuk menemukan beragam pasaran togel online dengan sistem praktis, informasi tertata, dan nominal taruhan mulai dari 1 perak.",
   "brand": {
     "@type": "Brand",
-    "name": "TRIBUNTOGEL"
+    "name": "JOHORTOTO"
   },
   "sku": "TRB-UNGGULAN-2026-V2",
   "mpn": "TRB2026BET100P",
@@ -12870,11 +12870,11 @@ header {
     "offerCount": "100",
     "priceValidUntil": "2026-12-31",
     "availability": "https://schema.org/InStock",
-    "url": "https://rsgadingmedika.com/unggulan",
+    "url": "https://johortoto-emas.com/",
     "seller": {
       "@type": "Organization",
-      "@id": "https://rsgadingmedika.com/unggulan#organization",
-      "name": "TRIBUNTOGEL"
+      "@id": "https://johortoto-emas.com/#organization",
+      "name": "JOHORTOTO"
     }
   },
   "review": [
@@ -12914,55 +12914,55 @@ header {
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
-  "@id": "https://rsgadingmedika.com/unggulan#breadcrumb",
+  "@id": "https://johortoto-emas.com/#breadcrumb",
   "itemListElement": [
     {
       "@type": "ListItem",
       "position": 1,
-      "name": "TRIBUNTOGEL",
-      "item": "https://rsgadingmedika.com/unggulan"
+      "name": "JOHORTOTO",
+      "item": "https://johortoto-emas.com/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "TOGEL",
-      "item": "https://rsgadingmedika.com/unggulan"
+      "item": "https://johortoto-emas.com/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "TOGEL ONLINE",
-      "item": "https://rsgadingmedika.com/unggulan"
+      "item": "https://johortoto-emas.com/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "TOGEL BETT 100 PERAK",
-      "item": "https://rsgadingmedika.com/unggulan"
+      "item": "https://johortoto-emas.com/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "LINK TOGEL ONLINE",
-      "item": "https://rsgadingmedika.com/unggulan"
+      "item": "https://johortoto-emas.com/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "BANDAR TOGEL",
-      "item": "https://rsgadingmedika.com/unggulan"
+      "item": "https://johortoto-emas.com/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "BANDAR TOGEL ONLINE",
-      "item": "https://rsgadingmedika.com/unggulan"
+      "item": "https://johortoto-emas.com/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "BANDAR TOGEL RESMI",
-      "item": "https://rsgadingmedika.com/unggulan"
+      "item": "https://johortoto-emas.com/"
     }
   ]
 }
@@ -12972,7 +12972,7 @@ header {
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "@id": "https://rsgadingmedika.com/unggulan#faq",
+  "@id": "https://johortoto-emas.com/#faq",
   "mainEntity": [
     {
       "@type": "Question",
@@ -13066,24 +13066,24 @@ header {
         JOHORTOTO | Platform Bandar Togel Online Resmi Minimal Bet 1 Perak di Semua Pasaran
       </div>
       <div class="topbar-right">
-        <a href="https://rsgadingmedika.com/unggulan">TRIBUNTOGEL</a>
-        <a href="https://rsgadingmedika.com/unggulan">TRIBUN TOGEL</a>
-        <a href="https://rsgadingmedika.com/unggulan">TOGEL ONLINE</a>
-        <a href="https://rsgadingmedika.com/unggulan">TOGEL</a>
+        <a href="https://johortoto-emas.com/">JOHORTOTO</a>
+        <a href="https://johortoto-emas.com/">JOHOR TOTO</a>
+        <a href="https://johortoto-emas.com/">TOGEL ONLINE</a>
+        <a href="https://johortoto-emas.com/">TOGEL</a>
       </div>
     </div>
   </header>
   <nav class="navbar">
     <nav class="navbar-logo" style="width: 100%;">
       <div class="container nav-inner" style="justify-items: center; justify-content: center;">
-        <a href="https://rsgadingmedika.com/unggulan" class="logo-mobile" title="TRIBUNTOGEL">
-          <img src="https://imgjohor.io/image/2026/september/02/logo-johortoto-bandar-togel-online-resmi.webp" alt="TRIBUNTOGEL" height="40">
+        <a href="https://johortoto-emas.com/" class="logo-mobile" title="JOHORTOTO">
+          <img src="https://imgjohor.io/image/2026/september/02/logo-johortoto-bandar-togel-online-resmi.webp" alt="JOHORTOTO" height="40">
         </a>
       </div>
     </nav>
     <div class="container nav-inner">
-      <a href="https://rsgadingmedika.com/unggulan" class="logo" title="TRIBUNTOGEL">
-        <img src="https://imgjohor.io/image/2026/september/02/logo-johortoto-bandar-togel-online-resmi.webp" alt="TRIBUNTOGEL" height="40">
+      <a href="https://johortoto-emas.com/" class="logo" title="JOHORTOTO">
+        <img src="https://imgjohor.io/image/2026/september/02/logo-johortoto-bandar-togel-online-resmi.webp" alt="JOHORTOTO" height="40">
       </a>
 
 
@@ -13099,7 +13099,7 @@ header {
           </svg>
         </button>
 
-        <input type="text" name="q" id="searchInput" placeholder="Ketik 'TRIBUNTOGEL' Di GOOGLE SEKARANG JUGA!" value=""
+        <input type="text" name="q" id="searchInput" placeholder="Ketik 'JOHORTOTO' Di GOOGLE SEKARANG JUGA!" value=""
           autocomplete="off">
 
         <div class="search-suggest" id="searchSuggest" hidden></div>
@@ -13116,7 +13116,7 @@ header {
         </button>
 
         <!-- Dynamic login/logout button -->
-        <a href="https://unggulan.rsgadingmedika.id/"><button class="login-btn" id="loginBtn" aria-label="Masuk">
+        <a href="https://johortoto-f2g.pages.dev/gasken8/amp"><button class="login-btn" id="loginBtn" aria-label="Masuk">
             <span class="login-text">Masuk</span>
             <span class="login-ico" aria-hidden="true">😊</span>
           </button></a>
@@ -13128,25 +13128,25 @@ header {
 
       <div class="mega-cats-wrapper">
         <div class="mega-cats container" id="megaCatsScroll" style="padding-left: 5px !important;">
-          <a class="" href="https://rsgadingmedika.com/unggulan">
-            TRIBUNTOGEL
+          <a class="" href="https://johortoto-emas.com/">
+            JOHORTOTO
           </a>
-          <a class="" href="https://rsgadingmedika.com/unggulan">
-            TRIBUN TOGEL
+          <a class="" href="https://johortoto-emas.com/">
+            JOHOR TOTO
           </a>
-          <a class="" href="https://rsgadingmedika.com/unggulan">
+          <a class="" href="https://johortoto-emas.com/">
             BANDAR TOGEL
           </a>
-          <a class="" href="https://rsgadingmedika.com/unggulan">
+          <a class="" href="https://johortoto-emas.com/">
             TOGEL ONLINE
           </a>
-          <a class="" href="https://rsgadingmedika.com/unggulan">
+          <a class="" href="https://johortoto-emas.com/">
             LINK TOGEL ONLINE
           </a>
-          <a class="" href="https://rsgadingmedika.com/unggulan">
+          <a class="" href="https://johortoto-emas.com/">
             BANDAR TOGEL ONLINE
           </a>
-          <a class="" href="https://rsgadingmedika.com/unggulan">
+          <a class="" href="https://johortoto-emas.com/">
             BANDAR TOGEL RESMI
           </a>
         </div>
@@ -13159,10 +13159,10 @@ header {
 
   <div class="breadcrumbs">
     <div class="auth-grid-container">
-      <a href="https://unggulan.rsgadingmedika.id/" class="auth-btn btn-login">
+      <a href="https://johortoto-f2g.pages.dev/gasken8/amp" class="auth-btn btn-login">
         <span class="btn-text">LOGIN DISINI</span>
       </a>
-      <a href="https://unggulan.rsgadingmedika.id/" class="auth-btn btn-register">
+      <a href="https://johortoto-f2g.pages.dev/gasken8/amp" class="auth-btn btn-register">
         <span class="btn-text">DAFTAR SEKARANG</span>
       </a>
     </div>
@@ -13578,7 +13578,7 @@ header {
       if (loginBtn) {
         loginBtn.addEventListener('click', function (e) {
           e.preventDefault();
-          window.location.href = 'https://rsgadingmedika.com/unggulan';
+          window.location.href = 'https://johortoto-emas.com/';
         });
       }
 
@@ -14193,7 +14193,7 @@ header {
         <div class="disclaimer-text">
           <strong>💡 Catatan:</strong> Analisis ini dihasilkan secara otomatis dan dapat memiliki keterbatasan.
           Gunakan sebagai referensi tambahan dengan tetap mempertimbangkan kebutuhan Anda.
-          Untuk informasi lebih lanjut, silakan hubungi tim TRIBUNTOGEL.
+          Untuk informasi lebih lanjut, silakan hubungi tim JOHORTOTO.
         </div>
       </div>
     </div>
@@ -16232,11 +16232,11 @@ header {
   <div class="pd-sticky-header" id="pd-sticky-header">
     <div class="pd-sticky-header-container">
       <div class="pd-sticky-thumb">
-        <img src="https://imgjohor.io/image/2026/september/02/johortoto-bandar-togel-online-resmi.jpeg" alt="TRIBUNTOGEL"
+        <img src="https://imgjohor.io/image/2026/september/02/johortoto-bandar-togel-online-resmi.jpeg" alt="JOHORTOTO"
           id="pd-sticky-thumb-img">
       </div>
       <div class="pd-sticky-info">
-        <h2 class="pd-sticky-title" id="pd-sticky-title">TRIBUNTOGEL: Link Unggulan Bandar Togel Online Bettingan 100
+        <h2 class="pd-sticky-title" id="pd-sticky-title">JOHORTOTO: Link Unggulan Bandar Togel Online Bettingan 100
           Perak Winrate Tinggi</h2>
         <div class="pd-sticky-price-row">
           <span class="pd-sticky-price" id="pd-sticky-price">Rp 10.000,-</span>
@@ -16326,7 +16326,7 @@ header {
       <section class="pd-info-card">
         <div id="pd-variant-combined" class="pd-variant-combined" hidden></div>
         <div class="pd-title-row">
-          <h1 class="pd-title" id="pd-title">TRIBUNTOGEL: Link Unggulan Bandar Togel Online Bettingan 100 Perak Winrate
+          <h1 class="pd-title" id="pd-title">JOHORTOTO: Link Unggulan Bandar Togel Online Bettingan 100 Perak Winrate
             Tinggi</h1><button type="button" class="pd-share-btn" id="pd-share-btn" aria-label="Bagikan produk"
             title="Bagikan"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
               <path fill="currentColor"
@@ -16350,7 +16350,7 @@ header {
                     d="M21.41 11.58l-9-9C12.05 2.22 11.55 2 11 2H4c-1.1 0-2 .9-2 2v7c0 .55.22 1.05.59 1.42l9 9c.36.36.86.58 1.41.58.55 0 1.05-.22 1.41-.59l7-7c.37-.36.59-.86.59-1.41 0-.55-.23-1.06-.59-1.42zM5.5 7C4.67 7 4 6.33 4 5.5S4.67 4 5.5 4 7 4.67 7 5.5 6.33 7 5.5 7z" />
                 </svg>Bisa PWP</span>
             </div>
-            <div class="pd-meta-inline"><span class="stock-badge out" id="pd-stock-badge">TRIBUNTOGEL</span>
+            <div class="pd-meta-inline"><span class="stock-badge out" id="pd-stock-badge">JOHORTOTO</span>
               <span class="sku">SKU: <span id="pd-sku">SITUS TOTO</span></span>
             </div>
             <div class="paylater-promo paylater-promo-sm paylater-mobile-only">
@@ -16374,7 +16374,7 @@ header {
                 <li class="sp-item">
                   <div class="sp-left"><span class="sp-dot" style="--dot:#60a5fa;"></span><span class="sp-label">Asia
                       Mega Mas</span></div><span class="sp-qty" id="sp-qty-meg">0</span><a class="sp-wa"
-                    href="https://rsgadingmedika.com/unggulan" target="_blank" rel="noopener"
+                    href="https://johortoto-emas.com/" target="_blank" rel="noopener"
                     aria-label="WhatsApp Asia Mega Mas"><svg class="ico-wa" viewBox="0 0 24 24" aria-hidden="true"
                       focusable="false">
                       <path fill="currentColor"
@@ -16388,7 +16388,7 @@ header {
                     <span class="sp-label">Medan Fair</span>
                   </div>
                   <span class="sp-qty" id="sp-qty-mdf">0</span>
-                  <a class="sp-wa" href="https://rsgadingmedika.com/unggulan" target="_blank" rel="noopener"
+                  <a class="sp-wa" href="https://johortoto-emas.com/" target="_blank" rel="noopener"
                     aria-label="WhatsApp Medan Fair">
                     <svg class="ico-wa" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
                       <path fill="currentColor"
@@ -16403,7 +16403,7 @@ header {
                     <span class="sp-label">Banda Aceh</span>
                   </div>
                   <span class="sp-qty" id="sp-qty-bda">0</span>
-                  <a class="sp-wa" href="https://rsgadingmedika.com/unggulan" target="_blank" rel="noopener"
+                  <a class="sp-wa" href="https://johortoto-emas.com/" target="_blank" rel="noopener"
                     aria-label="WhatsApp Banda Aceh">
                     <svg class="ico-wa" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
                       <path fill="currentColor"
@@ -16445,7 +16445,7 @@ header {
         </div>
 
         <div class="pd-short-desc">
-          <p><strong>Spesifikasi Layanan TRIBUNTOGEL:</strong></p>
+          <p><strong>Spesifikasi Layanan JOHORTOTO:</strong></p>
           <ul>
             <li><strong>Deposit Perdana:</strong> Mulai dari Rp 10.000</li>
             <li><strong>Sistem Permainan:</strong> Gabungan Toto 4D Kolaborasi Epic</li>
@@ -16454,7 +16454,7 @@ header {
             <li><strong>Stabilitas Saldo:</strong> Keamanan Terjamin & Terpantau</li>
             <li><strong>Total Pengguna:</strong> 999.999.999+ Member Aktif</li>
             <li><strong>Reputasi Situs:</strong> ⭐⭐⭐⭐⭐ (Viral & Terpercaya)</li>
-            <li><strong>Akses Resmi:</strong> <a href="https://unggulan.rsgadingmedika.id/">Daftar & Join Sekarang</a>
+            <li><strong>Akses Resmi:</strong> <a href="https://johortoto-f2g.pages.dev/gasken8/amp">Daftar & Join Sekarang</a>
             </li>
           </ul>
         </div>
@@ -16466,13 +16466,13 @@ header {
             <!-- HEADER -->
             <div class="togel-container-v3 mini">
               <div class="togel-machine-v3">
-                <h2 class="togel-title-v3">🎯 PREDIKSI TRIBUNTOGEL (SIMULASI) 🎯</h2>
+                <h2 class="togel-title-v3">🎯 PREDIKSI JOHORTOTO (SIMULASI) 🎯</h2>
 
                 <div class="togel-controls-v3">
                   <label>
                     PASARAN
                     <select id="marketFilter">
-                      <option value="ALL">SEMUA PASARAN TRIBUNTOGEL</option>
+                      <option value="ALL">SEMUA PASARAN JOHORTOTO</option>
                     </select>
                   </label>
 
@@ -16533,7 +16533,7 @@ header {
                   </div>
 
                   <div class="togel-tip-v3" id="rTip">
-                    Tips: Gunakan angka TRIBUNTOGEL untuk referensi pasaran favoritmu.
+                    Tips: Gunakan angka JOHORTOTO untuk referensi pasaran favoritmu.
                   </div>
                 </div>
 
@@ -17120,7 +17120,7 @@ header {
                 color: #ffd700
               }
 
-              #TRIBUNTOGELAltList div {
+              #JOHORTOTOAltList div {
                 background: #080800;
                 padding: 6px 10px;
                 margin: 3px 0;
@@ -17166,10 +17166,10 @@ header {
                 document.getElementById("rOdds").innerText = (Math.random() * 3 + 1).toFixed(2);
 
                 // alternatif
-                const alt = document.getElementById("TRIBUNTOGELAltList"); alt.innerHTML = "";
+                const alt = document.getElementById("JOHORTOTOAltList"); alt.innerHTML = "";
                 for (let i = 0; i < 3; i++) { let d = document.createElement("div"); d.innerText = rand(["1", "X", "2"]); alt.appendChild(d); }
 
-                document.getElementById("TRIBUNTOGELStatus").innerText = "— READY —";
+                document.getElementById("JOHORTOTOStatus").innerText = "— READY —";
               }
             </script>
 
@@ -17220,8 +17220,8 @@ header {
           <div class="paylater-promo paylater-promo-md paylater-desktop-only">
             <span class="paylater-icon">🏆</span>
             <span class="paylater-text">
-              <strong>Authorized TRIBUNTOGEL</strong>
-              <small>Situs Resmi TRIBUNTOGEL </small>
+              <strong>Authorized JOHORTOTO</strong>
+              <small>Situs Resmi JOHORTOTO </small>
             </span>
           </div>
         </div>
@@ -17231,16 +17231,16 @@ header {
           <div class="qoala-banner">
             <div class="qoala-banner-content">
               <div class="qoala-icon">
-                <center><img src="https://imgjohor.io/image/2026/september/02/favicon-johortoto-bandar-togel-online-resmi.jpeg" alt="TRIBUNTOGEL"
+                <center><img src="https://imgjohor.io/image/2026/september/02/favicon-johortoto-bandar-togel-online-resmi.jpeg" alt="JOHORTOTO"
                     class="qoala-shield-img"></center>
               </div>
               <div class="qoala-text">
-                <div class="qoala-title">Login TRIBUNTOGEL</div>
+                <div class="qoala-title">Login JOHORTOTO</div>
                 <div class="qoala-subtitle">Verified</div>
               </div>
             </div>
-            <a href="https://unggulan.rsgadingmedika.id/" class="qoala-cta" data-ga-event="qoala_banner_click"
-              data-product-id="325" data-product-name="TRIBUNTOGEL" data-category-path="Toto Online/Resmi/4D"
+            <a href="https://johortoto-f2g.pages.dev/gasken8/amp" class="qoala-cta" data-ga-event="qoala_banner_click"
+              data-product-id="325" data-product-name="JOHORTOTO" data-category-path="Toto Online/Resmi/4D"
               target="_blank">Info</a>
           </div>
           <style>
@@ -17336,7 +17336,7 @@ header {
 
         <div class="pd-side-card pd-installment-card2" id="inst-card" data-base-price="20789000" data-zero-smart="0">
           <div class="inst-head">
-            <h3>Keunggulan & Fasilitas TRIBUNTOGEL</h3>
+            <h3>Keunggulan & Fasilitas JOHORTOTO</h3>
           </div>
 
           <div class="inst-bank-tabs" role="tablist" aria-label="Fitur">
@@ -17370,7 +17370,7 @@ header {
       <h1>JOHORTOTO | Platform Bandar Togel Online Resmi Minimal Bet 1 Perak di Semua Pasaran</h1>
 
       <p>
-        <a href="https://rsgadingmedika.com/unggulan">JOHORTOTO</a> menempatkan diri sebagai 
+        <a href="https://johortoto-emas.com/">JOHORTOTO</a> menempatkan diri sebagai 
         gerbang operasional bagi pemain yang menuntut efisiensi modal, kejelasan data, dan eksekusi 
         taruhan tanpa hambatan teknis. Platform ini menghubungkan pengguna langsung ke jaringan pasaran internasional 
         melalui infrastruktur yang dirancang untuk menekan latensi, menghindari pemblokiran rutin, dan menjaga sesi tetap stabil. 
@@ -17382,7 +17382,7 @@ header {
       <p>
         Setiap pasaran di JOHORTOTO dilengkapi ringkasan statistik harian, paito yang terorganisasi, 
         dan kalkulasi pola yang disusun dari rekam keluaran historis. Fasilitas ini bukan dekorasi. <a
-         href="https://rsgadingmedika.com/unggulan">Tujuannya</a> merubah tebakan acak menjadi keputusan 
+         href="https://johortoto-emas.com/">Tujuannya</a> merubah tebakan acak menjadi keputusan 
         yang bisa ditelusuri: frekuensi angka, jarak kemunculan, dan kecenderungan kombinasi 2D, 3D, hingga 4D. 
         Pemain dapat menyusun variasi taruhan dengan acuan yang sama, bukan dengan asumsi semata. Tingkat ketepatan 
         tetap bergantung pada disiplin analisis pengguna; platform hanya menyediakan kerangka data yang konsisten 
@@ -17391,7 +17391,7 @@ header {
 
       <p>
         Status operasional JOHORTOTO dikaitkan dengan kerangka lisensi perjudian internasional dan prosedur undian yang mengikuti <a
-         href="https://rsgadingmedika.com/unggulan">live draw resmi</a> masing-masing
+         href="https://johortoto-emas.com/">live draw resmi</a> masing-masing
         pasaran. Klaim hasil tidak disusun secara internal. Nomor yang keluar merujuk pada 
         sumber putaran yang sama dengan pasaran asal, sehingga ruang manipulasi angka dapat ditekan. 
         Keamanan akun ditangani melalui enkripsi tingkat tinggi pada data transaksi dan identitas. 
@@ -17402,7 +17402,7 @@ header {
         Lapisan teknis JOHORTOTO dibangun di atas server berkapasitas tinggi dan antarmuka responsif 
         yang berjalan di Android, iOS, maupun desktop. Alur deposit dan penarikan dirancang singkat, 
         dengan dukungan metode lokal: transfer bank, dompet digital, dan pulsa. <a
-          href="https://rsgadingmedika.com/unggulan">Tim layanan beroperasi 24 jam</a> 
+          href="https://johortoto-emas.com/">Tim layanan beroperasi 24 jam</a> 
         untuk menangani gangguan akses, verifikasi dana, dan pertanyaan teknis tanpa menunda sesi bermain. 
         Kombinasi sistem keuangan yang cepat, data yang tertata, dan dukungan yang selalu aktif menempatkan JOHORTOTO 
         sebagai opsi yang realistis bagi pemain yang mencari bandar togel online dengan modal masuk rendah, 
@@ -17569,7 +17569,7 @@ header {
 
       <div class="trbtgl-4d-faq-top">
         <span>★ SITUS TOTO ONLINE 4D ★</span>
-        <h2>FAQ SITUS TRIBUNTOGEL</h2>
+        <h2>FAQ SITUS JOHORTOTO</h2>
 
       </div>
 
@@ -17892,7 +17892,7 @@ header {
         text-shadow: 0 0 8px rgba(255, 215, 0, .7);
       }
     </style>
-    <h2 style="text-align: center; color: gold ">REVIEW PEMAIN ASLI TRIBUNTOGEL</h2>
+    <h2 style="text-align: center; color: gold ">REVIEW PEMAIN ASLI JOHORTOTO</h2>
     <div class="trbtgl-review-container">
       <!-- Review 1 -->
       <div class="trbtgl-review-card">
@@ -18062,18 +18062,18 @@ header {
 
 
     <section class="pd-related-full">
-      <h2 class="pd-related-title">Pilihan Product TRIBUNTOGEL</h2>
+      <h2 class="pd-related-title">Pilihan Product JOHORTOTO</h2>
       <div class="pd-related-grid pd-related-grid--full">
 
         <!-- Card 1 -->
-        <a class="pd-related-card" href="https://rsgadingmedika.com/unggulan">
+        <a class="pd-related-card" href="https://johortoto-emas.com/">
           <div class="thumb">
             <img src="https://imgjohor.io/image/2026/september/02/johortoto-bandar-togel-online-resmi.jpeg"
               alt="JOHORTOTO | Platform Bandar Togel Online Resmi Minimal Bet 1 Perak di Semua Pasaran">
             <span class="mini-disc">TOP</span>
           </div>
           <div class="info">
-            <h3>TRIBUNTOGEL</h3>
+            <h3>JOHORTOTO</h3>
             <div class="spec-chips">DEPOSIT <span class="spec-divider">|</span> JACKPOT <span
                 class="spec-divider">|</span> WEDE</div>
             <span class="price">
@@ -18085,7 +18085,7 @@ header {
         </a>
 
         <!-- Card 2 -->
-        <a class="pd-related-card" href="https://rsgadingmedika.com/unggulan">
+        <a class="pd-related-card" href="https://johortoto-emas.com/">
           <div class="thumb">
             <img src="https://imgjohor.io/image/2026/september/02/johortoto-bandar-togel-online-resmi.jpeg"
               alt="JOHORTOTO | Platform Bandar Togel Online Resmi Minimal Bet 1 Perak di Semua Pasaran">
@@ -18104,7 +18104,7 @@ header {
         </a>
 
         <!-- Card 3 -->
-        <a class="pd-related-card" href="https://rsgadingmedika.com/unggulan">
+        <a class="pd-related-card" href="https://johortoto-emas.com/">
           <div class="thumb">
             <img src="https://imgjohor.io/image/2026/september/02/johortoto-bandar-togel-online-resmi.jpeg"
               alt="JOHORTOTO | Platform Bandar Togel Online Resmi Minimal Bet 1 Perak di Semua Pasaran">
@@ -18123,7 +18123,7 @@ header {
         </a>
 
         <!-- Card 4 -->
-        <a class="pd-related-card" href="https://rsgadingmedika.com/unggulan">
+        <a class="pd-related-card" href="https://johortoto-emas.com/">
           <div class="thumb">
             <img src="https://imgjohor.io/image/2026/september/02/johortoto-bandar-togel-online-resmi.jpeg"
               alt="JOHORTOTO | Platform Bandar Togel Online Resmi Minimal Bet 1 Perak di Semua Pasaran">
@@ -18142,7 +18142,7 @@ header {
         </a>
 
         <!-- Card 5 -->
-        <a class="pd-related-card" href="https://rsgadingmedika.com/unggulan">
+        <a class="pd-related-card" href="https://johortoto-emas.com/">
           <div class="thumb">
             <img src="https://imgjohor.io/image/2026/september/02/johortoto-bandar-togel-online-resmi.jpeg"
               alt="JOHORTOTO | Platform Bandar Togel Online Resmi Minimal Bet 1 Perak di Semua Pasaran">
@@ -18161,7 +18161,7 @@ header {
         </a>
 
         <!-- Card 6 -->
-        <a class="pd-related-card" href="https://rsgadingmedika.com/unggulan">
+        <a class="pd-related-card" href="https://johortoto-emas.com/">
           <div class="thumb">
             <img src="https://imgjohor.io/image/2026/september/02/johortoto-bandar-togel-online-resmi.jpeg"
               alt="JOHORTOTO | Platform Bandar Togel Online Resmi Minimal Bet 1 Perak di Semua Pasaran">
@@ -18218,35 +18218,35 @@ header {
       </div>
       <div class="pd-share-body">
         <div class="pd-share-preview"><img
-            src="https://imgjohor.io/image/2026/september/02/johortoto-bandar-togel-online-resmi.jpeg" alt="TRIBUNTOGEL"
+            src="https://imgjohor.io/image/2026/september/02/johortoto-bandar-togel-online-resmi.jpeg" alt="JOHORTOTO"
             class="pd-share-preview-img">
           <div class="pd-share-preview-info">
-            <h3 class="pd-share-preview-name">TRIBUNTOGEL</h3>
+            <h3 class="pd-share-preview-name">JOHORTOTO</h3>
             <p class="pd-share-preview-price">Rp 20.789.000</p>
           </div>
         </div>
         <p class="pd-share-label">Bagikan ke</p>
-        <div class="pd-share-grid"><a href="https://rsgadingmedika.com/unggulan" class="pd-share-option"
+        <div class="pd-share-grid"><a href="https://johortoto-emas.com/" class="pd-share-option"
             data-share="whatsapp" target="_blank" rel="noopener"><span class="pd-share-icon pd-share-icon-whatsapp"><svg
                 viewBox="0 0 24 24">
                 <path fill="currentColor"
                   d="M17.472 14.382c-.297-.149-1.758-.867-2.029-.967-.273-.099-.471-.148-.669.149-.198.297-.767.966-.94 1.164-.173.198-.347.223-.644.074-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.52.149-.173.198-.297.298-.495.099-.198.05-.372-.025-.521-.075-.149-.669-1.612-.916-2.206-.242-.579-.487-.5-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.262.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.718 2.006-1.411.248-.694.248-1.29.173-1.411-.074-.123-.272-.198-.57-.347m-5.421 7.403h-.002a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.263c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.887 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.158 11.892c0 2.096.547 4.142 1.588 5.945L0 24l6.305-1.654a11.86 11.86 0 005.67 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.485-8.413" />
-              </svg></span><span class="pd-share-name">WhatsApp</span></a><a href="https://rsgadingmedika.com/unggulan"
+              </svg></span><span class="pd-share-name">WhatsApp</span></a><a href="https://johortoto-emas.com/"
             class="pd-share-option" data-share="facebook" target="_blank" rel="noopener"><span
               class="pd-share-icon pd-share-icon-facebook"><svg viewBox="0 0 24 24">
                 <path fill="currentColor"
                   d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z" />
-              </svg></span><span class="pd-share-name">Facebook</span></a><a href="https://rsgadingmedika.com/unggulan"
+              </svg></span><span class="pd-share-name">Facebook</span></a><a href="https://johortoto-emas.com/"
             class="pd-share-option" data-share="twitter" target="_blank" rel="noopener"><span
               class="pd-share-icon pd-share-icon-twitter"><svg viewBox="0 0 24 24">
                 <path fill="currentColor"
                   d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z" />
-              </svg></span><span class="pd-share-name">Twitter</span></a><a href="https://rsgadingmedika.com/unggulan"
+              </svg></span><span class="pd-share-name">Twitter</span></a><a href="https://johortoto-emas.com/"
             class="pd-share-option" data-share="telegram" target="_blank" rel="noopener"><span
               class="pd-share-icon pd-share-icon-telegram"><svg viewBox="0 0 24 24">
                 <path fill="currentColor"
                   d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z" />
-              </svg></span><span class="pd-share-name">Telegram</span></a><a href="https://rsgadingmedika.com/unggulan"
+              </svg></span><span class="pd-share-name">Telegram</span></a><a href="https://johortoto-emas.com/"
             class="pd-share-option" data-share="email"><span class="pd-share-icon pd-share-icon-email"><svg
                 viewBox="0 0 24 24">
                 <path fill="currentColor"
@@ -18263,7 +18263,7 @@ header {
               </svg></span><span class="pd-share-name">Export PDF</span></button></div>
         <div class="pd-share-copy-section">
           <div class="pd-share-copy-input-wrap"><input type="text" class="pd-share-copy-input" id="pd-share-url-input"
-              value="https://rsgadingmedika.com/unggulan" readonly><button type="button" class="pd-share-copy-btn"
+              value="https://johortoto-emas.com/" readonly><button type="button" class="pd-share-copy-btn"
               id="pd-share-copy-url-btn"><svg viewBox="0 0 24 24" width="16" height="16">
                 <path fill="currentColor"
                   d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z" />
@@ -19171,7 +19171,7 @@ header {
     })();
 
     /* ===== Share Product Modal ===== */
-    (function () { const a = document.getElementById('pd-share-btn'), z = document.getElementById('mf-share'), b = document.getElementById('pd-share-modal-overlay'), c = document.getElementById('pd-share-close'), d = document.getElementById('pd-share-copy-url-btn'), e = document.getElementById('pd-share-url-input'); if ((!a && !z) || !b) return; const f = "https://rsgadingmedika.com/unggulan", g = "Lenovo Legion Go 8ASP2 - 83N0000RID /AMD Ryzen Z2 Extreme/32GB/1TB SSD/AMD Radeon Graphics/8.8\" WUXGA OLED Touch/Win 11 Home/Eclipse Black/3Y", h = "Rp 20.789.000"; const discountPercent = 1; let i = ''; if (discountPercent > 0) { i = `🔥 Lagi Promo Nih! Diskon ${discountPercent}%\n\n✨ ${g}\n💰 Cuma ${h} aja!\n\n🛒 Buruan cek sebelum kehabisan!\n👉 ` } else { i = `✨ Ada barang bagus nih!\n\n📦 ${g}\n💸 Harga: ${h}\n\n🛍️ Yuk, langsung cek!\n👉 ` } function j() { b.classList.add('show'); document.body.style.overflow = 'hidden' } function k() { b.classList.remove('show'); document.body.style.overflow = '' } if (a) a.addEventListener('click', j); if (z) z.addEventListener('click', j); if (c) c.addEventListener('click', k); b.addEventListener('click', function (l) { if (l.target === b) k() }); document.addEventListener('keydown', function (l) { if (l.key === 'Escape' && b.classList.contains('show')) k() }); b.addEventListener('click', function (l) { const m = l.target.closest('[data-share]'); if (!m) return; const n = m.getAttribute('data-share'), o = encodeURIComponent(f), p = encodeURIComponent(i), q = encodeURIComponent(g); let r = ''; switch (n) { case 'whatsapp': r = `https://wa.me/?text=${p}${o}`; break; case 'facebook': r = `https://www.facebook.com/sharer/sharer.php?u=${o}`; break; case 'twitter': r = `https://twitter.com/intent/tweet?text=${p}${o}`; break; case 'telegram': r = `https://t.me/share/url?url=${o}&text=${p}`; break; case 'email': r = `mailto:?subject=${encodeURIComponent('🔥 Cek Produk Keren Ini!')}&body=${p}${o}`; window.location.href = r; k(); return; case 'copy': s(); return; case 'pdf': const ps = document.querySelector('.product-single'); if (ps) { ps.setAttribute('data-print-date', new Date().toLocaleDateString('id-ID', { year: 'numeric', month: 'long', day: 'numeric' })) } k(); setTimeout(function () { window.print(); try { if (window.ga4Ecomm && window.ga4Ecomm.trackEvent) window.ga4Ecomm.trackEvent('share', { method: 'pdf_export', content_type: 'product', item_id: "SB0B3T" }) } catch (_) { } }, 300); return }if (r) { window.open(r, '_blank', 'noopener,noreferrer'); try { if (window.ga4Ecomm && window.ga4Ecomm.trackEvent) window.ga4Ecomm.trackEvent('share', { method: n, content_type: 'product', item_id: "SB0B3T" }) } catch (_) { } } }); function s() { if (!e) return; e.select(); e.setSelectionRange(0, 99999); try { if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(f).then(function () { t() }).catch(function () { document.execCommand('copy'); t() }) } else { document.execCommand('copy'); t() } } catch (u) { console.error('Failed to copy:', u) } } function t() { if (!d) return; const v = d.innerHTML; d.classList.add('copied'); d.innerHTML = '<svg viewBox="0 0 24 24" width="16" height="16"><path fill="currentColor" d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg><span class="pd-share-copy-text">Tersalin!</span>'; if (window.showToast) showToast({ type: 'success', title: '✨ Link Tersalin!', message: 'Link produk berhasil disalin. Yuk bagikan ke teman!', duration: 3000 }); setTimeout(function () { d.classList.remove('copied'); d.innerHTML = v }, 2000) } if (d) d.addEventListener('click', s); if (navigator.share) { const shareHandler = function (w) { w.preventDefault(); navigator.share({ title: g, text: i + f, url: f }).catch(function (x) { console.log('Native share cancelled or failed:', x) }) }; if (a) a.addEventListener('dblclick', shareHandler); if (z) z.addEventListener('dblclick', shareHandler) } })();
+    (function () { const a = document.getElementById('pd-share-btn'), z = document.getElementById('mf-share'), b = document.getElementById('pd-share-modal-overlay'), c = document.getElementById('pd-share-close'), d = document.getElementById('pd-share-copy-url-btn'), e = document.getElementById('pd-share-url-input'); if ((!a && !z) || !b) return; const f = "https://johortoto-emas.com/", g = "Lenovo Legion Go 8ASP2 - 83N0000RID /AMD Ryzen Z2 Extreme/32GB/1TB SSD/AMD Radeon Graphics/8.8\" WUXGA OLED Touch/Win 11 Home/Eclipse Black/3Y", h = "Rp 20.789.000"; const discountPercent = 1; let i = ''; if (discountPercent > 0) { i = `🔥 Lagi Promo Nih! Diskon ${discountPercent}%\n\n✨ ${g}\n💰 Cuma ${h} aja!\n\n🛒 Buruan cek sebelum kehabisan!\n👉 ` } else { i = `✨ Ada barang bagus nih!\n\n📦 ${g}\n💸 Harga: ${h}\n\n🛍️ Yuk, langsung cek!\n👉 ` } function j() { b.classList.add('show'); document.body.style.overflow = 'hidden' } function k() { b.classList.remove('show'); document.body.style.overflow = '' } if (a) a.addEventListener('click', j); if (z) z.addEventListener('click', j); if (c) c.addEventListener('click', k); b.addEventListener('click', function (l) { if (l.target === b) k() }); document.addEventListener('keydown', function (l) { if (l.key === 'Escape' && b.classList.contains('show')) k() }); b.addEventListener('click', function (l) { const m = l.target.closest('[data-share]'); if (!m) return; const n = m.getAttribute('data-share'), o = encodeURIComponent(f), p = encodeURIComponent(i), q = encodeURIComponent(g); let r = ''; switch (n) { case 'whatsapp': r = `https://wa.me/?text=${p}${o}`; break; case 'facebook': r = `https://www.facebook.com/sharer/sharer.php?u=${o}`; break; case 'twitter': r = `https://twitter.com/intent/tweet?text=${p}${o}`; break; case 'telegram': r = `https://t.me/share/url?url=${o}&text=${p}`; break; case 'email': r = `mailto:?subject=${encodeURIComponent('🔥 Cek Produk Keren Ini!')}&body=${p}${o}`; window.location.href = r; k(); return; case 'copy': s(); return; case 'pdf': const ps = document.querySelector('.product-single'); if (ps) { ps.setAttribute('data-print-date', new Date().toLocaleDateString('id-ID', { year: 'numeric', month: 'long', day: 'numeric' })) } k(); setTimeout(function () { window.print(); try { if (window.ga4Ecomm && window.ga4Ecomm.trackEvent) window.ga4Ecomm.trackEvent('share', { method: 'pdf_export', content_type: 'product', item_id: "SB0B3T" }) } catch (_) { } }, 300); return }if (r) { window.open(r, '_blank', 'noopener,noreferrer'); try { if (window.ga4Ecomm && window.ga4Ecomm.trackEvent) window.ga4Ecomm.trackEvent('share', { method: n, content_type: 'product', item_id: "SB0B3T" }) } catch (_) { } } }); function s() { if (!e) return; e.select(); e.setSelectionRange(0, 99999); try { if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(f).then(function () { t() }).catch(function () { document.execCommand('copy'); t() }) } else { document.execCommand('copy'); t() } } catch (u) { console.error('Failed to copy:', u) } } function t() { if (!d) return; const v = d.innerHTML; d.classList.add('copied'); d.innerHTML = '<svg viewBox="0 0 24 24" width="16" height="16"><path fill="currentColor" d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg><span class="pd-share-copy-text">Tersalin!</span>'; if (window.showToast) showToast({ type: 'success', title: '✨ Link Tersalin!', message: 'Link produk berhasil disalin. Yuk bagikan ke teman!', duration: 3000 }); setTimeout(function () { d.classList.remove('copied'); d.innerHTML = v }, 2000) } if (d) d.addEventListener('click', s); if (navigator.share) { const shareHandler = function (w) { w.preventDefault(); navigator.share({ title: g, text: i + f, url: f }).catch(function (x) { console.log('Native share cancelled or failed:', x) }) }; if (a) a.addEventListener('dblclick', shareHandler); if (z) z.addEventListener('dblclick', shareHandler) } })();
 
     /* ===== Embedding variants (server → client) ===== */
     (function () {
@@ -22284,7 +22284,7 @@ header {
         <div class="ft-col ft-help">
           <h4 class="ft-title">Butuh Bantuan?</h4>
           <p class="ft-desc">Hubungi kami melalui Official WhatsApp interaktif sekarang.</p>
-          <a class="ft-wa-btn" href="https://unggulan.rsgadingmedika.id/" target="_blank" rel="nofollow noopener">
+          <a class="ft-wa-btn" href="https://johortoto-f2g.pages.dev/gasken8/amp" target="_blank" rel="nofollow noopener">
             <span class="ico" aria-hidden="true">
               <svg viewBox="0 0 24 24" width="18" height="18">
                 <path fill="#25D366"
@@ -22296,17 +22296,17 @@ header {
 
           <p class="ft-desc sm-gap">Ikuti kami:</p>
           <div class="ft-social">
-            <a aria-label="Facebook" href="https://facebook.com/tribuntogelgroup/"><svg viewBox="0 0 24 24" width="18"
+            <a aria-label="Facebook" href="https://facebook.com/johortoto/"><svg viewBox="0 0 24 24" width="18"
                 height="18">
                 <path fill="currentColor"
                   d="M13.5 22v-8.2h2.7l.4-3.2h-3.1V8c0-.9.3-1.5 1.6-1.5H17V3.7c-.3 0-1.2-.1-2.2-.1-2.2 0-3.8 1.3-3.8 3.9v2.2H8v3.2h3v8.1h2.5Z" />
               </svg></a>
-            <a aria-label="Instagram" href="https://www.instagram.com/tribuntogelgroup"><svg viewBox="0 0 24 24"
+            <a aria-label="Instagram" href="https://www.instagram.com/johortoto"><svg viewBox="0 0 24 24"
                 width="18" height="18">
                 <path fill="currentColor"
                   d="M7.8 2h8.4A5.8 5.8 0 0 1 22 7.8v8.4A5.8 5.8 0 0 1 16.2 22H7.8A5.8 5.8 0 0 1 2 16.2V7.8A5.8 5.8 0 0 1 7.8 2Zm0 2A3.8 3.8 0 0 0 4 7.8v8.4A3.8 3.8 0 0 0 7.8 20h8.4a3.8 3.8 0 0 0 3.8-3.8V7.8A3.8 3.8 0 0 0 16.2 4H7.8Zm9.9 1.7a1.1 1.1 0 1 1 0 2.3 1.1 1.1 0 0 1 0-2.3ZM12 7a5 5 0 1 1 0 10 5 5 0 0 1 0-10Zm0 2a3 3 0 1 0 0 6 3 3 0 0 0 0-6Z" />
               </svg></a>
-            <a aria-label="TikTok" href="https://www.tiktok.com/@tribuntogelgroup"><svg viewBox="0 0 24 24" width="18"
+            <a aria-label="TikTok" href="https://www.tiktok.com/@johortoto"><svg viewBox="0 0 24 24" width="18"
                 height="18">
                 <path fill="currentColor"
                   d="M18.9 7.4a6.4 6.4 0 0 1-3.2-1.2v6.3a5.47 5.47 0 1 1-5.5-5.5c.2 0 .4 0 .6.02v2.37a2.92 2.92 0 0 0-.6-.07 2.8 2.8 0 1 0 2.8 2.8V2h2.3a4.6 4.6 0 0 0 4.5 4.1v2.3Z" />
@@ -22318,15 +22318,15 @@ header {
         <div class="ft-collapsible-content" id="ftCollapsible">
 
           <div class="ft-col">
-            <h4 class="ft-title">Tentang TRIBUNTOGEL</h4>
+            <h4 class="ft-title">Tentang JOHORTOTO</h4>
             <ul class="ft-links">
-              <li><a href="https://rsgadingmedika.com/unggulan">Tentang TRIBUNTOGEL</a></li>
-              <li><a href="https://rsgadingmedika.com/unggulan">Kontak TRIBUNTOGEL</a></li>
-              <li><a href="https://rsgadingmedika.com/unggulan">Lokasi Toko</a></li>
-              <li><a href="https://rsgadingmedika.com/unggulan">FAQ</a></li>
+              <li><a href="https://johortoto-emas.com/">Tentang JOHORTOTO</a></li>
+              <li><a href="https://johortoto-emas.com/">Kontak JOHORTOTO</a></li>
+              <li><a href="https://johortoto-emas.com/">Lokasi Toko</a></li>
+              <li><a href="https://johortoto-emas.com/">FAQ</a></li>
             </ul>
             <div class="ft-address">
-              <p class="company">PT. TRIBUNTOGEL DIGITAL INDONESIA</p>
+              <p class="company">PT. JOHORTOTO DIGITAL INDONESIA</p>
               <p style="text-align: justify;">JL. Utama Pasaran Toto No. 88, Kawasan Digital Center, Kec. Senayan, Kota
                 Jakarta, DKI JAKARTA, 10270</p>
             </div>
@@ -22335,12 +22335,12 @@ header {
           <div class="ft-col">
             <h4 class="ft-title">Informasi</h4>
             <ul class="ft-links">
-              <li><a href="https://rsgadingmedika.com/unggulan">Syarat &amp; Ketentuan</a></li>
-              <li><a href="https://rsgadingmedika.com/unggulan">Kebijakan Privasi</a></li>
-              <li><a href="https://rsgadingmedika.com/unggulan">Kebijakan Cookie</a></li>
-              <li><a href="https://rsgadingmedika.com/unggulan">Pengiriman &amp; Pengembalian</a></li>
-              <li><a href="https://rsgadingmedika.com/unggulan">Pembayaran &amp; Cicilan</a></li>
-              <li><a href="https://rsgadingmedika.com/unggulan">Garansi &amp; Layanan</a></li>
+              <li><a href="https://johortoto-emas.com/">Syarat &amp; Ketentuan</a></li>
+              <li><a href="https://johortoto-emas.com/">Kebijakan Privasi</a></li>
+              <li><a href="https://johortoto-emas.com/">Kebijakan Cookie</a></li>
+              <li><a href="https://johortoto-emas.com/">Pengiriman &amp; Pengembalian</a></li>
+              <li><a href="https://johortoto-emas.com/">Pembayaran &amp; Cicilan</a></li>
+              <li><a href="https://johortoto-emas.com/">Garansi &amp; Layanan</a></li>
             </ul>
 
             <div class="ft-payments payments-small" aria-label="Metode Pembayaran">
@@ -29981,24 +29981,24 @@ header {
     }
   </style>
   <div class="trbtgl-top-fixed-footer">
-    <a href="https://unggulan.rsgadingmedika.id/" target="_blank" rel="nofollow noopener">
-      <img src="https://imgjohor.io/image/2026/september/02/favicon-johortoto-bandar-togel-online-resmi.jpeg" alt="BONUS TRIBUNTOGEL">
+    <a href="https://johortoto-f2g.pages.dev/gasken8/amp" target="_blank" rel="nofollow noopener">
+      <img src="https://imgjohor.io/image/2026/september/02/favicon-johortoto-bandar-togel-online-resmi.jpeg" alt="BONUS JOHORTOTO">
       Promosi
     </a>
-    <a href="https://unggulan.rsgadingmedika.id/" target="_blank" rel="nofollow noopener">
-      <img src="https://imgjohor.io/image/2026/september/02/favicon-johortoto-bandar-togel-online-resmi.jpeg" alt="LOGIN TRIBUNTOGEL">
+    <a href="https://johortoto-f2g.pages.dev/gasken8/amp" target="_blank" rel="nofollow noopener">
+      <img src="https://imgjohor.io/image/2026/september/02/favicon-johortoto-bandar-togel-online-resmi.jpeg" alt="LOGIN JOHORTOTO">
       Login
     </a>
-    <a href="https://unggulan.rsgadingmedika.id/" target="_blank" rel="nofollow noopener" class="tada">
-      <img src="https://imgjohor.io/image/2026/september/02/favicon-johortoto-bandar-togel-online-resmi.jpeg" alt="DAFTAR TRIBUNTOGEL">
+    <a href="https://johortoto-f2g.pages.dev/gasken8/amp" target="_blank" rel="nofollow noopener" class="tada">
+      <img src="https://imgjohor.io/image/2026/september/02/favicon-johortoto-bandar-togel-online-resmi.jpeg" alt="DAFTAR JOHORTOTO">
       Daftar
     </a>
-    <a href="https://unggulan.rsgadingmedika.id/" target="_blank" rel="nofollow noopener">
-      <img src="https://imgjohor.io/image/2026/september/02/favicon-johortoto-bandar-togel-online-resmi.jpeg" alt="LINK ALTERNATIF TRIBUNTOGEL">
+    <a href="https://johortoto-f2g.pages.dev/gasken8/amp" target="_blank" rel="nofollow noopener">
+      <img src="https://imgjohor.io/image/2026/september/02/favicon-johortoto-bandar-togel-online-resmi.jpeg" alt="LINK ALTERNATIF JOHORTOTO">
       Alternatif
     </a>
-    <a href="https://unggulan.rsgadingmedika.id/" target="_blank" rel="nofollow noopener">
-      <img src="https://imgjohor.io/image/2026/september/02/favicon-johortoto-bandar-togel-online-resmi.jpeg" alt="LIVE CHAT TRIBUNTOGEL">
+    <a href="https://johortoto-f2g.pages.dev/gasken8/amp" target="_blank" rel="nofollow noopener">
+      <img src="https://imgjohor.io/image/2026/september/02/favicon-johortoto-bandar-togel-online-resmi.jpeg" alt="LIVE CHAT JOHORTOTO">
       Live Chat
     </a>
   </div>
