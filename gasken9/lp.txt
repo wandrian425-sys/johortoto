@@ -808,7 +808,7 @@
 
 
 /* =========================================
-   LOGO TEGER TERTA
+   LOGO JOHOR TOTO
 ========================================= */
 
 .falling-logo.logo-1 {
@@ -985,7 +985,7 @@
 
 <div class="falling-overlay">
 
-  <!-- TEGER TERTA -->
+  <!-- JOHOR TOTO -->
   <div class="falling-logo logo-1"></div>
   <div class="falling-logo logo-2"></div>
   <div class="falling-logo logo-3"></div>
@@ -2778,7 +2778,7 @@
 },
 {
   "@type": "Review",
-  "author": { "@type": "Person", "name": "Reza" },
+  "author": { "@type": "Person", "name": "Randy" },
   "datePublished": "2026-01-06",
   "reviewBody": "Navigasinya cukup teratur dan bisa dibuka dari smartphone tanpa pengaturan tambahan. Informasi pasar juga tidak tersembunyi. Hanya saja saya masih menyesuaikan diri dengan ritme halaman saat jam ramai. Secara fungsi, layanan bet 1 perak dan pilihan pasarannya sudah sesuai kebutuhan dasar.",
   "name": ""
@@ -2792,30 +2792,30 @@
 },
 {
   "@type": "Review",
-  "author": { "@type": "Person", "name": "Dimas" },
+  "author": { "@type": "Person", "name": "Rian" },
   "datePublished": "2026-01-02",
   "reviewBody": "Dari sisi pemakaian harian, JOHORTOTO terasa ringkas. Pasaran lengkap, proses pasang angka tidak berliku, dan satuan satu perak membantu saya membagi modal. Yang tetap saya jaga adalah membuka kanal resmi saja. Kenyamanan tampilan tidak menggantikan kehati-hatian terhadap data akun.",
   "name": ""
 },
 {
   "@type": "Review",
-  "author": { "@type": "Person", "name": "Rian" },
+  "author": { "@type": "Person", "name": "Ariel" },
   "datePublished": "2025-12-30",
-  "reviewBody": "Pilihan pasarannya cukup lengkap sehingga saya tidak perlu berpindah ke situs lain.",
+  "reviewBody": "Pertama kali melihat JOHORTOTO, saya langsung memperhatikan desainnya yang cukup simpel. Setelah mencoba beberapa menu, saya merasa navigasinya mudah diikuti. Proses menuju halaman login juga tidak terlalu sulit karena letaknya cukup jelas. Bagi saya, pengalaman menggunakan sebuah platform bukan hanya mengenai banyaknya fitur, tetapi juga bagaimana informasi tersebut disajikan agar mudah dipahami.",
   "name": ""
 },
 {
   "@type": "Review",
-  "author": { "@type": "Person", "name": "Budi" },
+  "author": { "@type": "Person", "name": "Celly" },
   "datePublished": "2025-12-28",
-  "reviewBody": "Customer service responsif ketika saya membutuhkan bantuan. Pelayanannya ramah dan cepat memberikan solusi.",
+  "reviewBody": "JOHORTOTO memberikan pengalaman penggunaan yang cukup praktis dari sisi akses dan navigasi. Saya biasanya menggunakan smartphone sehingga tampilan responsif menjadi salah satu hal yang saya perhatikan. Pada JOHORTOTO, beberapa bagian halaman dapat menyesuaikan layar dengan baik. Ditambah dengan susunan menu yang cukup jelas, saya merasa lebih mudah ketika berpindah dari satu bagian ke bagian lainnya.",
   "name": ""
 },
 {
   "@type": "Review",
-  "author": { "@type": "Person", "name": "Andi" },
+  "author": { "@type": "Person", "name": "Ripani" },
   "datePublished": "2025-12-26",
-  "reviewBody": 1. Andi – Jakarta "Proses registrasinya mudah dan tampilannya juga sederhana. Saya jadi lebih nyaman saat mengakses semua pasaran yang tersedia.",
+  "reviewBody": "Saya termasuk pengguna yang lebih menyukai website dengan tampilan sederhana dan tidak terlalu banyak elemen yang mengganggu. Dari yang saya lihat, JOHORTOTO memiliki struktur halaman yang cukup mudah dipahami. Informasi mengenai layanan juga dapat ditemukan dengan cukup cepat. Secara keseluruhan, saya merasa desain dan navigasinya menjadi salah satu bagian yang membuat platform ini terasa lebih praktis.",
   "name": ""
 }
     ]
@@ -3862,7 +3862,7 @@
             2px 2px 4px #9e0000,
             -1px -1px 2px #ff3b3b;
     ">
-    🔊 Main di JOHORTOTO Enak Tau >> Tegerta_77 
+    🔊 Main di JOHORTOTO Enak Tau >> Johortoto 
 </h4>
      <div id="deliveryDate" class="m-0"></div>
      <div id="deliveryDateFull">
