@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
-<link href="https://aiims.edu/index.php/en" rel="preconnect">
+<link href="https://www.aiims.edu/index.php/en" rel="preconnect">
 <meta charset="utf-8">
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
@@ -10,7 +10,7 @@
 <title>JOHORTOTO : Bandar Togel Online 4D dengan Pilihan Pasaran Lengkap untuk Pemain Indonesia</title>
 <meta name="title" content="JOHORTOTO : Bandar Togel Online 4D dengan Pilihan Pasaran Lengkap untuk Pemain Indonesia">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://aiims.edu/index.php/en">
+<link rel="canonical" href="https://www.aiims.edu/index.php/en">
 <link rel="amphtml" href="https://aiims-institute.com/india/">
 <link rel="alternate" hreflang="id-id" href="https://aiims-institute.com/india/"/>
 <link rel="alternate" href="https://aiims-institute.com/india/"/>
@@ -24,12 +24,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="JOHORTOTO : Bandar Togel Online 4D dengan Pilihan Pasaran Lengkap untuk Pemain Indonesia">
 <meta name="twitter:description" content="JOHORTOTO adalah arena togel online 4D dengan pilihan pasaran lengkap dalam satu situs toto. Jelajahi beragam pasaran melalui satu akses praktis yang dirancang untuk pemain Indonesia.">
-<meta name="twitter:url" content="https://aiims.edu/index.php/en">
+<meta name="twitter:url" content="https://www.aiims.edu/index.php/en">
 <meta name="twitter:image" content="https://imgjohor.io/images/2026/10/03/johortoto-untuk-pemain-indonesia.png">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="JOHORTOTO">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://aiims.edu/index.php/en">
+<meta property="og:url" content="https://www.aiims.edu/index.php/en">
 <meta property="og:title" content="JOHORTOTO : Bandar Togel Online 4D dengan Pilihan Pasaran Lengkap untuk Pemain Indonesia">
 <meta property="og:description" content="JOHORTOTO adalah arena togel online 4D dengan pilihan pasaran lengkap dalam satu situs toto. Jelajahi beragam pasaran melalui satu akses praktis yang dirancang untuk pemain Indonesia.">
 <meta property="og:image" content="https://imgjohor.io/images/2026/10/03/johortoto-untuk-pemain-indonesia.png">
@@ -740,7 +740,7 @@ digitalData.page.pageInfo.pageName = pageName;
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "https://aiims.edu/index.php/en",
+        "@id": "https://www.aiims.edu/index.php/en",
         "name": "JOHORTOTO"
       }
     }
@@ -799,7 +799,7 @@ digitalData.page.pageInfo.pageName = pageName;
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "@id": "https://aiims.edu/index.php/en",
+  "@id": "https://www.aiims.edu/index.php/en",
   "name": "JOHORTOTO",
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -824,7 +824,7 @@ digitalData.page.pageInfo.pageName = pageName;
       "reviewBody": "Yang paling menonjol buat saya adalah pilihan pasarannya. Di JOHORTOTO saya bisa langsung melihat kategori togel online 4D tanpa harus mencari ke banyak bagian.",
       "itemReviewed": {
         "@type": "Organization",
-        "@id": "https://aiims.edu/index.php/en",
+        "@id": "https://www.aiims.edu/index.php/en",
         "name": "JOHORTOTO"
       }
     },
@@ -843,7 +843,7 @@ digitalData.page.pageInfo.pageName = pageName;
       "reviewBody": "Saya menyukai cara JOHORTOTO membahas referensi pasaran secara ringkas. Informasinya cukup membantu sebagai bacaan awal sebelum melihat pilihan yang tersedia.",
       "itemReviewed": {
         "@type": "Organization",
-        "@id": "https://aiims.edu/index.php/en",
+        "@id": "https://www.aiims.edu/index.php/en",
         "name": "JOHORTOTO"
       }
     },
@@ -862,7 +862,7 @@ digitalData.page.pageInfo.pageName = pageName;
       "reviewBody": "Bagi saya JOHORTOTO punya tampilan informasi yang praktis. Penjelasan mengenai angka 4D disampaikan dengan bahasa yang lebih familiar bagi pembaca baru.",
       "itemReviewed": {
         "@type": "Organization",
-        "@id": "https://aiims.edu/index.php/en",
+        "@id": "https://www.aiims.edu/index.php/en",
         "name": "JOHORTOTO"
       }
     },
@@ -881,7 +881,7 @@ digitalData.page.pageInfo.pageName = pageName;
       "reviewBody": "JOHORTOTO terasa bermanfaat ketika saya ingin mencari gambaran umum tentang Bandar Togel Online. Kontennya singkat tetapi tetap memberi konteks yang cukup.",
       "itemReviewed": {
         "@type": "Organization",
-        "@id": "https://aiims.edu/index.php/en",
+        "@id": "https://www.aiims.edu/index.php/en",
         "name": "JOHORTOTO"
       }
     },
@@ -900,7 +900,7 @@ digitalData.page.pageInfo.pageName = pageName;
       "reviewBody": "Saya menemukan pembahasan JOHORTOTO cukup teratur dan tidak dipenuhi istilah teknis. Hal itu membuat proses mencari informasi terasa lebih nyaman.",
       "itemReviewed": {
         "@type": "Organization",
-        "@id": "https://aiims.edu/index.php/en",
+        "@id": "https://www.aiims.edu/index.php/en",
         "name": "JOHORTOTO"
       }
     },
@@ -919,7 +919,7 @@ digitalData.page.pageInfo.pageName = pageName;
       "reviewBody": "Saya sering akses lewat HP. Navigasinya praktis karena dari halaman JOHORTOTO saya bisa langsung lanjut melihat informasi pasaran yang ingin dicek.",
       "itemReviewed": {
         "@type": "Organization",
-        "@id": "https://aiims.edu/index.php/en",
+        "@id": "https://www.aiims.edu/index.php/en",
         "name": "JOHORTOTO"
       }
     }
@@ -1003,7 +1003,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="TOGEL" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="TOGEL" class="nv00-gnb-v4__logo" href="https://aiims.edu/index.php/en">
+       <a an-ac="gnb" an-ca="navigation" an-la="TOGEL" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="TOGEL" class="nv00-gnb-v4__logo" href="https://www.aiims.edu/index.php/en">
         <img src="https://imgjohor.io/images/2026/10/03/logo-johortoto.gif" alt="" width="200" height="56">
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1285,7 +1285,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menu">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://aiims.edu/index.php/en" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.aiims.edu/index.php/en" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
             JOHORTOTO
             </span>
@@ -1294,7 +1294,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://aiims.edu/index.php/en" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.aiims.edu/index.php/en" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              Situs Toto
             </span>
@@ -1303,7 +1303,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://aiims.edu/index.php/en" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.aiims.edu/index.php/en" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              Togel Online
             </span>
@@ -1312,7 +1312,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://aiims.edu/index.php/en" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.aiims.edu/index.php/en" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              Link Toto
             </span>
@@ -1321,7 +1321,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://aiims.edu/index.php/en" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.aiims.edu/index.php/en" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              Situs Togel
             </span>
@@ -1330,7 +1330,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://aiims.edu/index.php/en" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.aiims.edu/index.php/en" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              Daftar Togel
             </span>
@@ -1358,7 +1358,7 @@ digitalData.page.pageInfo.pageName = pageName;
          
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="JOHORTOTO DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="JOHORTOTO Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://aiims.edu/index.php/en" role="menuitem" target="_blank">
+           <a an-ac="gnb" an-ca="navigation" an-la="JOHORTOTO DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="JOHORTOTO Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.aiims.edu/index.php/en" role="menuitem" target="_blank">
             DAFTAR
            </a>
           </div>
@@ -1366,10 +1366,10 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://aiims.edu/index.php/en" href="https://aiims.edu/index.php/en" role="menuitem">
+         <a data-linkinfo="https://www.aiims.edu/index.php/en" href="https://www.aiims.edu/index.php/en" role="menuitem">
           Login/Sign-Up
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://aiims.edu/index.php/en" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.aiims.edu/index.php/en" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1389,7 +1389,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Buka Menu Saya
           </p>
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://aiims.edu/index.php/en" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.aiims.edu/index.php/en" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1434,10 +1434,10 @@ digitalData.page.pageInfo.pageName = pageName;
           </button>
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://aiims.edu/index.php/en" role="menuitem" target="_self" rel="noopener noreferrer" onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://aiims.edu/index.php/en'; return false;">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://www.aiims.edu/index.php/en" role="menuitem" target="_self" rel="noopener noreferrer" onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://www.aiims.edu/index.php/en'; return false;">
               Login/Sign-Up
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://aiims.edu/index.php/en" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.aiims.edu/index.php/en" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -1453,7 +1453,7 @@ digitalData.page.pageInfo.pageName = pageName;
             <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.samsung.com/id/members/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="TOGEL" an-tr="nv00_gnb-product detail-account-account" aria-label="TOGEL" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://aiims.edu/index.php/en" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="TOGEL" an-tr="nv00_gnb-product detail-account-account" aria-label="TOGEL" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.aiims.edu/index.php/en" role="menuitem">
               TOGEL
             </a>
            </div>
@@ -1480,7 +1480,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </svg>
              <p class="user-name"></p>
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://aiims.edu/index.php/en" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.aiims.edu/index.php/en" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -2028,10 +2028,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://aiims.edu/index.php/en" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://www.aiims.edu/index.php/en" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://aiims.edu/index.php/en" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://www.aiims.edu/index.php/en" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -2531,7 +2531,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://aiims.edu/index.php/en">
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://www.aiims.edu/index.php/en">
              Add to cart
             </a>
            </div>
@@ -2690,7 +2690,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://aiims.edu/index.php/en" target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://www.aiims.edu/index.php/en" target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
                <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -4383,7 +4383,7 @@ digitalData.page.pageInfo.pageName = pageName;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://aiims.edu/index.php/en" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://www.aiims.edu/index.php/en" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -6935,7 +6935,7 @@ a:hover {
             </div>
         </div>
 <div class="highlight-box">
-<p><a href="https://aiims.edu/index.php/en">JOHORTOTO</a> adalah bandar togel online 4D untuk pemain Indonesia yang menghadirkan beragam pilihan pasaran dalam satu situs toto. Pengguna dapat langsung mengecek jadwal buka dan tutup pasaran, pilihan permainan 4D, aturan taruhan, serta informasi setiap pasaran tanpa perlu berpindah situs. Semua informasi togel online disusun dalam satu akses JOHORTOTO agar pencarian pasaran terasa lebih cepat, jelas, dan praktis.</p>
+<p><a href="https://www.aiims.edu/index.php/en">JOHORTOTO</a> adalah bandar togel online 4D untuk pemain Indonesia yang menghadirkan beragam pilihan pasaran dalam satu situs toto. Pengguna dapat langsung mengecek jadwal buka dan tutup pasaran, pilihan permainan 4D, aturan taruhan, serta informasi setiap pasaran tanpa perlu berpindah situs. Semua informasi togel online disusun dalam satu akses JOHORTOTO agar pencarian pasaran terasa lebih cepat, jelas, dan praktis.</p>
 <p>Togel Online 4D biasanya merujuk pada pilihan angka dengan empat digit. Saat membaca informasi pasaran, pengguna sebaiknya memperhatikan jadwal, format angka, dan keterangan yang tersedia pada halaman terkait. Pemahaman dasar tersebut dapat membantu mengurangi kesalahan ketika menafsirkan informasi.</p>
 <p>Selain membandingkan pilihan pasaran, pengalaman pengguna juga dipengaruhi oleh tampilan halaman dan kemudahan menemukan informasi. Struktur yang rapi, keterangan yang jelas, serta akses yang nyaman membuat proses membaca referensi terasa lebih praktis bagi pemain Indonesia dengan kebiasaan penggunaan yang berbeda.</p>
 <p>Setiap keputusan tetap perlu dilakukan secara bijak dan sesuai batas pribadi. Informasi pada JOHORTOTO dapat digunakan sebagai bahan bacaan awal untuk memahami topik Bandar Togel Online dan Toto Togel 4D, bukan sebagai jaminan hasil. Pembaca juga sebaiknya memeriksa ketentuan layanan dan mematuhi aturan yang berlaku di wilayah masing masing.</p>
@@ -7817,7 +7817,7 @@ a:hover {
      <div class="breadcrumb__inner">
       <ul class="breadcrumb__path" role="list">
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:home" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Home" href="https://aiims.edu/index.php/en">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:home" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Home" href="https://www.aiims.edu/index.php/en">
          <span class="breadcrumb__text-desktop">
           JOHORTOTO<span style="margin-left: 15px;">&gt;</span>
          </span>
@@ -7831,7 +7831,7 @@ a:hover {
         </svg>
        </li>
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://aiims.edu/index.php/en">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://www.aiims.edu/index.php/en">
          <span class="breadcrumb__text-desktop">
           Togel Online<span style="margin-left: 15px;">&gt;</span>
          </span>
@@ -7845,7 +7845,7 @@ a:hover {
         </svg>
        </li>
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:smartphones" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Smartphones" href="https://aiims.edu/index.php/en">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:smartphones" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Smartphones" href="https://www.aiims.edu/index.php/en">
          <span class="breadcrumb__text-desktop">
         Link Toto
          </span>
@@ -7918,42 +7918,42 @@ a:hover {
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     JOHORTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Situs Toto
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Togel Online
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Link Toto
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Situs Togel
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Daftar Togel
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Bandar Togel
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Togel Terbaru
                   </a>
                 </li>
@@ -7978,37 +7978,37 @@ a:hover {
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Promo &amp; Bonus Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Fitur Deposit
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Fitur Withdraw
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Program Referral
                   </a>
                 </li>
@@ -8034,37 +8034,37 @@ a:hover {
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Live Chat 24/7
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Responsible Gaming
                   </a>
                 </li>
@@ -8105,17 +8105,17 @@ a:hover {
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Fitur Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Program VIP
                   </a>
                 </li>
@@ -8142,22 +8142,22 @@ a:hover {
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Fitur Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Fitur Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Kontak Resmi
                   </a>
                 </li>
@@ -8181,22 +8181,22 @@ a:hover {
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Tentang Togel Online
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Kenapa Pilih JOHORTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://aiims.edu/index.php/en" an-as="">
+                  <a class="footer-category__link" href="https://www.aiims.edu/index.php/en" an-as="">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -8216,7 +8216,7 @@ a:hover {
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://aiims.edu/index.php/en" an-as="">
+            <a class="footer-language__anchor" href="https://www.aiims.edu/index.php/en" an-as="">
               Indonesia / Bahasa Indonesia
 
             </a>
@@ -8225,7 +8225,7 @@ a:hover {
 
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://aiims.edu/index.php/en" an-as="">
+            <a class="footer-language__anchor" href="https://www.aiims.edu/index.php/en" an-as="">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -10716,7 +10716,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="scrollbar-horizontal__track" style="display: none;"><div class="scrollbar-horizontal__track-content"><div class="scrollbar-horizontal__bar"></div></div></div><div class="scrollbar-vertical__track" style="display: none;"><div class="scrollbar-vertical__track-content"><div class="scrollbar-vertical__bar"></div></div></div></div>
       <div class="fold-alert-popup__cta">
        <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-       <a class="cta cta--outlined cta--black" href="https://aiims.edu/index.php/en" title="Tutup">
+       <a class="cta cta--outlined cta--black" href="https://www.aiims.edu/index.php/en" title="Tutup">
         Tutup
        </a>
       </div>
@@ -10997,7 +10997,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkläre mich mit diesen einverstanden.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://aiims.edu/index.php/en" title="Bestätigen">
+        <a class="cta cta--contained cta--emphasis" href="https://www.aiims.edu/index.php/en" title="Bestätigen">
          Bestätigen
         </a>
        </div>
@@ -11020,7 +11020,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgfältig durchgelesen.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://aiims.edu/index.php/en" title="Bestätigen">
+        <a class="cta cta--contained cta--emphasis" href="https://www.aiims.edu/index.php/en" title="Bestätigen">
          Bestätigen
         </a>
        </div>
@@ -11097,11 +11097,11 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       </div>
       <div class="wishlist-popup__cta-wrap">
        <div class="wishlist-popup__cta">
-        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://aiims.edu/index.php/en" role="button">
+        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://www.aiims.edu/index.php/en" role="button">
         </a>
        </div>
        <div class="wishlist-popup__cta">
-        <a class="cta cta--contained cta--emphasis" href="https://aiims.edu/index.php/en" role="button">
+        <a class="cta cta--contained cta--emphasis" href="https://www.aiims.edu/index.php/en" role="button">
         </a>
        </div>
       </div>
@@ -11167,12 +11167,12 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         </div>
         <div class="extended-warranty-popup__button-inner">
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://aiims.edu/index.php/en" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://www.aiims.edu/index.php/en" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://aiims.edu/index.php/en" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://www.aiims.edu/index.php/en" role="button">
            Yakin
           </a>
          </div>
@@ -11197,7 +11197,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkläre mich mit diesen einverstanden.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://aiims.edu/index.php/en">
+        <a class="cta cta--contained cta--emphasis" href="https://www.aiims.edu/index.php/en">
          Bestätigen
         </a>
        </div>
@@ -11220,7 +11220,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgfältig durchgelesen.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://aiims.edu/index.php/en" title="">
+        <a class="cta cta--contained cta--emphasis" href="https://www.aiims.edu/index.php/en" title="">
          Bestätigen
         </a>
        </div>
@@ -11271,12 +11271,12 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
        <div class="extended-warranty-popup-vd__button">
         <div class="extended-warranty-popup-vd__button-inner">
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--outlined cta--black" href="https://aiims.edu/index.php/en" role="button">
+          <a class="cta cta--outlined cta--black" href="https://www.aiims.edu/index.php/en" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://aiims.edu/index.php/en" role="button">
+          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://www.aiims.edu/index.php/en" role="button">
            Yakin
           </a>
          </div>
