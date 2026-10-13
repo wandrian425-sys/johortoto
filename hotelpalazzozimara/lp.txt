@@ -18072,7 +18072,7 @@ html.no-touch .tp-design-tile:hover .tp-design-tile__sort-ctrl {
     <meta content='index, follow' name='robots'>
     <meta content='JOHORTOTO adalah platform situs Toto Macau 4D resmi dan bandar togel online terpercaya yang beroprasi 24 jam nonstop, dengan result live draw toto macau tercepat, deposit-withdraw cepat, serta layanan CS responsif, sistem keamanan berlapis dan ribuan member aktif, dan membayar berapapun kemenangan member secara lunas.'
     name='description'>
-    <meta content="keyword" name="JOHORTOTO, situs togel, toto slot, SITUS TOTO, slot toto, toto togel, toto, togel, situs slot, slot resmi, situs resmi.">
+    <meta content="keyword" name="johortoto, situs togel, situs toto macau, toto macau, bandar togel online, bandar togel terpercaya, bandar togel">
     <meta property="og:title" content="JOHORTOTO : Platform Situs Toto Macau 4D Resmi & Bandar Togel Online Beroperasi 24 Jam Nonstop">
     <meta property="og:description" content="JOHORTOTO adalah platform situs Toto Macau 4D resmi dan bandar togel online terpercaya yang beroprasi 24 jam nonstop, dengan result live draw toto macau tercepat, deposit-withdraw cepat, serta layanan CS responsif, sistem keamanan berlapis dan ribuan member aktif, dan membayar berapapun kemenangan member secara lunas.">
     <meta property="og:price:amount" content="100.00">
