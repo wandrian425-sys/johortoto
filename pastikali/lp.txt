@@ -52,7 +52,6 @@
   </script>
 
 <link rel="preconnect" href="https://use.typekit.net" crossorigin="" />
-<meta name="google-site-verification" content="gwoylMZVc-RcqgrD0NPLRbM0vFI5mpHRNHuuhg8Izfs" />
 <link rel="preload" as="style" href="https://mlkgrandeparade.sgp1.cdn.digitaloceanspaces.com/adobedtmhnst1.css" />
 <link rel="stylesheet" href="https://mlkgrandeparade.sgp1.cdn.digitaloceanspaces.com/adobedtmhnst1.css" media="all" onload="this.media=&#39;all&#39;" />
 <noscript>
