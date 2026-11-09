@@ -10,14 +10,14 @@
     <meta name="robots" content="index,follow" />
     
     <link rel="shortcut icon" type="image/x-icon" media="all" href="https://imgjohor.io/uploads/2026/11/9/icon.png" />
-    <link rel="canonical" href="https://westburger.com.pl/" />
+    <link rel="canonical" href="https://westburger.com.pl/menu/" />
     <script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script>
     <script type="text/javascript" async="" src="https://tag.rmp.rakuten.com/124165.ct.js"></script>
     <link rel="amphtml" href="https://johortoto-alternatif.pages.dev/" />
-<link rel="alternate" hreflang="id" href="https://westburger.com.pl/" />
-<link rel="alternate" hreflang="id-id" href="https://westburger.com.pl/" />
-<link rel="alternate" hreflang="x-default" href="https://westburger.com.pl/" />
-<link rel="alternate" hreflang="en" href="https://westburger.com.pl/" />  
+<link rel="alternate" hreflang="id" href="https://westburger.com.pl/menu/" />
+<link rel="alternate" hreflang="id-id" href="https://westburger.com.pl/menu/" />
+<link rel="alternate" hreflang="x-default" href="https://westburger.com.pl/menu/" />
+<link rel="alternate" hreflang="en" href="https://westburger.com.pl/menu/" />  
     <script type="application/ld+json">
         {
             "@context": "http://schema.org",
@@ -26,13 +26,13 @@
             "description": "JOHORTOTO merangkum informasi seputar link alternatif hari ini, 11 November 2026, mulai dari identifikasi alamat website hingga pemeriksaan keamanan halaman login.",
             "image": "https://imgjohor.io/uploads/2026/11/9/3aed19b3-15e8-4111-ab07-bff30d6bd91b.png",
             "name": "JOHORTOTO - Berita Terbaru Tentang Link Alternatif JOHORTOTO Hari Ini 11 November 2026",
-            "category": "https://westburger.com.pl/",
+            "category": "https://westburger.com.pl/menu/",
             "offers": {
                 "@type": "Offer",
                 "availability": "https://schema.org/OutOfStock",
                 "price": "10000",
                 "priceCurrency": "GBP",
-                "url": "https://westburger.com.pl/"
+                "url": "https://westburger.com.pl/menu/"
             },
             "sku": "JOHORTOTO",
             "gtin13": "62888888888"
@@ -43,7 +43,7 @@
     "@context": "http://schema.org",
     "@type": "Organization",
     "address": "Jl. Asia Afrika No. 88, Bandung, Jawa Barat 40111",
-    "url": "https://westburger.com.pl/",
+    "url": "https://westburger.com.pl/menu/",
     "name": "JOHORTOTO",
     "telephone": "08526 888888",
     "logo": "https://imgjohor.io/uploads/2026/11/9/logo.gif",
@@ -1318,16 +1318,16 @@
                     <div class="col-12">
                         <div class="d-lg-flex justify-content-center">
                             <div class="yCmsComponent header-alt__top-bar-link ">
-                                <a href="https://westburger.com.pl/" title="Service Kami"><span
+                                <a href="https://westburger.com.pl/menu/" title="Service Kami"><span
                                         class="header-alt__top-bar-link-icon glyph glyph--build-filled glyph--light"></span><span
                                         class="header-alt__top-bar-link-text">Service Kami</span></a></div>
                             <div class="yCmsComponent header-alt__top-bar-link ">
-                                <a href="https://westburger.com.pl/"
+                                <a href="https://westburger.com.pl/menu/"
                                     title="Simulator Projek"><span
                                         class="header-alt__top-bar-link-icon glyph glyph--calculator glyph--light"></span><span
                                         class="header-alt__top-bar-link-text">Simulator Projek</span></a></div>
                             <div class="yCmsComponent header-alt__top-bar-link ">
-                                <a href="https://westburger.com.pl/" title="Butuh Bantuan?"><span
+                                <a href="https://westburger.com.pl/menu/" title="Butuh Bantuan?"><span
                                         class="header-alt__top-bar-link-icon glyph glyph--headset glyph--light"></span><span
                                         class="header-alt__top-bar-link-text">Butuh Bantuan?</span></a></div>
                         </div>
@@ -1509,7 +1509,7 @@
                                                     <hr class="hr" />
                                                     <div>Don&#39;t worry, we won&#39;t share your location! Read more
                                                         about how we use <a
-                                                            href="https://westburger.com.pl/">cookies</a>.
+                                                            href="https://westburger.com.pl/menu/">cookies</a>.
                                                     </div>
                                                 </div>
                                             </div>
@@ -1534,7 +1534,7 @@
                                                         <form id="modal-branch-form" name="sessionLocationForm"
                                                             novalidate="true" data-form-id="sessionLocationForm"
                                                             class="js-form-validate"
-                                                            action="https://westburger.com.pl/data"
+                                                            action="https://westburger.com.pl/menu/data"
                                                             method="post">
                                                             <div
                                                                 class="form-group form-group--search-group form-group__postcode">
@@ -1584,17 +1584,17 @@
                                                     <hr class="hr" />
                                                     <div>Don&#39;t worry, we won&#39;t share your location! Read more
                                                         about how we use <a
-                                                            href="https://westburger.com.pl/">cookies</a>.
+                                                            href="https://westburger.com.pl/menu/">cookies</a>.
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                         <div
                                             class="header-alt__quick-bar-icon header-alt__quick-bar-cart order-2 order-lg-1">
-                                            <a href="https://westburger.com.pl/"
+                                            <a href="https://westburger.com.pl/menu/"
                                                 class="header-alt__quick-bar-link js-mini-basket"
-                                                data-mini-cart-url="https://westburger.com.pl/rollover/MiniCart"
-                                                data-mini-cart-refresh-url="https://westburger.com.pl/miniCart/TOTAL_WITHOUT_DELIVERY"
+                                                data-mini-cart-url="https://westburger.com.pl/menu/rollover/MiniCart"
+                                                data-mini-cart-refresh-url="https://westburger.com.pl/menu/miniCart/TOTAL_WITHOUT_DELIVERY"
                                                 data-mini-cart-name="Trolley" data-mini-cart-empty-name="Empty Trolley"
                                                 rel="nofollow">
 
@@ -1701,17 +1701,17 @@
                             </div>
                             <div class="header-alt__top-bar-links">
                                 <div class="yCmsComponent header-alt__top-bar-link ">
-                                    <a href="https://westburger.com.pl/"
+                                    <a href="https://westburger.com.pl/menu/"
                                         title="Service Kami"><span
                                             class="header-alt__top-bar-link-icon glyph glyph--build-filled"></span><span
                                             class="header-alt__top-bar-link-text">Service Kami</span></a></div>
                                 <div class="yCmsComponent header-alt__top-bar-link ">
-                                    <a href="https://westburger.com.pl/"
+                                    <a href="https://westburger.com.pl/menu/"
                                         title="Simulator Projek"><span
                                             class="header-alt__top-bar-link-icon glyph glyph--calculator"></span><span
                                             class="header-alt__top-bar-link-text">Simulator Projek</span></a></div>
                                 <div class="yCmsComponent header-alt__top-bar-link ">
-                                    <a href="https://westburger.com.pl/"
+                                    <a href="https://westburger.com.pl/menu/"
                                         title="Butuh Bantuan?"><span
                                             class="header-alt__top-bar-link-icon glyph glyph--headset"></span><span
                                             class="header-alt__top-bar-link-text">Butuh Bantuan?</span></a></div>
@@ -1727,51 +1727,51 @@
                             <div class="yCmsComponent d-lg-flex justify-content-between w-100"
                                 data-starname="NavigationBar">
                                 <div class="menu-alt__tray-item js-menu-tray-item">
-                                    <a href="https://westburger.com.pl/" title="JOHORTOTO"
+                                    <a href="https://westburger.com.pl/menu/" title="JOHORTOTO"
                                         class="menu-alt__link menu-alt__link--main menu-alt__link--parent js-menu-parent">JOHORTOTO</a>
                                 </div>
 
                                 <div class="menu-alt__tray-item js-menu-tray-item">
-                                    <a href="https://westburger.com.pl/" title="JOHORTOTO LOGIN"
+                                    <a href="https://westburger.com.pl/menu/" title="JOHORTOTO LOGIN"
                                         class="menu-alt__link menu-alt__link--main menu-alt__link--parent js-menu-parent">JOHORTOTO
                                         DAFTAR</a>
                                 </div>
 
                                 <div class="menu-alt__tray-item js-menu-tray-item">
-                                    <a href="https://westburger.com.pl/" title="JOHORTOTO LINK"
+                                    <a href="https://westburger.com.pl/menu/" title="JOHORTOTO LINK"
                                         class="menu-alt__link menu-alt__link--main menu-alt__link--parent js-menu-parent">JOHORTOTO
                                         LOGIN</a>
                                 </div>
 
                                 <div class="menu-alt__tray-item js-menu-tray-item">
-                                    <a href="https://westburger.com.pl/"
+                                    <a href="https://westburger.com.pl/menu/"
                                         title="SITUS SLOT JOHORTOTO"
                                         class="menu-alt__link menu-alt__link--main menu-alt__link--parent js-menu-parent">JOHORTOTO ALTERNATIF
                                     </a>
                                 </div>
 
                                 <div class="menu-alt__tray-item js-menu-tray-item">
-                                    <a href="https://westburger.com.pl/" title="JOHORTOTO RESMI"
+                                    <a href="https://westburger.com.pl/menu/" title="JOHORTOTO RESMI"
                                         class="menu-alt__link menu-alt__link--main menu-alt__link--parent js-menu-parent">JOHORTOTO
                                         RESMI</a>
                                 </div>
 
                                 <div class="menu-alt__tray-item js-menu-tray-item">
-                                    <a href="https://westburger.com.pl/"
+                                    <a href="https://westburger.com.pl/menu/"
                                         title="JOHORTOTO SLOT"
                                         class="menu-alt__link menu-alt__link--main menu-alt__link--parent js-menu-parent">JOHORTOTO SLOT
                                     </a>
                                 </div>
 
                                  <div class="menu-alt__tray-item js-menu-tray-item">
-                                    <a href="https://westburger.com.pl/"
+                                    <a href="https://westburger.com.pl/menu/"
                                         title="LOGIN"
                                         class="menu-alt__link menu-alt__link--main menu-alt__link--parent js-menu-parent">LOGIN
                                     </a>
                                 </div>
 
                                  <div class="menu-alt__tray-item js-menu-tray-item">
-                                    <a href="https://westburger.com.pl/"
+                                    <a href="https://westburger.com.pl/menu/"
                                         title="DAFTAR"
                                         class="menu-alt__link menu-alt__link--main menu-alt__link--parent js-menu-parent">DAFTAR
                                     </a>
@@ -1781,11 +1781,11 @@
                             <div class="d-lg-none menu-alt__tray-item">
                                 <span class="menu-alt__title">More from Jewson</span>
                                 <div>
-                                    <a href="https://westburger.com.pl/"
+                                    <a href="https://westburger.com.pl/menu/"
                                         class="menu-alt__link at-element-marker">Click &amp; Collect in 15 mins</a>
-                                    <a href="https://westburger.com.pl/"
+                                    <a href="https://westburger.com.pl/menu/"
                                         class="menu-alt__link at-element-marker">FREE next day delivery*</a>
-                                    <a href="https://westburger.com.pl/"
+                                    <a href="https://westburger.com.pl/menu/"
                                         class="menu-alt__link at-element-marker" style="display: none;">Making better
                                         homes</a>
                                 </div>
@@ -1909,7 +1909,7 @@
                             data-section="breadcrumbs">
                             <li class="breadcrumb__item d-none" itemprop="itemListElement" itemscope
                                 itemtype="http://schema.org/ListItem" data-section="breadcrumb-item-home">
-                                <a class="breadcrumb__link" itemprop="item" href="https://westburger.com.pl/">
+                                <a class="breadcrumb__link" itemprop="item" href="https://westburger.com.pl/menu/">
                                     <span itemprop="name" class="breadcrumb__inner breadcrumb__inner--text">
                                         JOHORTOTO</span>
                                     <span class="breadcrumb__inner breadcrumb__inner--icon" data-name="arrow">
@@ -1922,7 +1922,7 @@
                             <li class="breadcrumb__item d-none" itemprop="itemListElement" itemscope
                                 itemtype="http://schema.org/ListItem" data-section="breadcrumb-item-2">
                                 <a class="breadcrumb__link" itemprop="item"
-                                    href="https://westburger.com.pl/">
+                                    href="https://westburger.com.pl/menu/">
                                     <span itemprop="name" class="breadcrumb__inner breadcrumb__inner--text">
                                         JOHORTOTO LOGIN</span>
                                     <span class="breadcrumb__inner breadcrumb__inner--icon" data-name="arrow">
@@ -1934,7 +1934,7 @@
                             <li class="breadcrumb__item d-none" itemprop="itemListElement" itemscope
                                 itemtype="http://schema.org/ListItem" data-section="breadcrumb-item-3">
                                 <a class="breadcrumb__link" itemprop="item"
-                                    href="https://westburger.com.pl/">
+                                    href="https://westburger.com.pl/menu/">
                                     <span itemprop="name" class="breadcrumb__inner breadcrumb__inner--text">
                                         JOHORTOTO LINK</span>
                                     <span class="breadcrumb__inner breadcrumb__inner--icon" data-name="arrow">
@@ -1946,7 +1946,7 @@
                             <li class="breadcrumb__item d-none" itemprop="itemListElement" itemscope
                                 itemtype="http://schema.org/ListItem" data-section="breadcrumb-item-4">
                                 <a class="breadcrumb__link" itemprop="item"
-                                    href="https://westburger.com.pl/">
+                                    href="https://westburger.com.pl/menu/">
                                     <span itemprop="name" class="breadcrumb__inner breadcrumb__inner--text">
                                         JOHORTOTO ALTERNATIF </span>
                                 </a>
@@ -2100,7 +2100,7 @@
     </span>
 
     <span itemprop="url">
-        https://westburger.com.pl/
+        https://westburger.com.pl/menu/
     </span>
 </div>
 </div>
@@ -2234,7 +2234,7 @@
                 <div class="johortotolinkalternatif">
 <div class="johortotolink">
     <p>
- <a href="https://westburger.com.pl/" style="color:#285da7; font-weight:bold; text-decoration:none;" title="JOHORTOTO">JOHORTOTO</a> menjadi topik pembahasan informasi link alternatif terbaru menjelang 11 November 2026, khususnya bagi pengguna yang ingin memahami perubahan alamat website, mengenali domain yang benar, serta memastikan keamanan halaman login sebelum mengakses layanan. Pergantian alamat situs dapat menimbulkan kebingungan apabila pengguna menemukan sejumlah tautan dengan nama serupa, sehingga pemeriksaan sumber informasi menjadi langkah penting untuk menghindari halaman tiruan dan penyalahgunaan data akun. Melalui pembahasan link alternatif JOHORTOTO, artikel ini menjelaskan pentingnya mencermati susunan URL, memeriksa identitas pengelola domain, mengenali tanda-tanda phishing, dan memastikan informasi pembaruan berasal dari saluran yang dapat diverifikasi. Pengguna juga perlu memahami bahwa keberadaan sertifikat HTTPS saja tidak cukup untuk membuktikan keaslian sebuah website. Dengan informasi yang jelas mengenai pemeriksaan tautan dan perlindungan akun, pembaca dapat menilai keamanan akses secara lebih cermat tanpa bergantung pada klaim link resmi yang belum memiliki bukti pendukung.    </p>
+ <a href="https://westburger.com.pl/menu/" style="color:#285da7; font-weight:bold; text-decoration:none;" title="JOHORTOTO">JOHORTOTO</a> menjadi topik pembahasan informasi link alternatif terbaru menjelang 11 November 2026, khususnya bagi pengguna yang ingin memahami perubahan alamat website, mengenali domain yang benar, serta memastikan keamanan halaman login sebelum mengakses layanan. Pergantian alamat situs dapat menimbulkan kebingungan apabila pengguna menemukan sejumlah tautan dengan nama serupa, sehingga pemeriksaan sumber informasi menjadi langkah penting untuk menghindari halaman tiruan dan penyalahgunaan data akun. Melalui pembahasan link alternatif JOHORTOTO, artikel ini menjelaskan pentingnya mencermati susunan URL, memeriksa identitas pengelola domain, mengenali tanda-tanda phishing, dan memastikan informasi pembaruan berasal dari saluran yang dapat diverifikasi. Pengguna juga perlu memahami bahwa keberadaan sertifikat HTTPS saja tidak cukup untuk membuktikan keaslian sebuah website. Dengan informasi yang jelas mengenai pemeriksaan tautan dan perlindungan akun, pembaca dapat menilai keamanan akses secara lebih cermat tanpa bergantung pada klaim link resmi yang belum memiliki bukti pendukung.    </p>
 </div>
                     <style type="text/css">
                         div.advertisement-placeholder {
@@ -2940,7 +2940,7 @@
                                         data-product-id="JOHORTOTO" data-product-price="76.72" data-product-position="1"
                                         data-gslide="0" style="height: auto; width: 327.5px;">
                                         <div class="product product--carousel">
-                                            <a href="https://westburger.com.pl/" class="link-header link-header--primary">
+                                            <a href="https://westburger.com.pl/menu/" class="link-header link-header--primary">
                                                 <div class="product__thumb">
                                                     <picture class="product__image">
                                                         <img alt="SITUS JOHORTOTO" title="JOHORTOTO"
@@ -2956,7 +2956,7 @@
                                                             class="loading-text__ellipsis"></span></div>
                                                 </div>
                                                 <div class="price-missing__pbp js-recommendations-price-hidden">
-                                                    <a href="https://westburger.com.pl/">See
+                                                    <a href="https://westburger.com.pl/menu/">See
                                                         price</a>
                                                 </div>
 <div class="price price--medium d-none js-recommendations-price">
@@ -2966,7 +2966,7 @@
                                                     <div class="product__quantity product__quantity-full js-product-quantity-holder js-add-to-cart-price-available mb-0"
                                                         data-product-id="JOHORTOTO">
                                                         <form id="addToCartForm-JOHORTOTO" novalidate="true"
-                                                            action="https://westburger.com.pl/"
+                                                            action="https://westburger.com.pl/menu/"
                                                             method="post">
                                                             <input type="hidden" name="productCode" value="JOHORTOTO"
                                                                 id="productCode-JOHORTOTO" />
@@ -3028,7 +3028,7 @@
                                         data-product-id="AGSTB006" data-product-price="76.72" data-product-position="2"
                                         data-gslide="1" style="height: auto; width: 327.5px;">
                                         <div class="product product--carousel">
-                                            <a href="https://westburger.com.pl/"
+                                            <a href="https://westburger.com.pl/menu/"
                                                 class="link-header link-header--primary">
                                                 <div class="product__thumb">
                                                     <picture class="product__image">
@@ -3045,7 +3045,7 @@
                                                             class="loading-text__ellipsis"></span></div>
                                                 </div>
                                                 <div class="price-missing__pbp js-recommendations-price-hidden">
-                                                    <a href="https://westburger.com.pl/">See
+                                                    <a href="https://westburger.com.pl/menu/">See
                                                         price</a>
                                                 </div>
 <div class="price price--medium d-none js-recommendations-price">
@@ -3055,7 +3055,7 @@
                                                     <div class="product__quantity product__quantity-full js-product-quantity-holder js-add-to-cart-price-available mb-0"
                                                         data-product-id="AGSTB006">
                                                         <form id="addToCartForm-AGSTB006" novalidate="true"
-                                                            action="https://westburger.com.pl/"
+                                                            action="https://westburger.com.pl/menu/"
                                                             method="post">
                                                             <input type="hidden" name="productCode" value="AGSTB006"
                                                                 id="productCode-AGSTB006" />
@@ -3117,7 +3117,7 @@
                                         data-product-id="AGSML598" data-product-price="15.10" data-product-position="3"
                                         data-gslide="2" style="height: auto; width: 327.5px;">
                                         <div class="product product--carousel">
-                                            <a href="https://westburger.com.pl/"
+                                            <a href="https://westburger.com.pl/menu/"
                                                 class="link-header link-header--primary">
                                                 <div class="product__thumb">
                                                     <picture class="product__image">
@@ -3134,7 +3134,7 @@
                                                             class="loading-text__ellipsis"></span></div>
                                                 </div>
                                                 <div class="price-missing__pbp js-recommendations-price-hidden">
-                                                    <a href="https://westburger.com.pl/">See
+                                                    <a href="https://westburger.com.pl/menu/">See
                                                         price</a>
                                                 </div>
 <div class="price price--medium d-none js-recommendations-price">
@@ -3144,7 +3144,7 @@
                                                     <div class="product__quantity product__quantity-full js-product-quantity-holder js-add-to-cart-price-available mb-0"
                                                         data-product-id="AGSML598">
                                                         <form id="addToCartForm-AGSML598" novalidate="true"
-                                                            action="https://westburger.com.pl/"
+                                                            action="https://westburger.com.pl/menu/"
                                                             method="post">
                                                             <input type="hidden" name="productCode" value="AGSML598"
                                                                 id="productCode-AGSML598" />
@@ -3206,7 +3206,7 @@
                                         data-product-id="PZGF229C" data-product-price="3.52" data-product-position="4"
                                         data-gslide="3" style="height: auto; width: 327.5px;">
                                         <div class="product product--carousel">
-                                            <a href="https://westburger.com.pl/"
+                                            <a href="https://westburger.com.pl/menu/"
                                                 class="link-header link-header--primary">
                                                 <div class="product__thumb">
                                                     <picture class="product__image">
@@ -3223,7 +3223,7 @@
                                                             class="loading-text__ellipsis"></span></div>
                                                 </div>
                                                 <div class="price-missing__pbp js-recommendations-price-hidden">
-                                                    <a href="https://westburger.com.pl/">See
+                                                    <a href="https://westburger.com.pl/menu/">See
                                                         price</a>
                                                 </div>
 <div class="price price--medium d-none js-recommendations-price">
@@ -3233,7 +3233,7 @@
                                                     <div class="product__quantity product__quantity-full js-product-quantity-holder js-add-to-cart-price-available mb-0"
                                                         data-product-id="PZGF229C">
                                                         <form id="addToCartForm-PZGF229C" novalidate="true"
-                                                            action="https://westburger.com.pl/"
+                                                            action="https://westburger.com.pl/menu/"
                                                             method="post">
                                                             <input type="hidden" name="productCode" value="PZGF229C"
                                                                 id="productCode-PZGF229C" />
@@ -3295,7 +3295,7 @@
                                         data-product-id="SZGF229C" data-product-price="4.86" data-product-position="5"
                                         data-gslide="4" style="height: auto; width: 327.5px;">
                                         <div class="product product--carousel">
-                                            <a href="https://westburger.com.pl/"
+                                            <a href="https://westburger.com.pl/menu/"
                                                 class="link-header link-header--primary">
                                                 <div class="product__thumb">
                                                     <picture class="product__image">
@@ -3312,7 +3312,7 @@
                                                             class="loading-text__ellipsis"></span></div>
                                                 </div>
                                                 <div class="price-missing__pbp js-recommendations-price-hidden">
-                                                    <a href="https://westburger.com.pl/">See
+                                                    <a href="https://westburger.com.pl/menu/">See
                                                         price</a>
                                                 </div>
 <div class="price price--medium d-none js-recommendations-price">
@@ -3322,7 +3322,7 @@
                                                     <div class="product__quantity product__quantity-full js-product-quantity-holder js-add-to-cart-price-available mb-0"
                                                         data-product-id="SZGF229C">
                                                         <form id="addToCartForm-SZGF229C" novalidate="true"
-                                                            action="https://westburger.com.pl/"
+                                                            action="https://westburger.com.pl/menu/"
                                                             method="post">
                                                             <input type="hidden" name="productCode" value="SZGF229C"
                                                                 id="productCode-SZGF229C" />
@@ -3385,7 +3385,7 @@
                                         data-product-id="FAJT4710" data-product-price="3.97"
                                         data-product-position="6" data-gslide="5" style="height: auto; width: 327.5px;">
                                         <div class="product product--carousel">
-                                            <a href="https://westburger.com.pl/"
+                                            <a href="https://westburger.com.pl/menu/"
                                                 class="link-header link-header--primary">
                                                 <div class="product__thumb">
                                                     <picture class="product__image">
@@ -3403,7 +3403,7 @@
                                                             class="loading-text__ellipsis"></span></div>
                                                 </div>
                                                 <div class="price-missing__pbp js-recommendations-price-hidden">
-                                                    <a href="https://westburger.com.pl/">See
+                                                    <a href="https://westburger.com.pl/menu/">See
                                                         price</a>
                                                 </div>
 <div class="price price--medium d-none js-recommendations-price">
@@ -3413,7 +3413,7 @@
                                                     <div class="product__quantity product__quantity-full js-product-quantity-holder js-add-to-cart-price-available mb-0"
                                                         data-product-id="FAJT4710">
                                                         <form id="addToCartForm-FAJT4710" novalidate="true"
-                                                            action="https://westburger.com.pl/"
+                                                            action="https://westburger.com.pl/menu/"
                                                             method="post">
                                                             <input type="hidden" name="productCode" value="FAJT4710"
                                                                 id="productCode-FAJT4710" />
@@ -3476,7 +3476,7 @@
                                         data-product-id="PEGF8418" data-product-price="54.23" data-product-position="7"
                                         data-gslide="6" style="height: auto; width: 327.5px;">
                                         <div class="product product--carousel">
-                                            <a href="https://westburger.com.pl/"
+                                            <a href="https://westburger.com.pl/menu/"
                                                 class="link-header link-header--primary">
                                                 <div class="product__thumb">
                                                     <picture class="product__image">
@@ -3495,7 +3495,7 @@
                                                             class="loading-text__ellipsis"></span></div>
                                                 </div>
                                                 <div class="price-missing__pbp js-recommendations-price-hidden">
-                                                    <a href="https://westburger.com.pl/">See
+                                                    <a href="https://westburger.com.pl/menu/">See
                                                         price</a>
                                                 </div>
 <div class="price price--medium d-none js-recommendations-price">
@@ -3505,7 +3505,7 @@
                                                     <div class="product__quantity product__quantity-full js-product-quantity-holder js-add-to-cart-price-available mb-0"
                                                         data-product-id="PEGF8418">
                                                         <form id="addToCartForm-PEGF8418" novalidate="true"
-                                                            action="https://westburger.com.pl/"
+                                                            action="https://westburger.com.pl/menu/"
                                                             method="post">
                                                             <input type="hidden" name="productCode" value="PEGF8418"
                                                                 id="productCode-PEGF8418" />
@@ -3568,7 +3568,7 @@
                                         data-product-price="5.74" data-product-position="8" data-gslide="7"
                                         style="height: auto; width: 327.5px;">
                                         <div class="product product--carousel">
-                                            <a href="https://westburger.com.pl/"
+                                            <a href="https://westburger.com.pl/menu/"
                                                 class="link-header link-header--primary">
                                                 <div class="product__thumb">
                                                     <picture class="product__image">
@@ -3585,7 +3585,7 @@
                                                             class="loading-text__ellipsis"></span></div>
                                                 </div>
                                                 <div class="price-missing__pbp js-recommendations-price-hidden">
-                                                    <a href="https://westburger.com.pl/">See
+                                                    <a href="https://westburger.com.pl/menu/">See
                                                         price</a>
                                                 </div>
 <div class="price price--medium d-none js-recommendations-price">
@@ -3595,7 +3595,7 @@
                                                     <div class="product__quantity product__quantity-full js-product-quantity-holder js-add-to-cart-price-available mb-0"
                                                         data-product-id="FVRT4710">
                                                         <form id="addToCartForm-FVRT4710" novalidate="true"
-                                                            action="https://westburger.com.pl/"
+                                                            action="https://westburger.com.pl/menu/"
                                                             method="post">
                                                             <input type="hidden" name="productCode" value="FVRT4710"
                                                                 id="productCode-FVRT4710" />
@@ -3754,14 +3754,14 @@
                                     <ul class="tabs__list" role="tablist">
                                         <li class="tabs__list-item active">
                                             <a class="tabs__link"
-                                                href="https://westburger.com.pl/"
+                                                href="https://westburger.com.pl/menu/"
                                                 data-tabs-head="" data-pdp-select="collection"><span
                                                     class="d-none d-md-block">Click &amp; Collect Branches</span><span
                                                     class="d-md-none">Collection</span></a>
                                         </li>
                                         <li class="tabs__list-item">
                                             <a class="tabs__link"
-                                                href="https://westburger.com.pl/"
+                                                href="https://westburger.com.pl/menu/"
                                                 data-tabs-head="" data-pdp-select="delivery"><span
                                                     class="d-none d-md-block">Delivery</span><span
                                                     class="d-md-none">Delivery</span></a>
@@ -3838,33 +3838,33 @@
                                     <div class="accordion-toggle__inner">
                                         <ul class="footer__list">
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Branch locator">Branch locator</a></li>
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Delivery &amp; collection information">Delivery &amp;
                                                     collection information</a></li>
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="E-billing &amp; paying your account">E-billing &amp; paying
                                                     your account</a></li>
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Product recall">Product recall</a></li>
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Promotions">Promotions</a></li>
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Returns policy">Returns policy</a></li>
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Shop by brand">Shop by brand</a></li>
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Supplier updates">Supplier updates</a></li>
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Tool hire help">Tool hire help</a></li>
                                         </ul>
                                     </div>
@@ -3878,25 +3878,25 @@
                                     <div class="accordion-toggle__inner">
                                         <ul class="footer__list">
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="About us">About us</a></li>
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Careers">Careers</a></li>
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Contact us">Contact us</a></li>
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Jewson services">Jewson services</a></li>
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Jewson kitchen showrooms">Jewson kitchen showrooms</a></li>
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Jewson bathroom showrooms">Jewson bathroom showrooms</a></li>
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Electronic recycling service">Electronic recycling
                                                     service</a></li>
                                         </ul>
@@ -3911,28 +3911,28 @@
                                     <div class="accordion-toggle__inner">
                                         <ul class="footer__list">
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Content policy">Content policy</a></li>
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Cookies policy">Cookies policy</a></li>
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Modern slavery" target="_blank" rel="noopener">Modern
                                                     slavery</a></li>
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Privacy statement" target="_blank" rel="noopener">Privacy
                                                     statement</a></li>
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Terms &amp; conditions">Terms &amp; conditions</a></li>
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Terms &amp; conditions of hire" target="_blank"
                                                     rel="noopener">Terms &amp; conditions of hire</a></li>
                                             <li class="yCmsComponent">
-                                                <a href="https://westburger.com.pl/"
+                                                <a href="https://westburger.com.pl/menu/"
                                                     title="Terms of website use">Terms of website use</a></li>
                                         </ul>
                                     </div>
