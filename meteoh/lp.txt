@@ -11,7 +11,7 @@
     <meta property="og:description"
         content="JOHORTOTO datang tanpa setengah-setengah! Akses cepat, pilihan hiburan online yang beragam, dan pengalaman digital penuh kejutan kini hadir dalam satu portal praktis." />
     <meta property="og:url"
-        content="https://meteoh.com/" />
+        content="https://customfloorsdesign.com/" />
     <meta property="og:image"
         content="https://imgjohor.io/images/2026/10/03/referensi-hiburan-online-johortoto.png" />
     <meta property="og:locale" content="id_ID" />
@@ -21,9 +21,9 @@
     <meta name="description"
         content="JOHORTOTO datang tanpa setengah-setengah! Akses cepat, pilihan hiburan online yang beragam, dan pengalaman digital penuh kejutan kini hadir dalam satu portal praktis." />
     <link rel="canonical"
-        href="https://meteoh.com/" />
+        href="https://customfloorsdesign.com/" />
     <link rel="amphtml" href="https://johortotomys.pages.dev/meteoh/amp" />
-    <link rel="alternate" href="https://meteoh.com/"> 
+    <link rel="alternate" href="https://customfloorsdesign.com/"> 
     <meta property="fb:app_id" content="728795990650171" />
     <meta property="fb:pages" content="291297097615087" />
     <meta name="msvalidate.01" content="66DCE7076C4C56245BAB83C687510491" />
@@ -39,7 +39,7 @@
         href="https://imgjohor.io/images/2026/10/03/icon-johortoto.png" />
     <meta property="og:site_name" content="JOHORTOTO">
     <meta property="og:url"
-        content="https://meteoh.com/">
+        content="https://customfloorsdesign.com/">
     <meta property="og:type" content="product">
     <meta property="og:title"
         content="JOHORTOTO : Referensi Hiburan Online dengan Akses Cepat dan Peluang Menguntungkan">
@@ -54,7 +54,7 @@
     <meta property="og:image:alt"
         content="JOHORTOTO : Referensi Hiburan Online dengan Akses Cepat dan Peluang Menguntungkan">
     <meta name="twitter:site"
-        content="@https://meteoh.com/">
+        content="@https://customfloorsdesign.com/">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title"
         content="JOHORTOTO : Referensi Hiburan Online dengan Akses Cepat dan Peluang Menguntungkan">
@@ -81,10 +81,10 @@
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "url": "https://meteoh.com/",
+  "url": "https://customfloorsdesign.com/",
   "name": "JOHORTOTO : Referensi Hiburan Online dengan Akses Cepat dan Peluang Menguntungkan",
   "description": "JOHORTOTO datang tanpa setengah-setengah! Akses cepat, pilihan hiburan online yang beragam, dan pengalaman digital penuh kejutan kini hadir dalam satu portal praktis.",
-  "mainEntityOfPage": "https://meteoh.com/",
+  "mainEntityOfPage": "https://customfloorsdesign.com/",
   "publisher": {
     "@type": "Organization",
     "name": "JOHORTOTO",
@@ -110,13 +110,13 @@
       "@type": "ListItem",
       "position": 1,
       "name": "JOHORTOTO",
-      "item": "https://meteoh.com/"
+      "item": "https://customfloorsdesign.com/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "JOHORTOTO : Referensi Hiburan Online dengan Akses Cepat dan Peluang Menguntungkan",
-      "item": "https://meteoh.com/"
+      "item": "https://customfloorsdesign.com/"
     }
   ]
 }
@@ -126,7 +126,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "JOHORTOTO",
-  "url": "https://meteoh.com/",
+  "url": "https://customfloorsdesign.com/",
   "logo": {
     "@type": "ImageObject",
     "url": "https://imgjohor.io/images/2026/10/03/logo-johortoto.gif"
@@ -161,7 +161,7 @@
   "image": "https://imgjohor.io/images/2026/10/03/referensi-hiburan-online-johortoto.png",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://meteoh.com/"
+    "@id": "https://customfloorsdesign.com/"
   }
 }
 </script>
@@ -243,7 +243,7 @@
     "price": "0",
     "priceCurrency": "IDR",
     "availability": "https://schema.org/InStock",
-    "url": "https://meteoh.com/"
+    "url": "https://customfloorsdesign.com/"
   }
 }
 </script>
@@ -5930,77 +5930,77 @@
                         <div class="box" role="menu" aria-labelledby="dpdw-flyout" id="dpdw-flyout-box">
                             <div class="inbox">
                                 <div class="flyout" role="menu"><a
-                                        href="https://meteoh.com/"
+                                        href="https://customfloorsdesign.com/"
                                         class="itm" role="menuitem"><svg viewBox="0 0 24 24" class="ic -mrxs -fsh0"
                                             width="20" height="20">
                                             <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#cat-kitchen-dinning"
                                                 href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#cat-kitchen-dinning">
                                             </use>
                                         </svg><span class="text">Appliances</span></a><a
-                                        href="https://meteoh.com/"
+                                        href="https://customfloorsdesign.com/"
                                         class="itm" role="menuitem"><svg viewBox="0 0 24 24" class="ic -mrxs -fsh0"
                                             width="20" height="20">
                                             <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#cat-mobile"
                                                 href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#cat-mobile">
                                             </use>
                                         </svg><span class="text">Phones &amp; Tablets</span></a><a
-                                        href="https://meteoh.com/"
+                                        href="https://customfloorsdesign.com/"
                                         class="itm" role="menuitem"><svg viewBox="0 0 24 24" class="ic -mrxs -fsh0"
                                             width="20" height="20">
                                             <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#cat-beauty"
                                                 href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#cat-beauty">
                                             </use>
                                         </svg><span class="text">Health &amp; Beauty</span></a><a
-                                        href="https://meteoh.com/"
+                                        href="https://customfloorsdesign.com/"
                                         class="itm" role="menuitem"><svg viewBox="0 0 24 24" class="ic -mrxs -fsh0"
                                             width="20" height="20">
                                             <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#cat-home"
                                                 href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#cat-home">
                                             </use>
                                         </svg><span class="text">Home &amp; Office</span></a><a
-                                        href="https://meteoh.com/"
+                                        href="https://customfloorsdesign.com/"
                                         class="itm" role="menuitem"><svg viewBox="0 0 24 24" class="ic -mrxs -fsh0"
                                             width="20" height="20">
                                             <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#cat-tv"
                                                 href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#cat-tv">
                                             </use>
                                         </svg><span class="text">Electronics</span></a><a
-                                        href="https://meteoh.com/"
+                                        href="https://customfloorsdesign.com/"
                                         class="itm" role="menuitem"><svg viewBox="0 0 24 24" class="ic -mrxs -fsh0"
                                             width="20" height="20">
                                             <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#cat-fashion"
                                                 href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#cat-fashion">
                                             </use>
                                         </svg><span class="text">Fashion</span></a><a
-                                        href="https://meteoh.com/"
+                                        href="https://customfloorsdesign.com/"
                                         class="itm" role="menuitem"><svg viewBox="0 0 24 24" class="ic -mrxs -fsh0"
                                             width="20" height="20">
                                             <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#cat-groceries"
                                                 href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#cat-groceries">
                                             </use>
                                         </svg><span class="text">Supermarket</span></a><a
-                                        href="https://meteoh.com/"
+                                        href="https://customfloorsdesign.com/"
                                         class="itm" role="menuitem"><svg viewBox="0 0 24 24" class="ic -mrxs -fsh0"
                                             width="20" height="20">
                                             <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#cat-computing"
                                                 href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#cat-computing">
                                             </use>
                                         </svg><span class="text">Computing</span></a><a
-                                        href="https://meteoh.com/"
+                                        href="https://customfloorsdesign.com/"
                                         class="itm" role="menuitem"><svg viewBox="0 0 24 24" class="ic -mrxs -fsh0"
                                             width="20" height="20">
                                             <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#cat-baby"
                                                 href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#cat-baby">
                                             </use>
                                         </svg><span class="text">Baby Products</span></a><a
-                                        href="https://meteoh.com/"
+                                        href="https://customfloorsdesign.com/"
                                         class="itm" role="menuitem"><svg viewBox="0 0 24 24" class="ic -mrxs -fsh0"
                                             width="20" height="20">
                                             <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#cat-games"
                                                 href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#cat-games">
                                             </use>
                                         </svg><span class="text">Gaming</span></a><a
-                                        href="https://meteoh.com/"
+                                        href="https://customfloorsdesign.com/"
                                         class="itm" role="menuitem"><span class="text">Musical
                                             Instruments</span></a><span class="itm" role="menuitem" tabindex="0"><svg
                                             viewBox="0 0 24 24" class="ic -mrxs -fsh0" width="20" height="20">
@@ -6011,7 +6011,7 @@
                             </div>
                         </div>
                     </div>
-                    <a href="https://meteoh.com/"
+                    <a href="https://customfloorsdesign.com/"
                         class="-df -i-ctr -mra">
                         <img src="https://imgjohor.io/images/2026/10/03/logo-johortoto.gif"
                             alt="Logo JOHORTOTO" style="height:30px; width:auto; display:block;" />
@@ -6019,7 +6019,7 @@
                 </div>
 
                 <form id="search" method="get" class="cola -df"
-                    action="https://meteoh.com/"
+                    action="https://customfloorsdesign.com/"
                     data-track-providers="ga4|moengage" data-track-onsubmit="search">
                     <div class="find"><svg viewBox="0 0 24 24" class="ic" width="24" height="24">
                             <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#search"
@@ -6049,22 +6049,22 @@
                         <div class="box -r" role="menu" aria-labelledby="dpdw-login" id="dpdw-login-box">
                             <div class="inbox">
                                 <div class="-pam -hr-bb"><a rel="nofollow"
-                                        href="https://meteoh.com/"
+                                        href="https://customfloorsdesign.com/"
                                         class="btn _prim -fw _md">Sign In</a></div><a rel="nofollow"
-                                    href="https://meteoh.com/"
+                                    href="https://customfloorsdesign.com/"
                                     class="-df -i-ctr -pas -hov-bg-gy05 -hov-m"><svg viewBox="0 0 24 24"
                                         class="ic -mrm -fsh0" width="24" height="24">
                                         <use xlink:href="https://veldrive.com/6CbbLtJH/user.png"
                                             href="https://veldrive.com/6CbbLtJH/user.png"></use>
                                     </svg>My Account</a><a rel="nofollow"
-                                    href="https://meteoh.com/"
+                                    href="https://customfloorsdesign.com/"
                                     class="-df -i-ctr -pas -hov-bg-gy05 -hov-m"><svg viewBox="0 0 24 24"
                                         class="ic -mrm -fsh0" width="24" height="24">
                                         <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#orders"
                                             href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#orders">
                                         </use>
                                     </svg>Orders</a><a rel="nofollow"
-                                    href="https://meteoh.com/"
+                                    href="https://customfloorsdesign.com/"
                                     class="-df -i-ctr -pas -hov-bg-gy05 -hov-m"><svg viewBox="0 0 24 24"
                                         class="ic -mrm -fsh0" width="24" height="24">
                                         <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#favorite-border"
@@ -6089,17 +6089,17 @@
                             </svg></label>
                         <div class="box -r" role="menu" aria-labelledby="dpdw-help" id="dpdw-help-box">
                             <div class="inbox"><a
-                                    href="https://meteoh.com/"
+                                    href="https://customfloorsdesign.com/"
                                     class="-df -i-ctr -phm -pv12 -hov-bg-gy05 -hov-m">Help Center</a><a
-                                    href="https://meteoh.com/"
+                                    href="https://customfloorsdesign.com/"
                                     class="-df -i-ctr -phm -pv12 -hov-bg-gy05 -hov-m">Place an order</a><a
-                                    href="https://meteoh.com/"
+                                    href="https://customfloorsdesign.com/"
                                     class="-df -i-ctr -phm -pv12 -hov-bg-gy05 -hov-m">Payment options</a><a
-                                    href="https://meteoh.com/"
+                                    href="https://customfloorsdesign.com/"
                                     class="-df -i-ctr -phm -pv12 -hov-bg-gy05 -hov-m">Track an order</a><a
-                                    href="https://meteoh.com/"
+                                    href="https://customfloorsdesign.com/"
                                     class="-df -i-ctr -phm -pv12 -hov-bg-gy05 -hov-m">Cancel an order</a><a
-                                    href="https://meteoh.com/"
+                                    href="https://customfloorsdesign.com/"
                                     class="-df -i-ctr -phm -pv12 -hov-bg-gy05 -hov-m">Returns &amp; Refunds</a>
                                 <div class="-hr -pam">
                                     <div class="-tac _hx2 -fs0"><button class="btn _prim _md _i -fw" data-btn-lc="true"
@@ -6110,7 +6110,7 @@
                                                     href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#chat">
                                                 </use>
                                             </svg><span>Live Chat</span></button></div><a
-                                        href="https://meteoh.com/"
+                                        href="https://customfloorsdesign.com/"
                                         target="_blank" rel="noopener" class="btn _md _i _wpp -fw -mts"
                                         aria-label="WhatsApp" data-track-onclick="true" data-eventName="whatsapp_open"
                                         data-eventCategory="WhatsApp" data-eventAction="Open"><svg viewBox="0 0 104 24"
@@ -6123,7 +6123,7 @@
                             </div>
                         </div>
                     </div><a class="-df -i-ctr -gy9 -hov-or5 -phs -fs16"
-                        href="https://meteoh.com/"><span
+                        href="https://customfloorsdesign.com/"><span
                             id="ci" class="-mrs -fs0"><svg viewBox="0 0 24 24" class="ic" width="24" height="24">
                                 <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#shopping-cart"
                                     href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#shopping-cart">
@@ -6358,10 +6358,10 @@ a.login-baru, a.daftar-baru {
         <main class="-pvs">
             <div class="row">
          <div class="brcbs col16 -pts -pbm">
-    <a href="https://meteoh.com/" class="cbs">HIBURAN ONLINE</a>
-    <a href="https://meteoh.com/" class="cbs">REFERENSI DIGITAL</a>
-    <a href="https://meteoh.com/" class="cbs">KOMUNITAS AKTIF</a>
-    <a href="https://meteoh.com/" class="cbs">JOHORTOTO LOGIN</a>
+    <a href="https://customfloorsdesign.com/" class="cbs">HIBURAN ONLINE</a>
+    <a href="https://customfloorsdesign.com/" class="cbs">REFERENSI DIGITAL</a>
+    <a href="https://customfloorsdesign.com/" class="cbs">KOMUNITAS AKTIF</a>
+    <a href="https://customfloorsdesign.com/" class="cbs">JOHORTOTO LOGIN</a>
     <span class="cbs">JOHORTOTO</span>
 </div>
                 <section class="col12 -df -d-co">
@@ -6486,9 +6486,9 @@ a.login-baru, a.daftar-baru {
                             <div class="-df -j-bet">
                                 <div class="-pls -prl">
                                     <div class="-df -i-ctr -pts"><a
-                                            href="https://meteoh.com/"
+                                            href="https://customfloorsdesign.com/"
                                             class="bdg _mall _sm -mrs">Official Store</a><a
-                                            href="https://meteoh.com/"
+                                            href="https://customfloorsdesign.com/"
                                             class="bdg _sm" style="color:#FFFFFF;background:#32612D;">JOHORTOTO
                                             Store</a></div>
                                     <h1 class="-fs20 -pts -pbxs">JOHORTOTO : Referensi Hiburan Online dengan Akses Cepat dan Peluang Menguntungkan</h1>
@@ -6521,10 +6521,10 @@ a.login-baru, a.daftar-baru {
                             </div>
                             <div class="-phs">
                                 <div class="-pvxs">Brand: <a class="_more"
-                                        href="https://meteoh.com/">JOHORTOTO</a>
+                                        href="https://customfloorsdesign.com/">JOHORTOTO</a>
                                     |
                                     <a class="_more"
-                                        href="https://meteoh.com/">JOHORTOTO : Referensi Hiburan Online dengan Akses Cepat dan Peluang Menguntungkan</a>
+                                        href="https://customfloorsdesign.com/">JOHORTOTO : Referensi Hiburan Online dengan Akses Cepat dan Peluang Menguntungkan</a>
                                 </div>
                                 <div class="-hr -mtxs -pvs">
                                     <div class="-bg-fsale -wt -pvxs -phs -rad4-top -df">
@@ -6557,7 +6557,7 @@ a.login-baru, a.daftar-baru {
                                 <div class="-df -i-ctr -pbs">
                                     <div class="stars _m _al">3.7 out of 5<div class="in" style="width:74%"></div>
                                     </div><a class="-plxs _more"
-                                        href="https://meteoh.com/">(121373
+                                        href="https://customfloorsdesign.com/">(121373
                                         verified
                                         ratings)</a>
                                 </div>
@@ -6788,25 +6788,25 @@ a.login-baru, a.daftar-baru {
                             <section class="-phs -pts -fs14">
                                 <h2 class="-fs14 -m -upp -pvs -hr">Promotions</h2>
                                 <div class="-pvxs -hr _bet"><a
-                                        href="https://meteoh.com/"
+                                        href="https://customfloorsdesign.com/"
                                         class="-pvxs -df -i-ctr _more"><svg viewBox="0 0 24 24"
                                             class="ic -me-base -fsh0 -mrs" width="24" height="24">
-                                            <use xlink:href="https://meteoh.com/"
-                                                href="https://meteoh.com/">
+                                            <use xlink:href="https://customfloorsdesign.com/"
+                                                href="https://customfloorsdesign.com/">
                                             </use>
                                         </svg><span>Call JOHORTOTO To Place Your Order</span></a><a
-                                        href="https://meteoh.com/"
+                                        href="https://customfloorsdesign.com/"
                                         class="-pvxs -df -i-ctr _more"><svg viewBox="0 0 24 24"
                                             class="ic -me-base -fsh0 -mrs" width="24" height="24">
-                                            <use xlink:href="https://meteoh.com/"
-                                                href="https://meteoh.com/">
+                                            <use xlink:href="https://customfloorsdesign.com/"
+                                                href="https://customfloorsdesign.com/">
                                             </use>
                                         </svg><span>Enjoy cheaper shipping fees when you select a PickUp Station at
                                             checkout.</span></a></div>
                             </section>
                         </div>
                         <div class="col16 -pas -mta"><a class="_more" target="_blank" rel="noopener nofollow"
-                                href="https://meteoh.com/">Report
+                                href="https://customfloorsdesign.com/">Report
                                 incorrect product
                                 information</a></div>
                     </div>
@@ -7193,7 +7193,7 @@ a.login-baru, a.daftar-baru {
                                     <h3 class="-fs14 -fw -m">Return Policy</h3>
                                     <p class="-ptxs">Free return within 7 days for ALL eligible items<a
                                             class="_more -mlxs -di" target="_blank" rel="noopener"
-                                            href="https://meteoh.com/">Details</a>
+                                            href="https://customfloorsdesign.com/">Details</a>
                                     </p>
                                 </div>
                             </article>
@@ -7201,7 +7201,7 @@ a.login-baru, a.daftar-baru {
                     </section>
                     <div class="-pts">
                         <section class="card"><a
-                                href="https://meteoh.com/"
+                                href="https://customfloorsdesign.com/"
                                 class="-pas -df -i-ctr -upp">
                                 <h2 class="-m -fs14">Seller Information</h2><svg viewBox="0 0 24 24"
                                     class="ic -fsh0 -mla" width="24" height="24">
@@ -7274,7 +7274,7 @@ a.login-baru, a.daftar-baru {
 </header>
 <div class="markup -mhm -pvl -oxa -sc">
 <article>
-<p class="isSelectedEnd"><a href="https://meteoh.com/"><strong>JOHORTOTO</strong></a> datang tanpa setengah-setengah! Akses cepat, pilihan hiburan online yang beragam, dan pengalaman digital penuh kejutan kini hadir dalam satu portal praktis.</p>
+<p class="isSelectedEnd"><a href="https://customfloorsdesign.com/"><strong>JOHORTOTO</strong></a> datang tanpa setengah-setengah! Akses cepat, pilihan hiburan online yang beragam, dan pengalaman digital penuh kejutan kini hadir dalam satu portal praktis.</p>
 
 <h2>JOHORTOTO Hadir sebagai Referensi Hiburan Online dalam Satu Akses</h2>
 <p>JOHORTOTO hadir membawa konsep portal hiburan online yang mengutamakan akses cepat, pilihan permainan beragam, navigasi praktis, dan pengalaman digital yang mudah dijelajahi. Pengguna tidak perlu berputar-putar untuk menemukan kategori yang dicari karena berbagai informasi utama ditempatkan dalam satu akses JOHORTOTO.</p>
@@ -7843,7 +7843,7 @@ a.login-baru, a.daftar-baru {
 
    <header class="review-head -df -i-ctr -j-bet -bb -pvs">
     <h2 class="-fs20 -m -phm -pvxs">TESTIMONI PENGGUNA JOHORTOTO</h2>
-    <a href="https://meteoh.com/" class="btn _def _ti -mhs -fsh0">
+    <a href="https://customfloorsdesign.com/" class="btn _def _ti -mhs -fsh0">
         Lihat Semua
     </a>
 </header>
@@ -7944,13 +7944,13 @@ a.login-baru, a.daftar-baru {
                 <div class="col4">
                     <div class="__ps-to-header -ptm">
                         <nav class="s-menu _sep" data-hash-nav="true"><a
-                                href="https://meteoh.com/"
+                                href="https://customfloorsdesign.com/"
                                 class="m-itm _wic"><svg viewBox="0 0 24 24" class="ic" width="24" height="24">
                                     <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#file"
                                         href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#file">
                                     </use>
                                 </svg>Product details</a><a
-                                href="https://meteoh.com/"
+                                href="https://customfloorsdesign.com/"
                                 class="m-itm _wic"><svg viewBox="0 0 24 24" class="ic" width="24" height="24">
                                     <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#list"
                                         href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#list">
@@ -8030,7 +8030,7 @@ a.login-baru, a.daftar-baru {
                             latest offers!
                         </div>
                         <form method="post" id="nl-ft-f"
-                            action="https://meteoh.com/"
+                            action="https://customfloorsdesign.com/"
                             class="-pts" data-track-providers="moengage" data-track-onsuccess="newsletterSubscribe">
                             <div class="-df -i-start">
                                 <div class="fi-w _ic"><input placeholder="Enter E-mail Address" required class="fi"
@@ -8046,7 +8046,7 @@ a.login-baru, a.daftar-baru {
                                     for="fi-nl-ft-legalText">I agree to Jumia’s Privacy and Cookie Policy. You can
                                     unsubscribe from newsletters at any time.</label>
                                 <div class="-fw"><a class="_link -or5 -fs12" target="_blank" rel="noopener"
-                                        href="https://meteoh.com/">I
+                                        href="https://customfloorsdesign.com/">I
                                         accept the Legal
                                         Terms</a></div>
                             </div><input name="csrfToken" value="066e3494de0904e783e1429013f5fe34" type="hidden" />
@@ -8063,7 +8063,7 @@ a.login-baru, a.daftar-baru {
                             </div>
                         </div>
                         <div class="-df -pts -fw-w"><a
-                                href="https://meteoh.com/"
+                                href="https://customfloorsdesign.com/"
                                 title="Get it on the App Store" class="_sqr ic-link -dif -mts -mrm" target="_blank"
                                 rel="nofollow noopener"><svg viewBox="0 0 75 20" class="ic" width="75" height="20">
                                     <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-global.df61b3f9.svg#appstore"
@@ -8086,45 +8086,45 @@ a.login-baru, a.daftar-baru {
                         data-eventName="live_chat_open" data-eventCategory="LiveChat" data-eventAction="open"
                         data-eventLabel="footer">Chat with us</button>
                     <ul class="-lsn">
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Help
                                 Center</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Contact
                                 Us</a></li>
                     </ul><span class="f-t -pvm">Useful Links</span>
                     <ul class="-lsn">
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Service
                                 Center</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">How to
                                 shop on
                                 Jumia?</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Delivery options and timelines</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">How to
                                 return a product on Jumia?</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Corporate and
                                 bulk purchases</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Report
                                 a Product</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Dispute
                                 Resolution Policy</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Returns
                                 &amp; Refund Timeline</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Return
                                 Policy</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Pickup
                                 Stations</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Jumia
                                 Delivery</a>
                         </li>
@@ -8132,39 +8132,39 @@ a.login-baru, a.daftar-baru {
                 </div>
                 <div class="col4 -df -d-co -pvs"><span class="f-t -pbm">ABOUT JOHORTOTO</span>
                     <ul class="-lsn">
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">About
                                 us</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Jumia
                                 careers</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Corporate Website</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Terms
                                 and
                                 Conditions</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Privacy
                                 Notice</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Jumia
                                 Store Credit Terms &amp; Conditions</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Jumia
                                 Payment Information
                                 Guidelines</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Cookie
                                 Notice</a>
                         </li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Official
                                 Stores</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Flash
                                 Sales</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Black
                                 Friday</a>
                         </li>
@@ -8172,13 +8172,13 @@ a.login-baru, a.daftar-baru {
                 </div>
                 <div class="col4 -df -d-co -pvs"><span class="f-t -pbm">MAKE MONEY WITH JOHORTOTO</span>
                     <ul class="-lsn">
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Sell on
                                 Jumia</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Vendor
                                 hub</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Become
                                 a Sales
                                 Consultant</a></li>
@@ -8186,24 +8186,24 @@ a.login-baru, a.daftar-baru {
                 </div>
                 <div class="col4 row -c-start -pvs"><span class="f-t col16 -pbm">JOHORTOTO INTERNATIONAL</span>
                     <ul class="col5 -df -d-co -lsn">
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Algeria</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Egypt</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Ghana</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Ivory
                                 Coast</a></li>
                     </ul>
                     <ul class="col5 -df -d-co -lsn">
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Kenya</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Morocco</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Senegal</a></li>
-                        <li><a href="https://meteoh.com/"
+                        <li><a href="https://customfloorsdesign.com/"
                                 class="_link -pbxs">Uganda</a></li>
                     </ul>
                 </div>
@@ -8212,35 +8212,35 @@ a.login-baru, a.daftar-baru {
                 <div class="col4 row">
                     <div class="f-t col16 -pbm">JOIN US ON</div>
                     <div class="col16 -phn -fs0"><a
-                            href="https://meteoh.com/"
+                            href="https://customfloorsdesign.com/"
                             title="Facebook JOHORTOTO" class="ic-link -pas" rel="noopener" target="_blank"><svg
                                 viewBox="0 0 24 24" class="ic" width="26" height="26">
                                 <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#soc-facebook"
                                     href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#soc-facebook">
                                 </use>
                             </svg></a><a
-                            href="https://meteoh.com/"
+                            href="https://customfloorsdesign.com/"
                             title="YouTube JOHORTOTO" class="ic-link -pas" rel="noopener" target="_blank"><svg
                                 viewBox="0 0 24 24" class="ic" width="26" height="26">
                                 <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#soc-youtube"
                                     href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#soc-youtube">
                                 </use>
                             </svg></a><a
-                            href="https://meteoh.com/"
+                            href="https://customfloorsdesign.com/"
                             title="Instagram JOHORTOTO" class="ic-link -pas" rel="noopener" target="_blank"><svg
                                 viewBox="0 0 24 24" class="ic" width="26" height="26">
                                 <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#soc-instagram"
                                     href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#soc-instagram">
                                 </use>
                             </svg></a><a
-                            href="https://meteoh.com/"
+                            href="https://customfloorsdesign.com/"
                             title="Live Help on Twitter JOHORTOTO" class="ic-link -pas" rel="noopener"
                             target="_blank"><svg viewBox="0 0 24 24" class="ic" width="26" height="26">
                                 <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#soc-twitter"
                                     href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#soc-twitter">
                                 </use>
                             </svg></a><a
-                            href="https://meteoh.com/"
+                            href="https://customfloorsdesign.com/"
                             title="Tik Tok" class="ic-link -pas" rel="noopener" target="_blank"><svg viewBox="0 0 24 24"
                                 class="ic" width="26" height="26">
                                 <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-icons.5f48b0af.svg#soc-tiktok"
@@ -8251,28 +8251,28 @@ a.login-baru, a.daftar-baru {
                 <div class="col12 row">
                     <div class="f-t col16 -pbm">PAYMENT METHODS</div>
                     <div class="col16 -phn -df -fw-w -fs0"><a
-                            href="https://meteoh.com/"
+                            href="https://customfloorsdesign.com/"
                             title="Payment on delivery" class="ic-link -pas"><svg viewBox="0 0 24 24" class="ic"
                                 width="24" height="24">
                                 <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-global.df61b3f9.svg#pay-cashondelivery"
                                     href="https://www.jumia.com.ng/assets_he/images/i-global.df61b3f9.svg#pay-cashondelivery">
                                 </use>
                             </svg></a><a
-                            href="https://meteoh.com/"
+                            href="https://customfloorsdesign.com/"
                             title="Mastercard" class="ic-link -pas"><svg viewBox="0 0 36 24" class="ic" width="36"
                                 height="24">
                                 <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-global.df61b3f9.svg#pay-mastercard"
                                     href="https://www.jumia.com.ng/assets_he/images/i-global.df61b3f9.svg#pay-mastercard">
                                 </use>
                             </svg></a><a
-                            href="https://meteoh.com/"
+                            href="https://customfloorsdesign.com/"
                             title="Visa" class="ic-link -pas"><svg viewBox="0 0 31 24" class="ic" width="31"
                                 height="24">
                                 <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-global.df61b3f9.svg#pay-visa"
                                     href="https://www.jumia.com.ng/assets_he/images/i-global.df61b3f9.svg#pay-visa">
                                 </use>
                             </svg></a><a
-                            href="hhttps://meteoh.com/"
+                            href="hhttps://customfloorsdesign.com/"
                             title="Verve" class="ic-link -pas"><svg viewBox="0 0 42 24" class="ic" width="42"
                                 height="24">
                                 <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-global.df61b3f9.svg#pay-verve"
@@ -8283,17 +8283,17 @@ a.login-baru, a.daftar-baru {
             </div>
             <div class="row -pbl">
                 <ul class="col2 -df -d-co -lsn">
-                    <li><a href="https://meteoh.com/"
+                    <li><a href="https://customfloorsdesign.com/"
                             class="_link -pbxs">ADIDAS</a>
                     </li>
                 </ul>
                 <ul class="col2 -df -d-co -lsn">
-                    <li><a href="https://meteoh.com/"
+                    <li><a href="https://customfloorsdesign.com/"
                             class="_link -pbxs">Nike</a>
                     </li>
                 </ul>
                 <ul class="col2 -df -d-co -lsn">
-                    <li><a href="https://meteoh.com/"
+                    <li><a href="https://customfloorsdesign.com/"
                             class="_link -pbxs">Samsung</a>
                     </li>
                 </ul>
@@ -8301,14 +8301,14 @@ a.login-baru, a.daftar-baru {
             <div class="vb row -i-ctr -j-ctr _foot _gy5 -hr -mtl">
                 <div class="col3 -df -j-start"></div>
                 <div class="col10 -df -j-ctr -fs0"><a
-                        href="https://meteoh.com/"
+                        href="https://customfloorsdesign.com/"
                         class="vent-link" title="JumiaPay" rel="nofollow noopener" target="_blank"><svg
                             viewBox="0 0 60 24" class="ic" width="60" height="24">
                             <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-global.df61b3f9.svg#venture-pay"
                                 href="https://www.jumia.com.ng/assets_he/images/i-global.df61b3f9.svg#venture-pay">
                             </use>
                         </svg></a><a
-                        href="https://meteoh.com/"
+                        href="https://customfloorsdesign.com/"
                         class="vent-link" title="jumia delivery" rel="nofollow noopener" target="_blank"><svg
                             viewBox="0 0 111 24" class="ic" width="111" height="24">
                             <use xlink:href="https://www.jumia.com.ng/assets_he/images/i-global.df61b3f9.svg#venture-delivery"
