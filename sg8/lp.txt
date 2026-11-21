@@ -197,7 +197,7 @@
     },
     {
       "@type": "Question",
-      "name": Apa yang membuat JOHORTOTO berbeda?",
+      "name": "Apa yang membuat JOHORTOTO berbeda?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "JOHORTOTO fokus menghadirkan slot gacor dengan slot777 server Jepang terbaru, informasi yang jelas, navigasi sederhana, serta pengalaman main yang nyaman dan berpeluang jackpot."
