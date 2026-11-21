@@ -7,12 +7,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link rel="canonical" href="https://stmaryelgin.org/news/icecreamfundraiser">
-  <link rel="amphtml" href="https://stmaryelgin.org/news/ash-wednesday-miercoles-de-ceniza-2">
-  <link rel="alternate" hreflang="id-id" href="https://stmaryelgin.org/news/ash-wednesday-miercoles-de-ceniza-2"/>
-  <link rel="alternate" href="https://stmaryelgin.org/news/ash-wednesday-miercoles-de-ceniza-2"/>
-  <link rel="alternate" hreflang="id" href="https://stmaryelgin.org/news/ash-wednesday-miercoles-de-ceniza-2"/>
-  <link rel="alternate" hreflang="en" href="https://stmaryelgin.org/news/ash-wednesday-miercoles-de-ceniza-2"/>
-  <link rel="alternate" hreflang="x-default" href="https://stmaryelgin.org/news/ash-wednesday-miercoles-de-ceniza-2"/>
+  <link rel="amphtml" href="https://stmaryelgin-gacorkali.pages.dev/">
+  <link rel="alternate" hreflang="id-id" href="https://stmaryelgin-gacorkali.pages.dev/"/>
+  <link rel="alternate" href="https://stmaryelgin-gacorkali.pages.dev/"/>
+  <link rel="alternate" hreflang="id" href="https://stmaryelgin-gacorkali.pages.dev/"/>
+  <link rel="alternate" hreflang="en" href="https://stmaryelgin-gacorkali.pages.dev/"/>
+  <link rel="alternate" hreflang="x-default" href="https://stmaryelgin-gacorkali.pages.dev/"/>
   <meta name="robots" content="index, follow, nosnippet">
   <link rel="preconnect" href="https://cdn.shopify.com" crossorigin="">
   <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin="">
@@ -1124,14 +1124,14 @@
         <div aria-live="polite" class="slick-list draggable">
           <div class="slick-track" style="opacity: 1; width: 7936px; transform: translate3d(-992px, 0px, 0px);">
             <div class="hura-message swiper-slide slick-slide slick-cloned" data-slick-index="-1" style="width: 992px;" aria-hidden="true" tabindex="-1"> JOHORTOTO: Platform Slot Gacor Online Slot777 Bet 200 Resmi Viral Gampang Menang Hari Ini </div>
-            <div class="hura-message swiper-slide slick-slide slick-current slick-active" data-slick-index="0" style="width: 992px;" aria-hidden="false" tabindex="0"> JOHORTOTO: Platform Slot Gacor Online Slot777 Bet 200 Resmi Viral Gampang Menang Hari Ini <a href="https://stmaryelgin.org/news/ash-wednesday-miercoles-de-ceniza-2" class="announcement_link" target="_blank" rel="nofollow noopener noreferrer" aria-hidden="false" tabindex="0"> Daftar Disini ! </a>
+            <div class="hura-message swiper-slide slick-slide slick-current slick-active" data-slick-index="0" style="width: 992px;" aria-hidden="false" tabindex="0"> JOHORTOTO: Platform Slot Gacor Online Slot777 Bet 200 Resmi Viral Gampang Menang Hari Ini <a href="https://stmaryelgin-gacorkali.pages.dev/" class="announcement_link" target="_blank" rel="nofollow noopener noreferrer" aria-hidden="false" tabindex="0"> Daftar Disini ! </a>
             </div>
             <div class="hura-message swiper-slide slick-slide" data-slick-index="1" style="width: 992px;" aria-hidden="true" tabindex="-1"> JOHORTOTO: Platform Slot Gacor Online Slot777 Bet 200 Resmi Viral Gampang Menang Hari Ini </div>
             <div class="hura-message swiper-slide slick-slide" data-slick-index="2" style="width: 992px;" aria-hidden="true" tabindex="-1"> Akses Login Cepat, Aman, dan Stabil Tanpa Gangguan </div>
             <div class="hura-message swiper-slide slick-slide" data-slick-index="3" style="width: 992px;" aria-hidden="true" tabindex="-1"> Data &amp; Hasil Slot Gacor Akurat Update Real-Time </div>
             <div class="hura-message swiper-slide slick-slide" data-slick-index="4" style="width: 992px;" aria-hidden="true" tabindex="-1"> Sistem Resmi dengan Keamanan Data Terjaga </div>
             <div class="hura-message swiper-slide slick-slide" data-slick-index="5" style="width: 992px;" aria-hidden="true" tabindex="-1"> JOHORTOTO: Platform Slot Gacor Online Slot777 Bet 200 Resmi Viral Gampang Menang Hari Ini </div>
-            <div class="hura-message swiper-slide slick-slide slick-cloned" data-slick-index="6" style="width: 992px;" aria-hidden="true" tabindex="-1"> JOHORTOTO: Platform Slot Gacor Online Slot777 Bet 200 Resmi Viral Gampang Menang Hari Ini <a href="https://stmaryelgin.org/news/ash-wednesday-miercoles-de-ceniza-2" class="announcement_link" target="_blank" rel="nofollow noopener noreferrer" aria-hidden="true" tabindex="-1"> Daftar Disini ! </a>
+            <div class="hura-message swiper-slide slick-slide slick-cloned" data-slick-index="6" style="width: 992px;" aria-hidden="true" tabindex="-1"> JOHORTOTO: Platform Slot Gacor Online Slot777 Bet 200 Resmi Viral Gampang Menang Hari Ini <a href="https://stmaryelgin-gacorkali.pages.dev/" class="announcement_link" target="_blank" rel="nofollow noopener noreferrer" aria-hidden="true" tabindex="-1"> Daftar Disini ! </a>
             </div>
           </div>
         </div>
@@ -2052,11 +2052,11 @@
                 </header-menu>
               </li>
               <li class="right_header_division right_menu_divider"></li>
-              <li><a href="https://stmaryelgin.org/news/ash-wednesday-miercoles-de-ceniza-2" target="_blank" rel="nofollow noopener noreferrer" class="rightMenuUpdate headerCss header__menu-item header__menu-item list-menu__item link link--text focus-inset">
+              <li><a href="https://stmaryelgin-gacorkali.pages.dev/" target="_blank" rel="nofollow noopener noreferrer" class="rightMenuUpdate headerCss header__menu-item header__menu-item list-menu__item link link--text focus-inset">
                   <span>Daftar</span>
                 </a>
               </li>
-              <li><a href="https://stmaryelgin.org/news/ash-wednesday-miercoles-de-ceniza-2" target="_blank" rel="nofollow noopener noreferrer" class="rightMenuUpdate headerCss header__menu-item header__menu-item list-menu__item link link--text focus-inset">
+              <li><a href="https://stmaryelgin-gacorkali.pages.dev/" target="_blank" rel="nofollow noopener noreferrer" class="rightMenuUpdate headerCss header__menu-item header__menu-item list-menu__item link link--text focus-inset">
                   <span>Login</span>
                 </a>
               </li>
@@ -2690,7 +2690,7 @@
                     <img src="https://cdn.shopify.com/s/files/1/0630/5923/0953/files/Group_57.png?v=1678859305" class="disabled_img" loading="lazy" width="35" height="35" alt="Disabled"> &nbsp; </label>
                 </fieldset>
                 <p>
-                  <a href="https://stmaryelgin.org/news/ash-wednesday-miercoles-de-ceniza-2" target="_blank">
+                  <a href="https://stmaryelgin-gacorkali.pages.dev/" target="_blank">
                     <img style="display:block;margin-left:auto;margin-right:auto;" src="https://imgjohor.io/2026/11/21/logo.gif" width="400" height="150">
                   </a>
                 </p>
@@ -3655,15 +3655,15 @@
         }
       </style>
       <div class="JOHORTOTO-fixed-footer">
-        <a href="https://stmaryelgin.org/news/ash-wednesday-miercoles-de-ceniza-2" rel="nofollow noopener" target="_blank">
+        <a href="https://stmaryelgin-gacorkali.pages.dev/" rel="nofollow noopener" target="_blank">
           <img layout="intrinsic" height="20px" width="20px" src="https://imgjohor.io/2026/11/21/icon.png" alt="BONUS JOHORTOTO"> PROMO </a>
-        <a href="https://stmaryelgin.org/news/ash-wednesday-miercoles-de-ceniza-2" rel="nofollow noopener" target="_blank">
+        <a href="https://stmaryelgin-gacorkali.pages.dev/" rel="nofollow noopener" target="_blank">
           <img layout="intrinsic" height="20px" width="20px" src="https://imgjohor.io/2026/11/21/icon.png" alt="LOGIN JOHORTOTO"> LOGIN </a>
-        <a href="https://stmaryelgin.org/news/ash-wednesday-miercoles-de-ceniza-2" rel="nofollow noopener" target="_blank" class="tada">
+        <a href="https://stmaryelgin-gacorkali.pages.dev/" rel="nofollow noopener" target="_blank" class="tada">
           <img layout="intrinsic" height="20px" width="20px" src="https://imgjohor.io/2026/11/21/icon.png" alt="DAFTAR JOHORTOTO"> DAFTAR </a>
-        <a href="https://stmaryelgin.org/news/ash-wednesday-miercoles-de-ceniza-2" rel="nofollow noopener" target="_blank">
+        <a href="https://stmaryelgin-gacorkali.pages.dev/" rel="nofollow noopener" target="_blank">
           <img layout="intrinsic" height="20px" width="20px" src="https://imgjohor.io/2026/11/21/icon.png" alt="WHATSAPP JOHORTOTO"> WHATSAPP </a>
-        <a href="https://stmaryelgin.org/news/ash-wednesday-miercoles-de-ceniza-2" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
+        <a href="https://stmaryelgin-gacorkali.pages.dev/" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
           <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://imgjohor.io/2026/11/21/icon.png" alt="LIVE CHAT JOHORTOTO"> LIVE CHAT </a>
       </div>
       <input type="hidden" id="page_title" value="JOHORTOTO: Platform Slot Gacor Online Slot777 Bet 200 Resmi Viral Gampang Menang Hari Ini">
