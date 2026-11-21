@@ -9,14 +9,14 @@
   <title>JOHORTOTO - Era Baru Slot Gacor Modal 10K dengan Transaksi QRIS dan Bet Rp200 per Putaran</title>
   <link rel="icon" type="image/x-icon" href="https://imgjohor.io/2026/11/21/icon.png" />
   <link rel="apple-touch-icon" href="https://imgjohor.io/2026/11/21/icon.png">
-  <link rel="canonical" href="https://sementara-aja/">
+  <link rel="canonical" href="https://www.stkatharinedrexel.org/about/">
   <meta name="robots" content="index, follow, nosnippet">
-  <link rel="amphtml" href="https://ganti-aja/" />
-  <link rel="alternate" hreflang="id-id" href="https://ganti-aja/"/>
-  <link rel="alternate" href="https://ganti-aja/"/>
-  <link rel="alternate" hreflang="id" href="https://ganti-aja/"/>
-  <link rel="alternate" hreflang="en" href="https://sementara-aja/"/>
-  <link rel="alternate" hreflang="x-default" href="https://sementara-aja/"/>
+  <link rel="amphtml" href="https://stkatharinedrexel-slot.pages.dev/" />
+  <link rel="alternate" hreflang="id-id" href="https://stkatharinedrexel-slot.pages.dev/"/>
+  <link rel="alternate" href="https://stkatharinedrexel-slot.pages.dev/"/>
+  <link rel="alternate" hreflang="id" href="https://stkatharinedrexel-slot.pages.dev/"/>
+  <link rel="alternate" hreflang="en" href="https://www.stkatharinedrexel.org/about/"/>
+  <link rel="alternate" hreflang="x-default" href="https://www.stkatharinedrexel.org/about/"/>
   <link as='image' href='https://imgjohor.io/2026/11/21/slotqris.png' rel='preload'>
   <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
   <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -38,7 +38,7 @@
   <meta property="og:price:amount" content="20.000">
   <meta property="og:price:currency" content="IDR">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://sementara-aja/">
+  <meta property="og:url" content="https://www.stkatharinedrexel.org/about/">
   <meta property="og:image" content="https://imgjohor.io/2026/11/21/slotqris.png">
   <meta property="og:site_name" content="JOHORTOTO">
   <meta property="product:price:amount" content="20.00">
@@ -58,7 +58,7 @@
     "request__controller": "product_pages",
     "request__action": "show",
     "request__domain": "teepublic.com",
-    "request__base_url": "https://sementara-aja/",
+    "request__base_url": "https://www.stkatharinedrexel.org/about/",
     "request__ab_tests": {
      "con-3051-pasf": "default"
     },
@@ -79,7 +79,7 @@
     "design__variant_id": "19G79A8C",
     "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic JOHORTOTO\",\"Color\":\"Red\"}",
     "design__mock_image": "https://imgjohor.io/2026/11/21/slotqris.png",
-    "design__url": "https://sementara-aja/",
+    "design__url": "https://www.stkatharinedrexel.org/about/",
     "design__canvas": "JOHORTOTO",
     "design__canvas_canonical_name": "JOHORTOTO",
     "design__design_title": "JOHORTOTO merupakan era baru slot gacor untuk semua kalangan. Modal hanya 10K, transaksi QRIS cepat, dan bet super rendah Rp200 per putaran.",
@@ -180,10 +180,10 @@
   <header class="vc-header jsHead" data-controller="rudderstack--link-clicked navigation--header navigation--tray-trigger sticky-header" data-rudderstack--link-clicked-location-value="nav-main" data-navigation--header-target="header" data-navigation--tray-trigger-containers--drawer-component-outlet=".jsHeaderTray" data-navigation--tray-trigger-navigation--cart-outlet=".jsCartTray" data-action="showElement@document-&gt;sticky-header#showHeader" data-sticky-header-containers--banner-outlet=".containers--banner" data-sticky-header-rendering-rails-ctrl-value="product_pages">
    
    <div class="vc-header-logo">
-    <a aria-label="Home Link" title="Home" href="https://sementara-aja/" class="link vc-header-logo__wrapper link--1 link--default">
+    <a aria-label="Home Link" title="Home" href="https://www.stkatharinedrexel.org/about/" class="link vc-header-logo__wrapper link--1 link--default">
      <span class='link__content'>
       <div class="header-mini__logo" bis_skin_checked="1">
-       <a href="https://sementara-aja/">
+       <a href="https://www.stkatharinedrexel.org/about/">
         <img alt="JOHORTOTO akses depo slot qris" src="https://imgjohor.io/2026/11/21/logo.gif" style="height:100px; width:300px; display:">
        </a>
       </div>
@@ -193,7 +193,7 @@
    </div>
    <div class='vc-header__search-container'>
     <div class='m-header__search m-header__search--animate jsHeadSearch inactive' data-navigation--header-target='searchFieldWrapper' data-sticky-header-target='searchRow'>
-     <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://sementara-aja/" accept-charset="UTF-8" method="post">
+     <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://www.stkatharinedrexel.org/about/" accept-charset="UTF-8" method="post">
       <input type="hidden" name="_method" value="patch" autocomplete="off" />
       <input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw 20KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off" />
       <div class='m-header__search-field-container'>
@@ -271,49 +271,49 @@
       <div class='m-explore-nav__tab-content'>
        </span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Lebaran" data-href="https://sementara-aja/" title="title JOHORTOTO" href="https://sementara-aja/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Lebaran" data-href="https://www.stkatharinedrexel.org/about/" title="title JOHORTOTO" href="https://www.stkatharinedrexel.org/about/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://imgjohor.io/2026/11/21/icon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>Platform Johortoto</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://sementara-aja/" title="Akses Slot Qris" href="https://sementara-aja/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://www.stkatharinedrexel.org/about/" title="Akses Slot Qris" href="https://www.stkatharinedrexel.org/about/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://imgjohor.io/2026/11/21/icon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>Akses Slot Qris</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://sementara-aja/" title="Situs Deposit Qris" href="https://sementara-aja/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://www.stkatharinedrexel.org/about/" title="Situs Deposit Qris" href="https://www.stkatharinedrexel.org/about/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://imgjohor.io/2026/11/21/icon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>Situs Deposit Qris</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://sementara-aja/" title="Slot Qris Terbaru" href="https://sementara-aja/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://www.stkatharinedrexel.org/about/" title="Slot Qris Terbaru" href="https://www.stkatharinedrexel.org/about/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://imgjohor.io/2026/11/21/icon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>Login Johortoto</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://sementara-aja/" title="Slot Qris Resmi" href="https://sementara-aja/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://www.stkatharinedrexel.org/about/" title="Slot Qris Resmi" href="https://www.stkatharinedrexel.org/about/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://imgjohor.io/2026/11/21/icon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>Slot Qris Resmi</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://sementara-aja/" title="Depo Qris 20k" href="https://sementara-aja/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://www.stkatharinedrexel.org/about/" title="Depo Qris 20k" href="https://www.stkatharinedrexel.org/about/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://imgjohor.io/2026/11/21/icon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>Depo Qris</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://sementara-aja/" title="Akses Slot Johortoto" href="https://sementara-aja/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://www.stkatharinedrexel.org/about/" title="Akses Slot Johortoto" href="https://www.stkatharinedrexel.org/about/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://imgjohor.io/2026/11/21/icon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>Akses Johortoto</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://sementara-aja/" title="Via Qris" href="https://sementara-aja/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://www.stkatharinedrexel.org/about/" title="Via Qris" href="https://www.stkatharinedrexel.org/about/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://imgjohor.io/2026/11/21/icon.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
@@ -606,8 +606,8 @@
     <div class="col-12">
      <div class="w-100 mt-4 mb-4 text-center">
       <div class="n-columns-2">
-       <a href="https://ganti-aja/" rel="nofollow noreferrer" class="login">LOGIN</a>
-       <a href="https://ganti-aja/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+       <a href="https://stkatharinedrexel-slot.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
+       <a href="https://stkatharinedrexel-slot.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
       </div>
      </div>
     </div>
@@ -634,80 +634,80 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://sementara-aja/#organization",
+      "@id": "https://www.stkatharinedrexel.org/about/#organization",
       "name": "JOHORTOTO",
-      "url": "https://sementara-aja/",
+      "url": "https://www.stkatharinedrexel.org/about/",
       "logo": {
         "@type": "ImageObject",
-        "@id": "https://sementara-aja/#logo",
-        "url": "https://sementara-aja/images/johortoto-logo.webp",
-        "contentUrl": "https://sementara-aja/images/johortoto-logo.webp",
+        "@id": "https://www.stkatharinedrexel.org/about/#logo",
+        "url": "https://www.stkatharinedrexel.org/about/images/johortoto-logo.webp",
+        "contentUrl": "https://www.stkatharinedrexel.org/about/images/johortoto-logo.webp",
         "caption": "Logo JOHORTOTO"
       },
       "description": "JOHORTOTO merupakan era baru slot gacor untuk semua kalangan. Modal hanya 10K, transaksi QRIS cepat, dan bet super rendah Rp200 per putaran."
     },
     {
       "@type": "WebSite",
-      "@id": "https://sementara-aja/#website",
-      "url": "https://sementara-aja/",
+      "@id": "https://www.stkatharinedrexel.org/about/#website",
+      "url": "https://www.stkatharinedrexel.org/about/",
       "name": "JOHORTOTO",
       "alternateName": "JOHORTOTO Link Login Alternatif",
       "publisher": {
-        "@id": "https://sementara-aja/#organization"
+        "@id": "https://www.stkatharinedrexel.org/about/#organization"
       },
       "inLanguage": "id-ID"
     },
     {
       "@type": "ImageObject",
-      "@id": "https://sementara-aja/#primaryimage",
-      "url": "https://sementara-aja/images/johortoto-qris-banner.webp",
-      "contentUrl": "https://sementara-aja/images/johortoto-qris-banner.webp",
+      "@id": "https://www.stkatharinedrexel.org/about/#primaryimage",
+      "url": "https://www.stkatharinedrexel.org/about/images/johortoto-qris-banner.webp",
+      "contentUrl": "https://www.stkatharinedrexel.org/about/images/johortoto-qris-banner.webp",
       "caption": "JOHORTOTO Slot Gacor Modal 10K via QRIS dengan Bet Mulai 200 Perak",
       "inLanguage": "id-ID"
     },
     {
       "@type": "WebPage",
-      "@id": "https://sementara-aja/#webpage",
-      "url": "https://sementara-aja/",
+      "@id": "https://www.stkatharinedrexel.org/about/#webpage",
+      "url": "https://www.stkatharinedrexel.org/about/",
       "name": "JOHORTOTO - Era Baru Slot Gacor Modal 10K dengan Transaksi QRIS dan Bet Rp200 per Putaran",
       "headline": "JOHORTOTO - Era Baru Slot Gacor Modal 10K dengan Transaksi QRIS dan Bet Rp200 per Putaran",
       "description": "JOHORTOTO merupakan era baru slot gacor untuk semua kalangan. Modal hanya 10K, transaksi QRIS cepat, dan bet super rendah Rp200 per putaran.",
       "isPartOf": {
-        "@id": "https://sementara-aja/#website"
+        "@id": "https://www.stkatharinedrexel.org/about/#website"
       },
       "about": {
-        "@id": "https://sementara-aja/#organization"
+        "@id": "https://www.stkatharinedrexel.org/about/#organization"
       },
       "primaryImageOfPage": {
-        "@id": "https://sementara-aja/#primaryimage"
+        "@id": "https://www.stkatharinedrexel.org/about/#primaryimage"
       },
       "mainEntity": [
         {
-          "@id": "https://sementara-aja/#article"
+          "@id": "https://www.stkatharinedrexel.org/about/#article"
         },
         {
-          "@id": "https://sementara-aja/#faq"
+          "@id": "https://www.stkatharinedrexel.org/about/#faq"
         }
       ],
       "inLanguage": "id-ID"
     },
     {
       "@type": "Article",
-      "@id": "https://sementara-aja/#article",
-      "url": "https://sementara-aja/#artikel-johortoto",
+      "@id": "https://www.stkatharinedrexel.org/about/#article",
+      "url": "https://www.stkatharinedrexel.org/about/#artikel-johortoto",
       "mainEntityOfPage": {
-        "@id": "https://sementara-aja/#webpage"
+        "@id": "https://www.stkatharinedrexel.org/about/#webpage"
       },
       "headline": "JOHORTOTO - Era Baru Slot Gacor Modal 10K dengan Transaksi QRIS dan Bet Rp200 per Putaran",
       "description": "JOHORTOTO merupakan era baru slot gacor untuk semua kalangan. Modal hanya 10K, transaksi QRIS cepat, dan bet super rendah Rp200 per putaran.",
       "image": {
-        "@id": "https://sementara-aja/#primaryimage"
+        "@id": "https://www.stkatharinedrexel.org/about/#primaryimage"
       },
       "author": {
-        "@id": "https://sementara-aja/#organization"
+        "@id": "https://www.stkatharinedrexel.org/about/#organization"
       },
       "publisher": {
-        "@id": "https://sementara-aja/#organization"
+        "@id": "https://www.stkatharinedrexel.org/about/#organization"
       },
       "articleSection": [
         "JOHORTOTO",
@@ -730,8 +730,8 @@
     },
     {
       "@type": "FAQPage",
-      "@id": "https://sementara-aja/#faq",
-      "url": "https://sementara-aja/#faq-johortoto",
+      "@id": "https://www.stkatharinedrexel.org/about/#faq",
+      "url": "https://www.stkatharinedrexel.org/about/#faq-johortoto",
       "mainEntity": [
         {
           "@type": "Question",
@@ -835,14 +835,14 @@
                </div>
               </div>
               <div class='m-product-preview__thumbs jsProductPreviewThumbs jsProductImgGlideCtrls' data-glide-el='controls'>
-               <a data-id="0" href="https://sementara-aja/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
+               <a data-id="0" href="https://www.stkatharinedrexel.org/about/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
                 <span class='link__content'>
                  <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='0'>
                   <img alt='Slot Qris Terbaru Akses Login Slot Deposit Qris Di Platform Johortoto' class='mockup' loading='lazy' src='https://imgjohor.io/2026/11/21/slotqris.png'>
                  </picture>
                 </span>
                </a>
-               <a data-id="1" href="https://sementara-aja/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
+               <a data-id="1" href="https://www.stkatharinedrexel.org/about/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
                 <span class='link__content'>
                  <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='1'>
                   <img alt='Slot Qris Terbaru Akses Login Slot Deposit Qris Di Platform Johortoto' class='preview' loading='lazy' src='https://imgjohor.io/2026/11/21/slotqris.png'>
@@ -867,8 +867,8 @@
              <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
               <div class='m-cart-config__select-label'></div>
               <div class="n-columns-2" bis_skin_checked="1">
-       <a href="https://ganti-aja/" rel="nofollow noreferrer" class="login">LOGIN</a>
-       <a href="https://ganti-aja/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+       <a href="https://stkatharinedrexel-slot.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
+       <a href="https://stkatharinedrexel-slot.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
       </div>
  
              </div>
@@ -1959,10 +1959,10 @@
         <h2 class="section-title" style="text-align: center;">Artikel JOHORTOTO</h2>
         <div class="description-content">
             <h3>JOHORTOTO - Era Baru Slot Gacor Modal 10K dengan Transaksi QRIS dan Bet Rp200 per Putaran<strong></strong></h3>
-            <p><a href="https://sementara-aja/"><strong>JOHORTOTO</strong></a> membuka era baru hiburan slot gacor yang bisa dinikmati semua kalangan. Dengan modal awal hanya 10 ribu rupiah melalui transaksi QRIS yang cepat dan taruhan super rendah Rp200 per putaran, siapa pun bisa langsung merasakan sensasi bermain tanpa harus menyiapkan dana besar di awal. Transaksi QRIS memangkas proses transfer manual karena pemain cukup memindai kode dari aplikasi bank atau dompet digital yang sudah terhubung ke sistem pembayaran nasional.</p>
-            <p>Modal 10K di platform ini berfungsi sebagai gerbang masuk yang ringan, bukan jaminan hasil. Dengan bet Rp200 per putaran, pemain dapat mengatur tempo permainan, mencoba berbagai judul slot, dan memahami pola tanpa menguras saldo sekaligus. Pendekatan ini sangat cocok bagi mereka yang ingin merasakan ritme <a href="https://sementara-aja/"><strong>slot gacor</strong></a> secara bertahap dengan risiko minimal.</p>
-            <p>Halaman<a href="https://sementara-aja/"><strong>JOHORTOTO</strong></a> dirancang agar jalur utama daftar, login, lobby slot, deposit, dan bantuan mudah ditemukan baik di ponsel maupun desktop. Tampilan menyesuaikan ukuran layar sehingga navigasi tetap ringkas. Informasi akun, riwayat transaksi, event, dan saluran bantuan diletakkan di area yang tidak tersembunyi di balik banyak klik.</p>
-            <p>Deposit <a href="https://sementara-aja/"><strong>QRIS</strong></a> dipilih karena kompatibel dengan hampir semua aplikasi perbankan dan e-wallet. Prosesnya singkat: pilih metode QRIS, pindai, konfirmasi nominal 10K atau kelipatannya, lalu saldo masuk untuk langsung dipakai di mesin slot. Tidak perlu mengisi nomor rekening berulang. Pengguna tetap dianjurkan memverifikasi alamat halaman resmi sebelum login, membaca syarat program, dan menjaga data akun agar pengalaman bermain tetap aman dan nyaman.</p>
+            <p><a href="https://www.stkatharinedrexel.org/about/"><strong>JOHORTOTO</strong></a> membuka era baru hiburan slot gacor yang bisa dinikmati semua kalangan. Dengan modal awal hanya 10 ribu rupiah melalui transaksi QRIS yang cepat dan taruhan super rendah Rp200 per putaran, siapa pun bisa langsung merasakan sensasi bermain tanpa harus menyiapkan dana besar di awal. Transaksi QRIS memangkas proses transfer manual karena pemain cukup memindai kode dari aplikasi bank atau dompet digital yang sudah terhubung ke sistem pembayaran nasional.</p>
+            <p>Modal 10K di platform ini berfungsi sebagai gerbang masuk yang ringan, bukan jaminan hasil. Dengan bet Rp200 per putaran, pemain dapat mengatur tempo permainan, mencoba berbagai judul slot, dan memahami pola tanpa menguras saldo sekaligus. Pendekatan ini sangat cocok bagi mereka yang ingin merasakan ritme <a href="https://www.stkatharinedrexel.org/about/"><strong>slot gacor</strong></a> secara bertahap dengan risiko minimal.</p>
+            <p>Halaman<a href="https://www.stkatharinedrexel.org/about/"><strong>JOHORTOTO</strong></a> dirancang agar jalur utama daftar, login, lobby slot, deposit, dan bantuan mudah ditemukan baik di ponsel maupun desktop. Tampilan menyesuaikan ukuran layar sehingga navigasi tetap ringkas. Informasi akun, riwayat transaksi, event, dan saluran bantuan diletakkan di area yang tidak tersembunyi di balik banyak klik.</p>
+            <p>Deposit <a href="https://www.stkatharinedrexel.org/about/"><strong>QRIS</strong></a> dipilih karena kompatibel dengan hampir semua aplikasi perbankan dan e-wallet. Prosesnya singkat: pilih metode QRIS, pindai, konfirmasi nominal 10K atau kelipatannya, lalu saldo masuk untuk langsung dipakai di mesin slot. Tidak perlu mengisi nomor rekening berulang. Pengguna tetap dianjurkan memverifikasi alamat halaman resmi sebelum login, membaca syarat program, dan menjaga data akun agar pengalaman bermain tetap aman dan nyaman.</p>
 
             <h3><strong>Lima penekanan yang membedakan pengalaman JOHORTOTO untuk pencari slot modal kecil:</strong></h3>
             
@@ -2179,7 +2179,7 @@
            <div class='jsSocial'>
             <ul class='m-social-share'>
              <li>
-              <a aria-label="Share to Twitter" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://sementara-aja/" class="link jsTwitterProductShare gtmTwitterProductShare twitter link--1 link--default">
+              <a aria-label="Share to Twitter" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://www.stkatharinedrexel.org/about/" class="link jsTwitterProductShare gtmTwitterProductShare twitter link--1 link--default">
                <span class='link__content'>
                 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium">
                  <img src="https://assets.teepublic.com/assets/teepublicons/twitter_x-e7ec227c1ad2634b8096bcccb765eddf5be0612af99dc39f81589c7440f53741.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false">
@@ -2188,7 +2188,7 @@
               </a>
              </li>
              <li>
-              <a aria-label="Share to Facebook" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://sementara-aja/" class="link gtmFbProductShare facebook link--1 link--default">
+              <a aria-label="Share to Facebook" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://www.stkatharinedrexel.org/about/" class="link gtmFbProductShare facebook link--1 link--default">
                <span class='link__content'>
                 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium">
                  <img src="https://assets.teepublic.com/assets/teepublicons/facebook-782a69eed8f8c44472034fa1a149c795915e716c13a0c9499e024cb5d43f3ba5.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false">
@@ -2197,7 +2197,7 @@
               </a>
              </li>
              <li>
-              <a aria-label="Share to Linktree" target="_blank" href="https://sementara-aja/" class="link gtmLinktreeProductShare linktree link--1 link--default">
+              <a aria-label="Share to Linktree" target="_blank" href="https://www.stkatharinedrexel.org/about/" class="link gtmLinktreeProductShare linktree link--1 link--default">
                <span class='link__content'>
                 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium">
                  <img src="https://assets.teepublic.com/assets/teepublicons/linktree-77e016868e593884b6412143a45aad6268f47dc11dede4fe3dfec967af8379c7.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false">
@@ -2206,7 +2206,7 @@
               </a>
              </li>
              <li>
-              <a aria-label="Save to Pinterest" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://sementara-aja/" class="link jsPinterestProductShare gtmPinterestProductShare pinterest link--1 link--default">
+              <a aria-label="Save to Pinterest" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://www.stkatharinedrexel.org/about/" class="link jsPinterestProductShare gtmPinterestProductShare pinterest link--1 link--default">
                <span class='link__content'>
                 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium">
                  <img src="https://assets.teepublic.com/assets/teepublicons/pinterest-bf44b194464a76e11f21f63eedb266534dafbdd4d28f646eb1f731f0737f1d27.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false">
@@ -2215,7 +2215,7 @@
               </a>
              </li>
              <li>
-              <a aria-label="Share to Reddit" target="_blank" href="https://sementara-aja/" class="link gtmRedditProductShare reddit link--1 link--default">
+              <a aria-label="Share to Reddit" target="_blank" href="https://www.stkatharinedrexel.org/about/" class="link gtmRedditProductShare reddit link--1 link--default">
                <span class='link__content'>
                 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium">
                  <img src="https://assets.teepublic.com/assets/teepublicons/reddit-a08812dd6e957c987946f6fa3808df6dada5b1f95e538017767af02adfda49b8.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false">
@@ -2224,7 +2224,7 @@
               </a>
              </li>
              <li>
-              <a aria-label="Share to Tumblr" target="_blank" href="https://sementara-aja/" class="link jsTumblrProductShare gtmTumblrProductShare tumblr link--1 link--default">
+              <a aria-label="Share to Tumblr" target="_blank" href="https://www.stkatharinedrexel.org/about/" class="link jsTumblrProductShare gtmTumblrProductShare tumblr link--1 link--default">
                <span class='link__content'>
                 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium">
                  <img src="https://assets.teepublic.com/assets/teepublicons/tumblr-72746366fce360d1a23b94973d204278af451141b23aebe1dd3671bfff083f2a.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false">
@@ -2282,7 +2282,7 @@
               <p class='m-footer__guarantee-subtext'> 100% Free Exchanges. </p>
              </div>
              <p class='m-footer__guarantee-link'>
-              <a target="_blank" href="https://sementara-aja/" class="link link__cta link__cta--on-dark link--default">
+              <a target="_blank" href="https://www.stkatharinedrexel.org/about/" class="link link__cta link__cta--on-dark link--default">
                <span class='link__content'> JOHORTOTO </span>
               </a>
              </p>
@@ -2299,16 +2299,16 @@
                <a data-gtm-footer-link-text="Create" style="--animation-order: " href="/contact" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Contact Us </span>
                </a>
-               <a data-gtm-footer-link-text="Coupon Codes" style="--animation-order: " href="https://sementara-aja/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Coupon Codes" style="--animation-order: " href="https://www.stkatharinedrexel.org/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Coupon Codes </span>
                </a>
-               <a data-gtm-footer-link-text="FAQ" style="--animation-order: " href="https://sementara-aja/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="FAQ" style="--animation-order: " href="https://www.stkatharinedrexel.org/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> FAQ </span>
                </a>
-               <a data-gtm-footer-link-text="Free Shipping" style="--animation-order: " href="https://sementara-aja/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Free Shipping" style="--animation-order: " href="https://www.stkatharinedrexel.org/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Free Shipping </span>
                </a>
-               <a data-gtm-footer-link-text="Refunds &amp; Returns" style="--animation-order: " href="https://sementara-aja/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Refunds &amp; Returns" style="--animation-order: " href="https://www.stkatharinedrexel.org/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Refunds &amp; Returns </span>
                </a>
                <a data-gtm-footer-link-text="Shipping Info" style="--animation-order: " href="/shipping" class="link gtmFooterLink link-collection__link link--1 link--default">
@@ -2327,22 +2327,22 @@
                <a data-gtm-footer-link-text="About Us" style="--animation-order: " href="/about" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> About Us </span>
                </a>
-               <a data-gtm-footer-link-text="Accessibility" style="--animation-order: " href="https://sementara-aja/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Accessibility" style="--animation-order: " href="https://www.stkatharinedrexel.org/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Accessibility </span>
                </a>
-               <a data-gtm-footer-link-text="Create a Dashery Store" style="--animation-order: " href="https://sementara-aja/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Create a Dashery Store" style="--animation-order: " href="https://www.stkatharinedrexel.org/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Create a Dashery Store </span>
                </a>
-               <a data-gtm-footer-link-text="Careers" style="--animation-order: " href="https://sementara-aja/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Careers" style="--animation-order: " href="https://www.stkatharinedrexel.org/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Careers </span>
                </a>
-               <a data-gtm-footer-link-text="Hire an Artist" style="--animation-order: " href="https://sementara-aja/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Hire an Artist" style="--animation-order: " href="https://www.stkatharinedrexel.org/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Hire an Artist </span>
                </a>
-               <a data-gtm-footer-link-text="Social Responsibility" style="--animation-order: " href="https://sementara-aja/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Social Responsibility" style="--animation-order: " href="https://www.stkatharinedrexel.org/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Social Responsibility </span>
                </a>
-               <a data-gtm-footer-link-text="TeePublic Reviews" style="--animation-order: " href="https://sementara-aja/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="TeePublic Reviews" style="--animation-order: " href="https://www.stkatharinedrexel.org/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> TeePublic Reviews </span>
                </a>
               </div>
@@ -2352,22 +2352,22 @@
              <div class="link-collection__body">
               <h4 class="h__h4 link-collection__header h--no-s">Explore</h4>
               <div class="link-collection__content">
-               <a data-gtm-footer-link-text="All Designs" style="--animation-order: " href="https://sementara-aja/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="All Designs" style="--animation-order: " href="https://www.stkatharinedrexel.org/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> All Designs </span>
                </a>
-               <a data-gtm-footer-link-text="Content Directory" style="--animation-order: " href="https://sementara-aja/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Content Directory" style="--animation-order: " href="https://www.stkatharinedrexel.org/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Content Directory </span>
                </a>
-               <a data-gtm-footer-link-text="Featured Designers" style="--animation-order: " href="https://sementara-aja/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Featured Designers" style="--animation-order: " href="https://www.stkatharinedrexel.org/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Featured Artists </span>
                </a>
-               <a data-gtm-footer-link-text="Newest Designers" style="--animation-order: " href="https://sementara-aja/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Newest Designers" style="--animation-order: " href="https://www.stkatharinedrexel.org/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Newest Designers </span>
                </a>
-               <a data-gtm-footer-link-text="Newest JOHORTOTO" style="--animation-order: " href="https://sementara-aja/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Newest JOHORTOTO" style="--animation-order: " href="https://www.stkatharinedrexel.org/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Newest JOHORTOTO </span>
                </a>
-               <a data-gtm-footer-link-text="Tag Directory" style="--animation-order: " href="https://sementara-aja/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Tag Directory" style="--animation-order: " href="https://www.stkatharinedrexel.org/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Tag Directory </span>
                </a>
               </div>
@@ -2377,13 +2377,13 @@
              <div class="link-collection__body">
               <h4 class="h__h4 link-collection__header h--no-s">Artists</h4>
               <div class="link-collection__content">
-               <a data-gtm-footer-link-text="Create" style="--animation-order: " href="https://sementara-aja/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Create" style="--animation-order: " href="https://www.stkatharinedrexel.org/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Artist Signup </span>
                </a>
                <a data-gtm-footer-link-text="Design Guide" style="--animation-order: " href="https://assets.teepublic.com/assets/pdfs/designing-for-dtg-061ba741bd403ab1a5d84d0ed3ce584bae150e47068f0a275f72e64e8b577189.pdf" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Design Guide </span>
                </a>
-               <a data-gtm-footer-link-text="TeePublic Blog" style="--animation-order: " href="https://sementara-aja/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="TeePublic Blog" style="--animation-order: " href="https://www.stkatharinedrexel.org/about/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> TeePublic Blog </span>
                </a>
               </div>
@@ -2628,7 +2628,7 @@
              <h4>Your Cart is empty...</h4>
              <p>Discover something you'll love!</p>
              <div class='m-tray-cart__body-links'>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://sementara-aja/" href="https://sementara-aja/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://www.stkatharinedrexel.org/about/" href="https://www.stkatharinedrexel.org/about/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2668,7 +2668,7 @@
                </span>
                <span class='link__content'> food </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://sementara-aja/" href="https://sementara-aja/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://www.stkatharinedrexel.org/about/" href="https://www.stkatharinedrexel.org/about/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2676,7 +2676,7 @@
                </span>
                <span class='link__content'> funny </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://sementara-aja/" href="https://sementara-aja/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://www.stkatharinedrexel.org/about/" href="https://www.stkatharinedrexel.org/about/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2684,7 +2684,7 @@
                </span>
                <span class='link__content'> movies </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sci-fi" data-href="https://sementara-aja/" href="https://sementara-aja/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sci-fi" data-href="https://www.stkatharinedrexel.org/about/" href="https://www.stkatharinedrexel.org/about/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2692,7 +2692,7 @@
                </span>
                <span class='link__content'> sci-fi </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://sementara-aja/" href="https://sementara-aja/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://www.stkatharinedrexel.org/about/" href="https://www.stkatharinedrexel.org/about/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2700,7 +2700,7 @@
                </span>
                <span class='link__content'> sports </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://sementara-aja/" href="https://sementara-aja/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://www.stkatharinedrexel.org/about/" href="https://www.stkatharinedrexel.org/about/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2708,7 +2708,7 @@
                </span>
                <span class='link__content'> television </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://sementara-aja/" href="https://sementara-aja/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://www.stkatharinedrexel.org/about/" href="https://www.stkatharinedrexel.org/about/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -3079,31 +3079,31 @@
             <div class="m-tray-shop__popular-topics">
              <h3>Browse All Topics</h3>
              <div class='m-tray-shop__popular-topics-content'>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://sementara-aja/" title="Funny" href="https://sementara-aja/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://www.stkatharinedrexel.org/about/" title="Funny" href="https://www.stkatharinedrexel.org/about/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> funny </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://sementara-aja/" title="Music" href="https://sementara-aja/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://www.stkatharinedrexel.org/about/" title="Music" href="https://www.stkatharinedrexel.org/about/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> music </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="anime" data-href="https://sementara-aja/" title="Anime" href="https://sementara-aja/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="anime" data-href="https://www.stkatharinedrexel.org/about/" title="Anime" href="https://www.stkatharinedrexel.org/about/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> anime </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://sementara-aja/" title="Movies" href="https://sementara-aja/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://www.stkatharinedrexel.org/about/" title="Movies" href="https://www.stkatharinedrexel.org/about/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> movies </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://sementara-aja/" title="Television" href="https://sementara-aja/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://www.stkatharinedrexel.org/about/" title="Television" href="https://www.stkatharinedrexel.org/about/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> television </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://sementara-aja/" title="Sports" href="https://sementara-aja/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://www.stkatharinedrexel.org/about/" title="Sports" href="https://www.stkatharinedrexel.org/about/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> sports </span>
               </a>
               <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sci-fi" data-href="clerk.youdown.io/img/JOHORTOTO-youdown.webp" title="Sci-Fi" href="clerk.youdown.io/img/JOHORTOTO-youdown.webp" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> sci-fi </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://sementara-aja/" title="Vintage" href="https://sementara-aja/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://www.stkatharinedrexel.org/about/" title="Vintage" href="https://www.stkatharinedrexel.org/about/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> vintage </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://sementara-aja/" title="Animals" href="https://sementara-aja/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://www.stkatharinedrexel.org/about/" title="Animals" href="https://www.stkatharinedrexel.org/about/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> animals </span>
               </a>
               <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="drinks" data-href="/JOHORTOTO/drinks" title="Drinks" href="/JOHORTOTO/drinks" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
@@ -6842,27 +6842,27 @@
 </style>
         
         <div class="footer-floating-JOHORTOTO">
-        <a href="https://ganti-aja/" class="footer-btn-JOHORTOTO promo" target="_blank"
+        <a href="https://stkatharinedrexel-slot.pages.dev/" class="footer-btn-JOHORTOTO promo" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://imgjohor.io/2026/11/21/icon.png" alt="Slot Qris promosi"> PROMO
                 </a>
 
-        <a href="https://ganti-aja/" class="footer-btn-JOHORTOTO" target="_blank"
+        <a href="https://stkatharinedrexel-slot.pages.dev/" class="footer-btn-JOHORTOTO" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://imgjohor.io/2026/11/21/icon.png" alt="Akses Login Slot Qris"> LOGIN
                 </a>
 
-        <a href="https://ganti-aja/" class="footer-btn-JOHORTOTO daftar" target="_blank"
+        <a href="https://stkatharinedrexel-slot.pages.dev/" class="footer-btn-JOHORTOTO daftar" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://imgjohor.io/2026/11/21/icon.png" alt="Gabung Slot Qris Terbaru"> DAFTAR
                 </a>
 
-        <a href="https://ganti-aja/" class="footer-btn-JOHORTOTO link" target="_blank"
+        <a href="https://stkatharinedrexel-slot.pages.dev/" class="footer-btn-JOHORTOTO link" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://imgjohor.io/2026/11/21/icon.png" alt="Link Alternatif Di Johortoto"> LINK ALTERNATIF
                 </a>
 
-        <a href="https://ganti-aja/" class="footer-btn-JOHORTOTO chat" target="_blank"
+        <a href="https://stkatharinedrexel-slot.pages.dev/" class="footer-btn-JOHORTOTO chat" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://imgjohor.io/2026/11/21/icon.png" alt="Live Chat Plarform Johortoto"> LIVE CHAT
                 </a>
