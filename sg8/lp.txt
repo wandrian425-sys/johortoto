@@ -24,24 +24,24 @@
           <link rel="manifest" href="/manifest.json" />
           <link rel="mask-icon" href="https://imgjohor.io/2026/11/21/icon.png" color="#2d2d2d" />
           <meta name="theme-color" content="#2d2d2d" />
-          <link rel="alternate" hreflang="es-ES" href="https://ganti-aja/" />
-          <link rel="alternate" hreflang="de-DE" href="https://ganti-aja/" />
-          <link rel="alternate" hreflang="en-AU" href="https://ganti-aja/" />
-          <link rel="alternate" hreflang="fr-FR" href="https://ganti-aja/" />
-          <link rel="alternate" hreflang="da-DK" href="https://ganti-aja/" />
-          <link rel="alternate" hreflang="en-GB" href="https://ganti-aja/" />
-          <link rel="alternate" hreflang="it-IT" href="https://ganti-aja/" />
-          <link rel="alternate" hreflang="nl-NL" href="https://ganti-aja/" />
-          <link rel="alternate" hreflang="pl-PL" href="https://ganti-aja/" />
-          <link rel="alternate" hreflang="en-US" href="https://ganti-aja/" />
-          <link rel="alternate" hreflang="sv-SE" href="https://ganti-aja/" />
-          <link rel="canonical" href="https://sementara-aja/" />
-          <link rel="amphtml" href="https://ganti-aja/" />
-		  <link rel="alternate" href="https://ganti-aja/" />
-		  <link rel="alternate" hreflang="id-id" href="https://ganti-aja/" />
-		  <link rel="alternate" hreflang="id" href="https://ganti-aja/"/>
-		  <link rel="alternate" hreflang="en" href="https://ganti-aja/" />
-		  <link rel="alternate" hreflang="x-default" href="https://ganti-aja/" />
+          <link rel="alternate" hreflang="es-ES" href="https://ceorockford-schools-slot.pages.dev/" />
+          <link rel="alternate" hreflang="de-DE" href="https://ceorockford-schools-slot.pages.dev/" />
+          <link rel="alternate" hreflang="en-AU" href="https://ceorockford-schools-slot.pages.dev/" />
+          <link rel="alternate" hreflang="fr-FR" href="https://ceorockford-schools-slot.pages.dev/" />
+          <link rel="alternate" hreflang="da-DK" href="https://ceorockford-schools-slot.pages.dev/" />
+          <link rel="alternate" hreflang="en-GB" href="https://ceorockford-schools-slot.pages.dev/" />
+          <link rel="alternate" hreflang="it-IT" href="https://ceorockford-schools-slot.pages.dev/" />
+          <link rel="alternate" hreflang="nl-NL" href="https://ceorockford-schools-slot.pages.dev/" />
+          <link rel="alternate" hreflang="pl-PL" href="https://ceorockford-schools-slot.pages.dev/" />
+          <link rel="alternate" hreflang="en-US" href="https://ceorockford-schools-slot.pages.dev/" />
+          <link rel="alternate" hreflang="sv-SE" href="https://ceorockford-schools-slot.pages.dev/" />
+          <link rel="canonical" href="https://www.ceorockford.org/curriculum/" />
+          <link rel="amphtml" href="https://ceorockford-schools-slot.pages.dev/" />
+		  <link rel="alternate" href="https://ceorockford-schools-slot.pages.dev/" />
+		  <link rel="alternate" hreflang="id-id" href="https://ceorockford-schools-slot.pages.dev/" />
+		  <link rel="alternate" hreflang="id" href="https://ceorockford-schools-slot.pages.dev/"/>
+		  <link rel="alternate" hreflang="en" href="https://ceorockford-schools-slot.pages.dev/" />
+		  <link rel="alternate" hreflang="x-default" href="https://ceorockford-schools-slot.pages.dev/" />
           <link rel="preload" href="https://assets.asosservices.com/asos-ui/manifest/windowManifest.js" as="script" />
           <script src="https://assets.asosservices.com/sitechromepublisher/client.newrelicclient.4db16681eb58c2980a3a.js"></script>
           <link rel="preload" href="https://assets.asosservices.com/fonts/futura-pt/book.1bb391ee.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
@@ -59,10 +59,10 @@
                     },
                     "sku": "JOHORTOTO",
                     "mpn": "JOHORTOTO",
-                    "url": "https://sementara-aja/",
+                    "url": "https://www.ceorockford.org/curriculum/",
                     "offers": {
                          "@type": "Offer",
-                         "url": "https://sementara-aja/",
+                         "url": "https://www.ceorockford.org/curriculum/",
                          "priceCurrency": "USD",
                          "price": "10.00",
                          "priceValidUntil": "2025-12-25",
@@ -111,42 +111,42 @@
                          "@type": "ListItem",
                          "position": 1,
                          "name": "JOHORTOTO",
-                         "item": "https://sementara-aja/"
+                         "item": "https://www.ceorockford.org/curriculum/"
                     }, {
                          "@type": "ListItem",
                          "position": 2,
                          "name": "SLOT GACOR",
-                         "item": "https://sementara-aja/"
+                         "item": "https://www.ceorockford.org/curriculum/"
                     }, {
                          "@type": "ListItem",
                          "position": 3,
                          "name": "TOTO SLOT",
-                         "item": "https://sementara-aja/"
+                         "item": "https://www.ceorockford.org/curriculum/"
                     }, {
                          "@type": "ListItem",
                          "position": 4,
                          "name": "TOTO 4D",
-                         "item": "https://sementara-aja/"
+                         "item": "https://www.ceorockford.org/curriculum/"
                     }, {
                          "@type": "ListItem",
                          "position": 5,
                          "name": "SLOT GACOR SLOT",
-                         "item": "https://sementara-aja/"
+                         "item": "https://www.ceorockford.org/curriculum/"
                     }, {
                          "@type": "ListItem",
                          "position": 6,
                          "name": "SLOT GACOR 4D",
-                         "item": "https://sementara-aja/"
+                         "item": "https://www.ceorockford.org/curriculum/"
                     }, {
                          "@type": "ListItem",
                          "position": 7,
                          "name": "LINK SLOT GACOR",
-                         "item": "https://sementara-aja/"
+                         "item": "https://www.ceorockford.org/curriculum/"
                     }, {
                          "@type": "ListItem",
                          "position": 8,
                          "name": "JOHORTOTO: Sensasi Jackpot di Situs Slot Gacor slot777 Server Jepang Terbaru Hari ini",
-                         "item": "https://sementara-aja/"
+                         "item": "https://www.ceorockford.org/curriculum/"
                     }]
                }
           </script>
@@ -211,7 +211,7 @@
                     "@context": "https://schema.org",
                     "@type": "Organization",
                     "name": "JOHORTOTO",
-                    "url": "https://sementara-aja/",
+                    "url": "https://www.ceorockford.org/curriculum/",
                     "logo": "https://imgjohor.io/2026/11/21/logo.gif",
                     "sameAs": ["https://www.facebook.com/JOHORTOTO", "https://twitter.com/JOHORTOTO", "https://www.instagram.com/JOHORTOTO"],
                     "contactPoint": {
@@ -231,7 +231,7 @@
                          "@type": "ListItem",
                          "position": 1,
                          "name": "JOHORTOTO",
-                         "item": "https://sementara-aja/"
+                         "item": "https://www.ceorockford.org/curriculum/"
                     }]
                }
           </script>
@@ -240,27 +240,27 @@
                     "@context": "https://schema.org",
                     "@graph": [{
                          "@type": "Organization",
-                         "@id": "https://sementara-aja/#org",
+                         "@id": "https://www.ceorockford.org/curriculum/#org",
                          "name": "JOHORTOTO",
-                         "url": "https://sementara-aja/",
+                         "url": "https://www.ceorockford.org/curriculum/",
                          "logo": "https://imgjohor.io/2026/11/21/jackpot-slot777.png"
                     }, {
                          "@type": "WebSite",
-                         "@id": "https://sementara-aja/#website",
-                         "url": "https://sementara-aja/",
+                         "@id": "https://www.ceorockford.org/curriculum/#website",
+                         "url": "https://www.ceorockford.org/curriculum/",
                          "name": "JOHORTOTO",
                          "publisher": {
-                              "@id": "https://sementara-aja/#org"
+                              "@id": "https://www.ceorockford.org/curriculum/#org"
                          },
                          "inLanguage": "id-ID",
                          "potentialAction": {
                               "@type": "SearchAction",
-                              "target": "https://sementara-aja/?s={search_term_string}",
+                              "target": "https://www.ceorockford.org/curriculum/?s={search_term_string}",
                               "query-input": "required name=search_term_string"
                          }
                     }, {
                          "@type": "SoftwareApplication",
-                         "@id": "https://sementara-aja/#app",
+                         "@id": "https://www.ceorockford.org/curriculum/#app",
                          "name": "JOHORTOTO",
                          "applicationCategory": "GameApplication",
                          "operatingSystem": "Android, iOS, Windows",
@@ -284,12 +284,12 @@
           <link href="https://assets.asosservices.com/sitechromepublisher/vendors.2bd15dd0514c602d0c5b.css" rel="stylesheet" />
           <link href="https://assets.asosservices.com/sitechromepublisher/client.sitechrome.styles.855e6a42bd2bf7e2485b.css" rel="stylesheet" />
           <link rel="stylesheet" href="https://www.asos.com/assets/uilib/content-ui-library-5.0.0-a48f971c-73.css" />
-          <link rel="alternate" hreflang="x-default" href="https://sementara-aja/">
+          <link rel="alternate" hreflang="x-default" href="https://www.ceorockford.org/curriculum/">
           <meta property="og:type" content="website" />
           <meta property="og:site_name" content="JOHORTOTO" />
           <meta property="og:image" content="https://imgjohor.io/2026/11/21/jackpot-slot777.png" />
           <meta property="og:title" content="JOHORTOTO: Sensasi Jackpot di Situs Slot Gacor slot777 Server Jepang Terbaru Hari ini" />
-          <meta property="og:url" content="https://sementara-aja/" />
+          <meta property="og:url" content="https://www.ceorockford.org/curriculum/" />
           <meta property="og:description" content="Rasakan sensasi jackpot di JOHORTOTO, situs slot gacor dengan slot777 server Jepang terbaru hari ini. Main sekarang dan raih kemenangan besar." />
           <meta property="twitter:card" content="summary" />
           <meta property="twitter:site" content="@JOHORTOTO" />
@@ -484,7 +484,7 @@
                                    <div class="m8VFiIf">
                                         <ul class="myUaKmo">
                                              <li>
-                                                  <a href="https://sementara-aja/" data-testid="help" class="R2BDZ6J TYb4J9A">Help &amp; FAQs</a>
+                                                  <a href="https://www.ceorockford.org/curriculum/" data-testid="help" class="R2BDZ6J TYb4J9A">Help &amp; FAQs</a>
                                              </li>
                                              <li>
                                                   <div class="RxHz4Yh" data-testid="country-selector">
@@ -504,7 +504,7 @@
                                                        <button class="btUA6FL" aria-label="Open navigation menu" data-testid="burger-menu-button">
                                                             <span class="BKBoO9a TYb4J9A c_IO2I_ AYL96eR JpgornA isI7xiu"></span>
                                                        </button>
-                                                       <a class="afrMdWS TYb4J9A" href="https://sementara-aja/" data-testid="asoslogo">
+                                                       <a class="afrMdWS TYb4J9A" href="https://www.ceorockford.org/curriculum/" data-testid="asoslogo">
                                                             <img alt="JOHORTOTO LOGO" src="https://imgjohor.io/2026/11/21/logo.gif" class="strf" />
                                                        </a>
                                                   </div>
@@ -1255,7 +1255,7 @@
                                              </div>
                                              <div class="lp-article"> Rasakan sensasi jackpot di JOHORTOTO, situs slot gacor dengan slot777 server Jepang terbaru hari ini. Main sekarang dan raih kemenangan besar. </div>
                                              <div class="lp-cta-bottom">
-                                                  <a href="https://ganti-aja/">
+                                                  <a href="https://ceorockford-schools-slot.pages.dev/">
                                                        <img src="https://imgjohor.io/2026/11/21/logo.gif" alt="Daftar Sekarang">
                                                   </a>
                                              </div>
@@ -1280,21 +1280,21 @@
                                                   </div>
                                                   <br>
                                                   <p class="lp-subtext">
-    <a style="color: #ffbf00; font-weight:700;" href="https://sementara-aja/">JOHORTOTO</a> menjadi satu nama yang dicari dalam pembahasan situs slot gacor hari ini, terutama oleh pengguna yang ingin merasakan sensasi jackpot melalui <a style="color: #ffbf00; font-weight:700;" href="https://sementara-aja/">slot777 server Jepang</a> terbaru. Dengan kebutuhan pengguna yang semakin beragam, JOHORTOTO mengutamakan penyajian informasi yang jelas, navigasi sederhana, serta pengalaman menjelajah yang nyaman melalui perangkat desktop maupun smartphone.
+    <a style="color: #ffbf00; font-weight:700;" href="https://www.ceorockford.org/curriculum/">JOHORTOTO</a> menjadi satu nama yang dicari dalam pembahasan situs slot gacor hari ini, terutama oleh pengguna yang ingin merasakan sensasi jackpot melalui <a style="color: #ffbf00; font-weight:700;" href="https://www.ceorockford.org/curriculum/">slot777 server Jepang</a> terbaru. Dengan kebutuhan pengguna yang semakin beragam, JOHORTOTO mengutamakan penyajian informasi yang jelas, navigasi sederhana, serta pengalaman menjelajah yang nyaman melalui perangkat desktop maupun smartphone.
 </p><br>
 
 <p class="lp-subtext">
-    Pencarian  <a style="color: #ffbf00; font-weight:700;" href="https://sementara-aja/">JOHORTOTO LOGIN</a> tidak hanya berkaitan dengan halaman masuk, tetapi juga kebutuhan memastikan alamat situs yang benar, memahami prosedur akses, dan mengenali informasi permainan yang tersedia. Berbagai istilah seperti slot gacor hari ini, slot777 server Jepang, slot online terbaru, dan maxwin sering muncul dalam pencarian pengguna. Karena itu, penjelasan mengenai mekanisme permainan, fitur bonus, serta ketentuan hadiah menjadi bagian penting agar pembaca memperoleh informasi yang relevan.
+    Pencarian  <a style="color: #ffbf00; font-weight:700;" href="https://www.ceorockford.org/curriculum/">JOHORTOTO LOGIN</a> tidak hanya berkaitan dengan halaman masuk, tetapi juga kebutuhan memastikan alamat situs yang benar, memahami prosedur akses, dan mengenali informasi permainan yang tersedia. Berbagai istilah seperti slot gacor hari ini, slot777 server Jepang, slot online terbaru, dan maxwin sering muncul dalam pencarian pengguna. Karena itu, penjelasan mengenai mekanisme permainan, fitur bonus, serta ketentuan hadiah menjadi bagian penting agar pembaca memperoleh informasi yang relevan.
 </p><br>
 
 <p class="lp-subtext">
-    Di balik popularitas istilah  <a style="color: #ffbf00; font-weight:700;" href="https://sementara-aja/">slot gacor dan gampang jackpot</a>, setiap hasil putaran tetap ditentukan oleh mekanisme permainan yang berlaku. Tidak ada pola maupun waktu tertentu yang dapat menjamin kemenangan. Melalui pembahasan yang terarah, JOHORTOTO menempatkan kemudahan akses, kejelasan informasi, dan pemahaman risiko sebagai bagian penting dalam mengenal hiburan slot online pada tahun 2026. Main sekarang di JOHORTOTO dan rasakan sendiri sensasi jackpot di situs slot gacor dengan slot777 server Jepang terbaru hari ini.
+    Di balik popularitas istilah  <a style="color: #ffbf00; font-weight:700;" href="https://www.ceorockford.org/curriculum/">slot gacor dan gampang jackpot</a>, setiap hasil putaran tetap ditentukan oleh mekanisme permainan yang berlaku. Tidak ada pola maupun waktu tertentu yang dapat menjamin kemenangan. Melalui pembahasan yang terarah, JOHORTOTO menempatkan kemudahan akses, kejelasan informasi, dan pemahaman risiko sebagai bagian penting dalam mengenal hiburan slot online pada tahun 2026. Main sekarang di JOHORTOTO dan rasakan sendiri sensasi jackpot di situs slot gacor dengan slot777 server Jepang terbaru hari ini.
 </p>
                                                  
                                              </div>
                                              <div class="lp-buttons">
-                                                  <a href="https://ganti-aja/" class="btn btn-login">LOGIN</a>
-                                                  <a href="https://ganti-aja/" class="btn btn-daftar">DAFTAR</a>
+                                                  <a href="https://ceorockford-schools-slot.pages.dev/" class="btn btn-login">LOGIN</a>
+                                                  <a href="https://ceorockford-schools-slot.pages.dev/" class="btn btn-daftar">DAFTAR</a>
                                              </div>
                                              <div style="
   max-width: 850px;
@@ -1705,10 +1705,10 @@
                                    }
                               </style>
                               <div class="hero__buttons">
-                                   <a class="hero__cta js-buttonHover" href="https://ganti-aja/" target="_self" data-analytics-id="row-hero-shopwomens">
+                                   <a class="hero__cta js-buttonHover" href="https://ceorockford-schools-slot.pages.dev/" target="_self" data-analytics-id="row-hero-shopwomens">
                                         <span class="cta__inner">DAFTAR SEKARANG</span>
                                    </a>
-                                   <a class="hero__cta js-buttonHover" href="https://ganti-aja/" target="_self" data-analytics-id="row-hero-shopmens">
+                                   <a class="hero__cta js-buttonHover" href="https://ceorockford-schools-slot.pages.dev/" target="_self" data-analytics-id="row-hero-shopmens">
                                         <span class="cta__inner">LOGIN SEKARANG</span>
                                    </a>
                               </div>
@@ -1816,16 +1816,16 @@
                                              <h2 class="eGtGJSX fVdHxMU">Help &amp; Information</h2>
                                              <ul>
                                                   <li>
-                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://sementara-aja/">Help</a>
+                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://www.ceorockford.org/curriculum/">Help</a>
                                                   </li>
                                                   <li>
-                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://sementara-aja/">SLOT 4D</a>
+                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://www.ceorockford.org/curriculum/">SLOT 4D</a>
                                                   </li>
                                                   <li>
-                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://sementara-aja/">Delivery &amp; returns</a>
+                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://www.ceorockford.org/curriculum/">Delivery &amp; returns</a>
                                                   </li>
                                                   <li>
-                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://sementara-aja/">Sitemap</a>
+                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://www.ceorockford.org/curriculum/">Sitemap</a>
                                                   </li>
                                              </ul>
                                         </section>
@@ -1833,16 +1833,16 @@
                                              <h2 class="eGtGJSX fVdHxMU">About JOHORTOTO</h2>
                                              <ul>
                                                   <li>
-                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://sementara-aja/">Pasaran Terlengkap</a>
+                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://www.ceorockford.org/curriculum/">Pasaran Terlengkap</a>
                                                   </li>
                                                   <li>
-                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://sementara-aja/" target="_blank">Akses Login Terpercaya</a>
+                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://www.ceorockford.org/curriculum/" target="_blank">Akses Login Terpercaya</a>
                                                   </li>
                                                   <li>
-                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://sementara-aja/" target="_blank">Deposit Tercepat</a>
+                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://www.ceorockford.org/curriculum/" target="_blank">Deposit Tercepat</a>
                                                   </li>
                                                   <li>
-                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://sementara-aja/" target="_blank">Admin 24 Jam Nonstop</a>
+                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://www.ceorockford.org/curriculum/" target="_blank">Admin 24 Jam Nonstop</a>
                                                   </li>
                                              </ul>
                                         </section>
@@ -1850,16 +1850,16 @@
                                              <h2 class="eGtGJSX fVdHxMU">More From ASOS</h2>
                                              <ul>
                                                   <li>
-                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://sementara-aja/">Mobile and ASOS apps</a>
+                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://www.ceorockford.org/curriculum/">Mobile and ASOS apps</a>
                                                   </li>
                                                   <li>
-                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://sementara-aja/">Gift vouchers</a>
+                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://www.ceorockford.org/curriculum/">Gift vouchers</a>
                                                   </li>
                                                   <li>
-                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://sementara-aja/">Black Friday</a>
+                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://www.ceorockford.org/curriculum/">Black Friday</a>
                                                   </li>
                                                   <li>
-                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://sementara-aja/" target="_blank">ASOS x Thrift+</a>
+                                                       <a class="XWRSfDm fVdHxMU TYb4J9A" href="https://www.ceorockford.org/curriculum/" target="_blank">ASOS x Thrift+</a>
                                                   </li>
                                              </ul>
                                         </section>
@@ -1939,15 +1939,15 @@
                                    <p class="p4s35il">© </p>
                                    <ul class="zikOExT">
                                         <li>
-                                             <a href="https://sementara-aja/">Privacy &amp; Cookies</a>
+                                             <a href="https://www.ceorockford.org/curriculum/">Privacy &amp; Cookies</a>
                                              <span class="E1LOrCT" aria-hidden="true"></span>
                                         </li>
                                         <li>
-                                             <a href="https://sementara-aja/">Ts&amp;Cs</a>
+                                             <a href="https://www.ceorockford.org/curriculum/">Ts&amp;Cs</a>
                                              <span class="E1LOrCT" aria-hidden="true"></span>
                                         </li>
                                         <li class="RgP909u">
-                                             <a href="https://sementara-aja/">Accessibility</a>
+                                             <a href="https://www.ceorockford.org/curriculum/">Accessibility</a>
                                         </li>
                                    </ul>
                               </div>
@@ -1968,34 +1968,34 @@
           </div>
           <script type="application/json" data-id="window.asos.siteChrome._config">
                {
-                    "MY_DOMAIN_URL": "https://sementara-aja/",
+                    "MY_DOMAIN_URL": "https://www.ceorockford.org/curriculum/",
                     "NAVIGATION_SUBTREE_API_PATH": "/fashion/navigation/v2/tree/navigation",
-                    "MY_ACCOUNT_BASE_URL": "https://sementara-aja//my-account",
+                    "MY_ACCOUNT_BASE_URL": "https://www.ceorockford.org/curriculum//my-account",
                     "NAVIGATION_API_PATH": "/fashion/navigation/v2/tree",
-                    "API_BASE": "https://sementara-aja/",
+                    "API_BASE": "https://www.ceorockford.org/curriculum/",
                     "ADOBE_ANALYTICS_ACCOUNT": "asoscomprod",
                     "APP_DOWNLOAD_PLAY_STORE_URI": "https://c00.adobe.com/b5c2c04c-c0b3-4dbe-b038-e1f9e2c2c0eb/5085h1iw/g/com.asos.app",
                     "RELATIVE_API_BASE": "/api",
                     "CONTENT_API_PATH": "/api/fashion/contentapi/v2/components/",
                     "APP_DOWNLOAD_APP_STORE_URI": "https://c00.adobe.com/v2/gb/f8077542-cbcf-49fe-9d22-48f32990573d/urpq1sgm/i/457876088",
-                    "OPTIMIZELY_TEMPLATE_URL": "https://sementara-aja/",
+                    "OPTIMIZELY_TEMPLATE_URL": "https://www.ceorockford.org/curriculum/",
                     "LOYALTY_SEGMENT_ID": "22bbe4e2-9b91-4d2a-b11d-e05ba94fdd0b",
                     "OPTIMIZELY_SDK_KEY": "ShK2dzd7JQhz8jETx1Fkb",
-                    "IDENTITY_SDK_AUTH_HOST": "https://sementara-aja//identity",
+                    "IDENTITY_SDK_AUTH_HOST": "https://www.ceorockford.org/curriculum//identity",
                     "SDK_BAG_VERSION": "9.0.0",
                     "SECURE_SCRIPT_CONTAINER_DOMAIN": "www.asosglobal.com"
                }
           </script>
           <div class="daftarku-fixed-footer">
-               <a href="https://ganti-aja/" rel="nofollow noopener" target="_blank">
+               <a href="https://ceorockford-schools-slot.pages.dev/" rel="nofollow noopener" target="_blank">
                     <img layout="intrinsic" height="20px" width="20px" src="https://imgjohor.io/2026/11/21/icon.png" alt="PROMOSI"> PROMO </a>
-               <a href="https://ganti-aja/" rel="nofollow noopener" target="_blank">
+               <a href="https://ceorockford-schools-slot.pages.dev/" rel="nofollow noopener" target="_blank">
                     <img layout="intrinsic" height="20px" width="20px" src="https://imgjohor.io/2026/11/21/icon.png" alt="LOGIN"> LOGIN </a>
-               <a href="https://ganti-aja/" rel="nofollow noopener" target="_blank" class="tada">
+               <a href="https://ceorockford-schools-slot.pages.dev/" rel="nofollow noopener" target="_blank" class="tada">
                     <img layout="intrinsic" height="20px" width="20px" src="https://imgjohor.io/2026/11/21/icon.png" alt="DAFTAR"> DAFTAR </a>
-               <a href="https://ganti-aja/" rel="nofollow noopener" target="_blank">
+               <a href="https://ceorockford-schools-slot.pages.dev/" rel="nofollow noopener" target="_blank">
                     <img layout="intrinsic" height="20px" width="20px" src="https://imgjohor.io/2026/11/21/icon.png" alt="PREDIKSI"> PREDIKSI </a>
-               <a href="https://ganti-aja/" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
+               <a href="https://ceorockford-schools-slot.pages.dev/" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
                     <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://imgjohor.io/2026/11/21/icon.png" alt="Live Chat"> Live Chat </a>
           </div>
           <script>
@@ -2017,7 +2017,7 @@
                          "tree": [{
                               "alias": "MW",
                               "label": "Men",
-                              "link": "https://sementara-aja/",
+                              "link": "https://www.ceorockford.org/curriculum/",
                               "items": [{
                                    "id": "ae28af2b-e3ca-4f2f-a559-9a976a0812d4",
                                    "alias": null,
@@ -2049,7 +2049,7 @@
                                         "alias": null,
                                         "label": "Home",
                                         "subtitle": null,
-                                        "link": "https://sementara-aja/",
+                                        "link": "https://www.ceorockford.org/curriculum/",
                                         "linkType": "internal",
                                         "type": "link",
                                         "labelPath": [null, "Men", "Home", "Home"],
@@ -2155,7 +2155,7 @@
                                         "alias": null,
                                         "label": "BF Warm Up - BH - Thursday - 25 Off Gifting & F&B",
                                         "subtitle": null,
-                                        "link": "https://sementara-aja/commercial-edits/asos-campaign-38/cat/?cid=52078",
+                                        "link": "https://www.ceorockford.org/curriculum/commercial-edits/asos-campaign-38/cat/?cid=52078",
                                         "linkType": "category",
                                         "type": "link",
                                         "labelPath": [null, "Men", "App and Mobile Top Level", "BF Warm Up - BH - Thursday - 25 Off Gifting & F&B"],
@@ -2180,7 +2180,7 @@
                                         "alias": null,
                                         "label": "Get up to 30% off!",
                                         "subtitle": null,
-                                        "link": "https://sementara-aja/",
+                                        "link": "https://www.ceorockford.org/curriculum/",
                                         "linkType": "category",
                                         "type": "link",
                                         "labelPath": [null, "Men", "App and Mobile Top Level", "Get up to 30% off!"],
@@ -2611,7 +2611,7 @@
                                         "alias": "MW_GV",
                                         "label": "Gift Vouchers",
                                         "subtitle": null,
-                                        "link": "https://sementara-aja/",
+                                        "link": "https://www.ceorockford.org/curriculum/",
                                         "linkType": "internal",
                                         "type": "link",
                                         "labelPath": [null, "Men", "More ASOS", "Gift Vouchers"],
@@ -2636,7 +2636,7 @@
                                         "alias": "app_download",
                                         "label": "DOWNLOAD THE APP",
                                         "subtitle": null,
-                                        "link": "https://sementara-aja/",
+                                        "link": "https://www.ceorockford.org/curriculum/",
                                         "linkType": "internal",
                                         "type": "link",
                                         "labelPath": [null, "Men", "More ASOS", "DOWNLOAD THE APP"],
@@ -2667,7 +2667,7 @@
                          }, {
                               "alias": "WW",
                               "label": "Women",
-                              "link": "https://sementara-aja/",
+                              "link": "https://www.ceorockford.org/curriculum/",
                               "items": [{
                                    "id": "619609e1-8076-4026-a161-83d99eb9edba",
                                    "alias": null,
@@ -2699,7 +2699,7 @@
                                         "alias": null,
                                         "label": "Home",
                                         "subtitle": null,
-                                        "link": "https://sementara-aja/",
+                                        "link": "https://www.ceorockford.org/curriculum/",
                                         "linkType": "internal",
                                         "type": "link",
                                         "labelPath": [null, "Women", "Home", "Home"],
@@ -2805,7 +2805,7 @@
                                         "alias": null,
                                         "label": "BF Warm Up - BH - Thursday - 25 Off Gifting & F&B",
                                         "subtitle": null,
-                                        "link": "https://sementara-aja/",
+                                        "link": "https://www.ceorockford.org/curriculum/",
                                         "linkType": "category",
                                         "type": "link",
                                         "labelPath": [null, "Women", "App and Mobile Top Level", "BF Warm Up - BH - Thursday - 25 Off Gifting & F&B"],
@@ -2830,7 +2830,7 @@
                                         "alias": null,
                                         "label": "Get up to 30% off!",
                                         "subtitle": null,
-                                        "link": "https://sementara-aja/",
+                                        "link": "https://www.ceorockford.org/curriculum/",
                                         "linkType": "category",
                                         "type": "link",
                                         "labelPath": [null, "Women", "App and Mobile Top Level", "Get up to 30% off!"],
@@ -2982,7 +2982,7 @@
                                         "alias": null,
                                         "label": "Shoes",
                                         "subtitle": null,
-                                        "link": "https://sementara-aja/",
+                                        "link": "https://www.ceorockford.org/curriculum/",
                                         "linkType": null,
                                         "type": "link",
                                         "labelPath": [null, "Women", "Categories", "Shoes"],
@@ -3261,7 +3261,7 @@
                                         "alias": "WW_GV",
                                         "label": "Gift Vouchers",
                                         "subtitle": null,
-                                        "link": "https://sementara-aja/",
+                                        "link": "https://www.ceorockford.org/curriculum/",
                                         "linkType": "internal",
                                         "type": "link",
                                         "labelPath": [null, "Women", "More ASOS", "Gift Vouchers"],
@@ -3286,7 +3286,7 @@
                                         "alias": "app_download",
                                         "label": "DOWNLOAD THE APP",
                                         "subtitle": null,
-                                        "link": "https://sementara-aja/",
+                                        "link": "https://www.ceorockford.org/curriculum/",
                                         "linkType": "internal",
                                         "type": "link",
                                         "labelPath": [null, "Women", "More ASOS", "DOWNLOAD THE APP"],
@@ -3328,7 +3328,7 @@
                                    "alias": null,
                                    "label": "SLOT GACOR",
                                    "subtitle": null,
-                                   "link": "https://sementara-aja/",
+                                   "link": "https://www.ceorockford.org/curriculum/",
                                    "linkType": "internal",
                                    "type": "link",
                                    "labelPath": [null, "KEYWORD POPULER", "SLOT GACOR"],
@@ -3353,7 +3353,7 @@
                                    "alias": "track_my_order",
                                    "label": "SLOT GACOR SLOT",
                                    "subtitle": null,
-                                   "link": "https://sementara-aja//my-account/orders",
+                                   "link": "https://www.ceorockford.org/curriculum//my-account/orders",
                                    "linkType": "internal",
                                    "type": "link",
                                    "labelPath": [null, "KEYWORD POPULER", "SLOT GACOR SLOT"],
@@ -3378,7 +3378,7 @@
                                    "alias": null,
                                    "label": "SLOT GACOR 4D",
                                    "subtitle": null,
-                                   "link": "https://sementara-aja/",
+                                   "link": "https://www.ceorockford.org/curriculum/",
                                    "linkType": "internal",
                                    "type": "link",
                                    "labelPath": [null, "KEYWORD POPULER", "SLOT GACOR 4D"],
@@ -3403,7 +3403,7 @@
                                    "alias": null,
                                    "label": "LINK SLOT GACOR",
                                    "subtitle": null,
-                                   "link": "https://sementara-aja/",
+                                   "link": "https://www.ceorockford.org/curriculum/",
                                    "linkType": "internal",
                                    "type": "link",
                                    "labelPath": [null, "KEYWORD POPULER", "LINK SLOT GACOR"],
@@ -3437,7 +3437,7 @@
                                    "alias": null,
                                    "label": "Provider Terlengkap",
                                    "subtitle": null,
-                                   "link": "https://sementara-aja/",
+                                   "link": "https://www.ceorockford.org/curriculum/",
                                    "linkType": "internal",
                                    "type": "link",
                                    "labelPath": [null, "About JOHORTOTO", "Provider Terlengkap"],
@@ -3462,7 +3462,7 @@
                                    "alias": null,
                                    "label": "Akses Login Terpercaya",
                                    "subtitle": null,
-                                   "link": "https://sementara-aja/",
+                                   "link": "https://www.ceorockford.org/curriculum/",
                                    "linkType": "external",
                                    "type": "link",
                                    "labelPath": [null, "About JOHORTOTO", "Akses Login Terpercaya"],
@@ -3487,7 +3487,7 @@
                                    "alias": null,
                                    "label": "Deposit Tercepat",
                                    "subtitle": null,
-                                   "link": "https://sementara-aja/",
+                                   "link": "https://www.ceorockford.org/curriculum/",
                                    "linkType": "external",
                                    "type": "link",
                                    "labelPath": [null, "About JOHORTOTO", "Deposit Tercepat"],
@@ -3512,7 +3512,7 @@
                                    "alias": null,
                                    "label": "Admin 24 Jam Nonstop",
                                    "subtitle": null,
-                                   "link": "https://sementara-aja/",
+                                   "link": "https://www.ceorockford.org/curriculum/",
                                    "linkType": "external",
                                    "type": "link",
                                    "labelPath": [null, "About JOHORTOTO", "Admin 24 Jam Nonstop"],
@@ -3546,7 +3546,7 @@
                                    "alias": null,
                                    "label": "Mobile and ASOS apps",
                                    "subtitle": null,
-                                   "link": "https://sementara-aja/",
+                                   "link": "https://www.ceorockford.org/curriculum/",
                                    "linkType": "internal",
                                    "type": "link",
                                    "labelPath": [null, "More From ASOS", "Mobile and ASOS apps"],
@@ -3571,7 +3571,7 @@
                                    "alias": null,
                                    "label": "Gift vouchers",
                                    "subtitle": null,
-                                   "link": "https://sementara-aja/",
+                                   "link": "https://www.ceorockford.org/curriculum/",
                                    "linkType": "internal",
                                    "type": "link",
                                    "labelPath": [null, "More From ASOS", "Gift vouchers"],
@@ -3596,7 +3596,7 @@
                                    "alias": null,
                                    "label": "Black Friday",
                                    "subtitle": null,
-                                   "link": "https://sementara-aja/",
+                                   "link": "https://www.ceorockford.org/curriculum/",
                                    "linkType": "internal",
                                    "type": "link",
                                    "labelPath": [null, "More From ASOS", "Black Friday"],
@@ -3688,9 +3688,9 @@
                               "name": "visaelectron"
                          }],
                          "storeUrls": {
-                              "default": "https://sementara-aja/",
-                              "women": "https://sementara-aja/",
-                              "men": "https://sementara-aja/",
+                              "default": "https://www.ceorockford.org/curriculum/",
+                              "women": "https://www.ceorockford.org/curriculum/",
+                              "men": "https://www.ceorockford.org/curriculum/",
                               "secure": "https://secure.asos.com/"
                          },
                          "socialLinks": {
@@ -3839,52 +3839,52 @@
                          },
                          "otherSites": [{
                               "countryCode": "ES",
-                              "url": "https://sementara-aja/endorsements",
+                              "url": "https://www.ceorockford.org/curriculum/endorsements",
                               "imageUrl": "https://assets.asosservices.com/storesa/images/flags/es.png",
                               "name": "Spain"
                          }, {
                               "countryCode": "DE",
-                              "url": "https://sementara-aja/endorsements",
+                              "url": "https://www.ceorockford.org/curriculum/endorsements",
                               "imageUrl": "https://assets.asosservices.com/storesa/images/flags/de.png",
                               "name": "Germany"
                          }, {
                               "countryCode": "AU",
-                              "url": "https://sementara-aja/endorsements",
+                              "url": "https://www.ceorockford.org/curriculum/endorsements",
                               "imageUrl": "https://assets.asosservices.com/storesa/images/flags/au.png",
                               "name": "Australia"
                          }, {
                               "countryCode": "FR",
-                              "url": "https://sementara-aja/endorsements",
+                              "url": "https://www.ceorockford.org/curriculum/endorsements",
                               "imageUrl": "https://assets.asosservices.com/storesa/images/flags/fr.png",
                               "name": "France"
                          }, {
                               "countryCode": "DK",
-                              "url": "https://sementara-aja/endorsements",
+                              "url": "https://www.ceorockford.org/curriculum/endorsements",
                               "imageUrl": "https://assets.asosservices.com/storesa/images/flags/dk.png",
                               "name": "Denmark"
                          }, {
                               "countryCode": "IT",
-                              "url": "https://sementara-aja/endorsements",
+                              "url": "https://www.ceorockford.org/curriculum/endorsements",
                               "imageUrl": "https://assets.asosservices.com/storesa/images/flags/it.png",
                               "name": "Italy"
                          }, {
                               "countryCode": "NL",
-                              "url": "https://sementara-aja/endorsements",
+                              "url": "https://www.ceorockford.org/curriculum/endorsements",
                               "imageUrl": "https://assets.asosservices.com/storesa/images/flags/nl.png",
                               "name": "Netherlands"
                          }, {
                               "countryCode": "PL",
-                              "url": "https://sementara-aja/endorsements",
+                              "url": "https://www.ceorockford.org/curriculum/endorsements",
                               "imageUrl": "https://assets.asosservices.com/storesa/images/flags/pl.png",
                               "name": "Poland"
                          }, {
                               "countryCode": "US",
-                              "url": "https://sementara-aja/endorsements",
+                              "url": "https://www.ceorockford.org/curriculum/endorsements",
                               "imageUrl": "https://assets.asosservices.com/storesa/images/flags/us.png",
                               "name": "United States"
                          }, {
                               "countryCode": "SE",
-                              "url": "https://sementara-aja/endorsements",
+                              "url": "https://www.ceorockford.org/curriculum/endorsements",
                               "imageUrl": "https://assets.asosservices.com/storesa/images/flags/se.png",
                               "name": "Sweden"
                          }]
